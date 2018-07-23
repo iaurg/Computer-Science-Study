@@ -12,4 +12,6 @@ Start:
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 6/Loops
 
-http://jstherightway.org/pt-br/
+Fonts/Content/Training:
+- http://jstherightway.org/pt-br/
+- https://app.codesignal.com/
