@@ -5,7 +5,7 @@ Reading/Coursing:
 
 Start:
 
-- Coursing The Complete Web Developer in 2018: Zero to Mastery / 118 of 263 items complete - Paused this.
+- Coursing The Complete Web Developer in 2018: Zero to Mastery / 146 of 263 items complete - Here again!
 - Mastering my skill in learn with: https://www.coursera.org/learn/learning-how-to-learn - Completed
 - Mastery: The Keys to Success and Long-Term Fulfillment / Pag: 99
 - Following https://github.com/Italox/traduz-ai/blob/master/javascript/001-como-aprender-js-corretamente.md - After I seeing i'm not too good in "The Complete Web Developer" advanced section, i started again in javascript with another eyes and instructions to see the real base of language and understand the meaning of this. ->
