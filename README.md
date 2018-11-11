@@ -23,17 +23,17 @@ Fonts/Content/Training:
 
 Next study:
 
-https://github.com/Italox/js-the-right-way
-https://github.com/Italox/You-Dont-Know-JS
-https://github.com/Italox/33-js-concepts
-Redux e Redux Saga
-Axios
-Styled Components
-Test Unit and Functional Teste - Mocha e Chai - no Node
-Test Unit and Functional - Jest - no React e React Native
-Deploy node e react
-Engine no Node para configuração de portas
-GraphQL
+- https://github.com/Italox/js-the-right-way
+- https://github.com/Italox/You-Dont-Know-JS
+- https://github.com/Italox/33-js-concepts
+- Redux e Redux Saga
+- Axios
+- Styled Components
+- Test Unit and Functional Teste - Mocha e Chai - no Node
+- Test Unit and Functional - Jest - no React e React Native
+- Deploy node e react
+- Engine no Node para configuração de portas
+- GraphQL
 
 
 
