@@ -12,7 +12,7 @@ Start:
 - Following https://github.com/Italox/traduz-ai/blob/master/javascript/001-como-aprender-js-corretamente.md - After I seeing i'm not too good in "The Complete Web Developer" advanced section, i started again in javascript with another eyes and instructions to see the real base of language and understand the meaning of this. ->
 
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
-- Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 7/Iterators
+- Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
 - Eloquent Javascript / Pag: 78
 
 Fonts/Content/Training:
