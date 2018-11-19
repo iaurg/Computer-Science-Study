@@ -16,6 +16,16 @@ Start:
 - Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
 - Eloquent Javascript / Pag: 78
 
+Projects/training:
+
+- Rocketdevs - https://github.com/Italox/rocketseatdevs
+- Twitter copy - https://github.com/Italox/twitter-react
+- Javascript Starter - https://github.com/Italox/RocketSeat/tree/master/JS
+- Star Wars - https://github.com/Italox/star_wars
+- Background Generator - https://github.com/Italox/background-generator
+- Robofriends React App - https://github.com/Italox/Robofriends
+
+
 Fonts/Content/Training:
 - http://jstherightway.org/pt-br/
 - https://app.codesignal.com/
