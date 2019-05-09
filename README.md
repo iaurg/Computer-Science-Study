@@ -9,7 +9,7 @@ Start:
 - Mastering my skill in learn with: https://www.coursera.org/learn/learning-how-to-learn - **Finished!**
 - Go Week RocketSeat, created a twitter with react and react native https://github.com/Italox/twitter-react - **Finished!**
 - Rocketseat Javascript Starter - **Finished!**
-- Mastery: The Keys to Success and Long-Term Fulfillment / Pag: 99
+- Mastery: The Keys to Success and Long-Term Fulfillment / **Finished!**
 - Following https://github.com/Italox/traduz-ai/blob/master/javascript/001-como-aprender-js-corretamente.md - After I seeing i'm not too good in "The Complete Web Developer" advanced section, i started again in javascript with another eyes and instructions to see the real base of language and understand the meaning of this. ->
 
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
