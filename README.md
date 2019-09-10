@@ -16,6 +16,7 @@ Start:
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
 - Eloquent Javascript / Pag: 78
+- The Road to Learn React
 
 ## Projects/training:
 
