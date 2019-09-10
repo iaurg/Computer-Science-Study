@@ -1,7 +1,7 @@
 # Computer Programming Exercises
 Some exercises in my journey of computer science
 
-Reading/Coursing:
+## Reading/Coursing:
 
 Start:
 
@@ -17,7 +17,7 @@ Start:
 - Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
 - Eloquent Javascript / Pag: 78
 
-Projects/training:
+## Projects/training:
 
 - Rocketdevs - https://github.com/Italox/rocketseatdevs
 - Twitter copy - https://github.com/Italox/twitter-react
@@ -28,13 +28,13 @@ Projects/training:
 - Introduction in Computer Science with Python (USP) - https://github.com/Italox/ciencia-computacao-coursera
 
 
-Fonts/Content/Training:
+## Fonts/Content/Training:
 - http://jstherightway.org/pt-br/
 - https://app.codesignal.com/
 - http://stack.desenvolvedor.expert/
 - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#javascript
 
-Next study:
+## Next study:
 
 - https://github.com/Italox/js-the-right-way
 - https://github.com/Italox/You-Dont-Know-JS
