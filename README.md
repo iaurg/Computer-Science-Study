@@ -32,7 +32,7 @@ Start:
 - Structure and Interpretation of Computer Programs
 
 ### Extra
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application *Reading* 📖
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!**
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
 - The Road to Learn React
