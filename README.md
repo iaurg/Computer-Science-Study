@@ -25,6 +25,7 @@ Computer Science
 - Clean Code
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
+- Algoritmos e Estruturas de Dados Niklaus Wirth
 
 ### Extra
 - Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!**
