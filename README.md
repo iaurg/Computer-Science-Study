@@ -1,11 +1,6 @@
 # Studying in MOU (My Own University)
 Computer Science
 
-## Reading/Coursing:
-
-Start:
-- Following https://github.com/Italox/traduz-ai/blob/master/javascript/001-como-aprender-js-corretamente.md - After I seeing i'm not too good in "The Complete Web Developer" advanced section, i started again in javascript with another eyes and instructions to see the real base of language and understand the meaning of this. ->
-
 ## Courses
 ### Base
 - CS50's Introduction to Computer Science: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
