@@ -52,6 +52,7 @@ Computer Science
 - https://app.codesignal.com/
 - http://stack.desenvolvedor.expert/
 - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#javascript
+- https://github.com/akitaonrails/computer_languages_genealogy_graphs
 
 ## Next study:
 - Fundamentals of Computer Science
