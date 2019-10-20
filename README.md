@@ -34,6 +34,7 @@ Computer Science
 - The Road to Learn React
 - Rework **Finished!**
 - Mastery: The Keys to Success and Long-Term Fulfillment / **Finished!**
+- Ruby, aprenda a programar na linguagem mais divertida
 
 ## Projects/training:
 
