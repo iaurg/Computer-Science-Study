@@ -19,7 +19,7 @@ Computer Science
 ## Books
 
 ### Base
-- The Pragmatic Programmer *Reading* 📖
+- The Pragmatic Programmer *Reading* 📖 - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
@@ -32,7 +32,7 @@ Computer Science
 - Domain Driven Design
 
 ### Extra
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!**
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!** - [Summary](https://github.com/Italox/Getting-Real-Summary)
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
 - The Road to Learn React
