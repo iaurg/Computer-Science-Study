@@ -55,7 +55,8 @@ Computer Science
 - https://app.codesignal.com/
 - http://stack.desenvolvedor.expert/
 - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#javascript
-- https://github.com/akitaonrails/computer_languages_genealogy_graphs
+- https://github.com/akitaonrails/computer_languages_genealogy_graphs-
+- https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 ## Next study:
 - Fundamentals of Computer Science
@@ -68,7 +69,6 @@ Computer Science
 - Test Unit and Functional Teste - Mocha e Chai - no Node
 - Test Unit and Functional - Jest - no React e React Native
 - Deploy node e react **Finished!**
-- Engine no Node para configuração de portas
 - GraphQL
 
 Think and grow!
