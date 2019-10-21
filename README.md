@@ -26,6 +26,8 @@ Computer Science
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
 - Algoritmos e Estruturas de Dados Niklaus Wirth
+- Refactoring
+- Domain Driven Design
 
 ### Extra
 - Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!**
