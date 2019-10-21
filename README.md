@@ -21,6 +21,8 @@ Computer Science
 ### Base
 - The Pragmatic Programmer *Reading* 📖
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
+- Modern Operating Systems
+- Concepts, Techniques, and Models of Computer Programming
 - The Mythical Man-Month
 - Clean Code
 - Peopleware: Productive Projects and Teams
@@ -57,6 +59,8 @@ Computer Science
 - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#javascript
 - https://github.com/akitaonrails/computer_languages_genealogy_graphs-
 - https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+- https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming
+- https://en.wikipedia.org/wiki/Modern_Operating_Systems
 
 ## Next study:
 - Fundamentals of Computer Science
