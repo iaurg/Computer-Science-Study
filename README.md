@@ -1,4 +1,4 @@
-# Studying in MOU (My Own University)
+# Degree in MOU (My Own University)
 Computer Science
 
 ## Courses
@@ -61,6 +61,7 @@ Computer Science
 - https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 - https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming
 - https://en.wikipedia.org/wiki/Modern_Operating_Systems
+- https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
 
 ## Next study:
 - Fundamentals of Computer Science
