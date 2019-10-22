@@ -52,7 +52,7 @@ Computer Science
 - Introduction in Computer Science with Python (USP) - https://github.com/Italox/ciencia-computacao-coursera
 
 
-## Fonts/Content/Training:
+## Resource/Content/Training:
 - http://jstherightway.org/pt-br/
 - https://app.codesignal.com/
 - http://stack.desenvolvedor.expert/
