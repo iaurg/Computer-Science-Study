@@ -20,6 +20,7 @@ Computer Science
 
 ### Base
 - The Pragmatic Programmer *Reading* 📖 - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
+- Introduction to Algorithms (The MIT Press)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
@@ -62,6 +63,7 @@ Computer Science
 - https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming
 - https://en.wikipedia.org/wiki/Modern_Operating_Systems
 - https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
+- https://www.youtube.com/watch?v=HEaIsKm-pao
 
 ## Next study:
 - Fundamentals of Computer Science
