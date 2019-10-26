@@ -19,7 +19,7 @@ Computer Science
 ## Books
 
 ### Base
-- The Pragmatic Programmer *Reading* 📖 - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
+- The Pragmatic Programmer *Reading* 📖 - **Finished!** - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
 - Introduction to Algorithms (The MIT Press)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
