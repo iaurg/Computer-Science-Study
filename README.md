@@ -28,7 +28,7 @@ Computer Science
 - Clean Code
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
-- Algoritmos e Estruturas de Dados Niklaus Wirth
+- Algoritmos e Estruturas de Dados Niklaus Wirth - **Reading**
 - Refactoring
 - Domain Driven Design
 
