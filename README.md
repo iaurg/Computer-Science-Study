@@ -14,7 +14,7 @@ Computer Science
 - Mastering my skill in learning with: https://www.coursera.org/learn/learning-how-to-learn - **Finished!**
 - Rocketseat Javascript Starter - **Finished!**
 - The Complete Web Developer in 2018: Zero to Mastery / **Finished!**
-
+- Master Algorithms and Data Structure: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms - **Watching**
 
 ## Books
 
