@@ -1,5 +1,5 @@
 # Degree in MOU (My Own University)
-Computer Science
+Computer Science Degree
 
 ## Courses
 ### Base
