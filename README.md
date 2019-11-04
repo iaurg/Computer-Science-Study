@@ -3,7 +3,7 @@ Computer Science Degree
 
 ## Courses
 ### Base
-- CS50's Introduction to Computer Science: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
+- CS50's Introduction to Computer Science: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x - **Started**
 - MIT 6.0001 Introduction to Computer Science and Programming:https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
 - MIT 6.001 Structure and Interpretation of Computer Programs: https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090
 - Introduction in Computer Science with Python (USP) - https://bit.ly/2IIVuWe / **Finished!**
