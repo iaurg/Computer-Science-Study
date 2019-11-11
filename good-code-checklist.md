@@ -3,9 +3,9 @@
 From Andrei Neagoie's Master The Coding Interview: Data Structures + Algorithms
 The 3 pillars of good code:
 
-**1. Readable**
-**2. Time Complexity**
-**3. Space Complexity**
+**📖 1. Readable**
+**🕒 2. Time Complexity**
+**🚀 3. Space Complexity**
 
 ### What skills interviewer is looking for:
 
