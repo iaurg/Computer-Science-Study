@@ -36,6 +36,7 @@ Computer Science Degree
 - Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!** - [Summary](https://github.com/Italox/Getting-Real-Summary)
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
+- Javascript for impatient programmers - https://exploringjs.com/impatient-js/toc.html
 - The Road to Learn React
 - Rework **Finished!**
 - Mastery: The Keys to Success and Long-Term Fulfillment / **Finished!**
