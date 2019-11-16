@@ -38,7 +38,8 @@ Computer Science Degree
 - Eloquent Javascript / Pag: 78
 - Javascript for impatient programmers - https://exploringjs.com/impatient-js/toc.html
 - The Road to Learn React
-- Rework **Finished!**
+- Rework **Finished!** 
+- Startup, Jessica Livingston - **Reading**
 - Mastery: The Keys to Success and Long-Term Fulfillment / **Finished!**
 - Ruby, aprenda a programar na linguagem mais divertida
 
