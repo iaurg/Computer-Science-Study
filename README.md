@@ -67,6 +67,7 @@ Computer Science Degree
 - https://en.wikipedia.org/wiki/Modern_Operating_Systems
 - https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
 - https://www.youtube.com/watch?v=HEaIsKm-pao
+- https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
 
 ## Next study:
 - Fundamentals of Computer Science
