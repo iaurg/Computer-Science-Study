@@ -42,6 +42,7 @@ Computer Science Degree
 - Startup, Jessica Livingston - **Reading**
 - Mastery: The Keys to Success and Long-Term Fulfillment / **Finished!**
 - Ruby, aprenda a programar na linguagem mais divertida
+- The twelve-factor methodology to scale a software - https://12factor.net/
 
 ## Projects/training:
 
