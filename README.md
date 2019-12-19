@@ -3,49 +3,51 @@ Computer Science Degree
 
 ## Courses
 ### Base
-- CS50's Introduction to Computer Science: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x - **Started**
-- MIT 6.0001 Introduction to Computer Science and Programming:https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
-- MIT 6.001 Structure and Interpretation of Computer Programs: https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090
-- Introduction in Computer Science with Python (USP) - https://bit.ly/2IIVuWe / **Finished!**
+[] CS50's Introduction to Computer Science: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x - ⚔️
+[] MIT 6.0001 Introduction to Computer Science and Programming:https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
+[] MIT 6.001 Structure and Interpretation of Computer Programs: https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090
+[] Introduction in Computer Science with Python (USP) - https://bit.ly/2IIVuWe / ✔️
+[] Computer Science from Academic Earth https://academicearth.org/computer-science/
 
 
 ### Extra
-- Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
-- Mastering my skill in learning with: https://www.coursera.org/learn/learning-how-to-learn - **Finished!**
-- Rocketseat Javascript Starter - **Finished!**
-- The Complete Web Developer in 2018: Zero to Mastery / **Finished!**
-- Master Algorithms and Data Structure: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms - **Watching**
+[] Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
+[x] Mastering my skill in learning with: https://www.coursera.org/learn/learning-how-to-learn - ✔️
+[x] Rocketseat Javascript Starter - ✔️
+[x] The Complete Web Developer in 2018: Zero to Mastery / ✔️
+[x] Master Algorithms and Data Structure: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms - ✔️
 
 ## Books
 
 ### Base
-- The Pragmatic Programmer *Reading* 📖 - **Finished!** - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
-- Introduction to Algorithms (The MIT Press)
-- Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
-- Modern Operating Systems
-- Concepts, Techniques, and Models of Computer Programming
-- The Mythical Man-Month
-- Clean Code
-- Peopleware: Productive Projects and Teams
-- Structure and Interpretation of Computer Programs
-- Algoritmos e Estruturas de Dados Niklaus Wirth - **Reading**
-- Refactoring
-- Domain Driven Design
+[x] The Pragmatic Programmer *Reading* 📖 - ✔️ - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
+[] Introduction to Algorithms (The MIT Press)
+[] Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
+[] Modern Operating Systems
+[] Concepts, Techniques, and Models of Computer Programming
+[] The Mythical Man-Month
+[] Clean Code
+[] Peopleware: Productive Projects and Teams
+[] Structure and Interpretation of Computer Programs
+[] Algoritmos e Estruturas de Dados Niklaus Wirth - ⚔️
+[] Refactoring
+[] Domain Driven Design
 
 ### Extra
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application **Finished!** - [Summary](https://github.com/Italox/Getting-Real-Summary)
-- Professional: Javascript for Web Developers vol 3rd / Pag: 234
-- Eloquent Javascript / Pag: 78
-- Javascript for impatient programmers - https://exploringjs.com/impatient-js/toc.html
-- The Road to Learn React
-- Rework **Finished!** 
-- Startup, Jessica Livingston - **Reading**
-- Mastery: The Keys to Success and Long-Term Fulfillment / **Finished!**
-- Ruby, aprenda a programar na linguagem mais divertida
-- The twelve-factor methodology to scale a software - https://12factor.net/
+[x] Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application ✔️ - [Summary](https://github.com/Italox/Getting-Real-Summary)
+[] Professional: Javascript for Web Developers vol 3rd / Pag: 234
+[] Eloquent Javascript / Pag: 78
+[] Javascript for impatient programmers - https://exploringjs.com/impatient-js/toc.html
+[] The Road to Learn React
+[x] Rework ✔️
+[x] Startup, Jessica Livingston - ✔️
+[x] Mastery: The Keys to Success and Long-Term Fulfillment / ✔️
+[] Ruby, aprenda a programar na linguagem mais divertida
+[] The twelve-factor methodology to scale a software - https://12factor.net/
 
 ## Projects/training:
 
+- All Challenges - https://github.com/iaurg/all-challenges ⚔️
 - Rocketdevs - https://github.com/Italox/rocketseatdevs
 - Twitter copy - https://github.com/Italox/twitter-react
 - Javascript Starter - https://github.com/Italox/RocketSeat/tree/master/JS
