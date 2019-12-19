@@ -73,6 +73,7 @@ Computer Science Degree
 - https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
 - https://www.youtube.com/watch?v=HEaIsKm-pao
 - https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
+- https://ecorner.stanford.edu
 
 ## Next study:
 - Fundamentals of Computer Science
