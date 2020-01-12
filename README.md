@@ -14,7 +14,8 @@ Computer Science Degree
 - Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
 - Mastering my skill in learning with: https://www.coursera.org/learn/learning-how-to-learn - ✔️
 - Rocketseat Javascript Starter - ✔️
-- The Complete Web Developer in 2018: Zero to Mastery / ✔️
+- Introdução a Inteligência Artificial: https://www.microsoft.com/pt-br/academia - ✔️
+- The Complete Web Developer in 2018: Zero to Mastery: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery ✔️
 - Master Algorithms and Data Structure: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms - ✔️
 
 ## Books
@@ -34,7 +35,7 @@ Computer Science Degree
 - Domain Driven Design
 
 ### Extra
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application ✔️ - [Summary](https://github.com/Italox/Getting-Real-Summary)
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Summary](https://github.com/Italox/Getting-Real-Summary) ✔️
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
 - Javascript for impatient programmers - https://exploringjs.com/impatient-js/toc.html
@@ -43,19 +44,19 @@ Computer Science Degree
 - Startup, Jessica Livingston - ✔️
 - Mastery: The Keys to Success and Long-Term Fulfillment / ✔️
 - Ruby, aprenda a programar na linguagem mais divertida
-- The twelve-factor methodology to scale a software - https://12factor.net/
+- The twelve-factor methodology to scale a software - https://12factor.net ✔️
 
 ## Projects/training:
 
 - All Challenges - https://github.com/iaurg/all-challenges ⚔️
-- Rocketdevs - https://github.com/Italox/rocketseatdevs
-- Twitter copy - https://github.com/Italox/twitter-react
-- Javascript Starter - https://github.com/Italox/RocketSeat/tree/master/JS
-- Star Wars - https://github.com/Italox/star_wars
-- Background Generator - https://github.com/Italox/background-generator
-- Rocketseat GoWeek 9 - https://github.com/Italox/tattoour
-- Robofriends React App - https://github.com/Italox/Robofriends
-- Introduction in Computer Science with Python (USP) - https://github.com/Italox/ciencia-computacao-coursera
+- Rocketdevs - https://github.com/Italox/rocketseatdevs - ✔️
+- Twitter copy - https://github.com/Italox/twitter-react - ✔️
+- Javascript Starter - https://github.com/Italox/RocketSeat/tree/master/JS - ✔️
+- Star Wars - https://github.com/Italox/star_wars - ✔️
+- Background Generator - https://github.com/Italox/background-generator - ✔️
+- Rocketseat GoWeek 9 - https://github.com/Italox/tattoour - ✔️
+- Robofriends React App - https://github.com/Italox/Robofriends - ✔️
+- Introduction in Computer Science with Python (USP) - https://github.com/Italox/ciencia-computacao-coursera - ✔️
 
 
 ## Resource/Content/Training:
@@ -81,11 +82,11 @@ Computer Science Degree
 - https://github.com/Italox/You-Dont-Know-JS
 - https://github.com/Italox/33-js-concepts
 - Redux e Redux Saga
-- Axios **Finished!**
-- Styled Components **Finished!**
+- Axios  - ✔️
+- Styled Components  - ✔️
 - Test Unit and Functional Teste - Mocha e Chai - no Node
-- Test Unit and Functional - Jest - no React e React Native
-- Deploy node e react **Finished!**
+- Test Unit and Functional - Jest - no React  - ✔️
+- Deploy node e react - ✔️
 - GraphQL
 
 Think and grow!
