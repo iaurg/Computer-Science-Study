@@ -3,25 +3,25 @@ Computer Science Degree
 
 ## Courses
 ### Base
-- CS50's Introduction to Computer Science: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x - ⚔️
-- MIT 6.0001 Introduction to Computer Science and Programming:https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
-- MIT 6.001 Structure and Interpretation of Computer Programs: https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090
-- Introduction in Computer Science with Python (USP) - https://bit.ly/2IIVuWe / ✔️
-- Computer Science from Academic Earth https://academicearth.org/computer-science/
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - ⚔️
+- [MIT 6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
+- [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - ✔️
+- [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
 
 
 ### Extra
-- Introduction To JavaScript - https://www.codecademy.com/learn/introduction-to-javascript : 9/Classes
-- Mastering my skill in learning with: https://www.coursera.org/learn/learning-how-to-learn - ✔️
-- Rocketseat Javascript Starter - ✔️
-- Introdução a Inteligência Artificial: https://www.microsoft.com/pt-br/academia - ✔️
-- The Complete Web Developer in 2018: Zero to Mastery: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery ✔️
-- Master Algorithms and Data Structure: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms - ✔️
+- [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): 9/Classes
+- [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - ✔️
+- [Rocketseat Javascript Starter](https://rocketseat.com.br/starter) - ✔️
+- [Introdução a Inteligência Artificial](https://www.microsoft.com/pt-br/academia) - ✔️
+- [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) - ✔️
+- [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) - ✔️
 
 ## Books
 
 ### Base
-- The Pragmatic Programmer *Reading* 📖 - ✔️ - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
+- The Pragmatic Programmer - ✔️ - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
 - Introduction to Algorithms (The MIT Press)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
@@ -30,7 +30,7 @@ Computer Science Degree
 - Clean Code
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
-- Algoritmos e Estruturas de Dados Niklaus Wirth - ⚔️
+- Algoritmos e Estruturas de Dados Niklaus Wirth *Reading* 📖 - ⚔️
 - Refactoring
 - Domain Driven Design
 
@@ -38,25 +38,25 @@ Computer Science Degree
 - Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Summary](https://github.com/Italox/Getting-Real-Summary) ✔️
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
-- Javascript for impatient programmers - https://exploringjs.com/impatient-js/toc.html
+- [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) 
 - The Road to Learn React
 - Rework ✔️
 - Startup, Jessica Livingston - ✔️
 - Mastery: The Keys to Success and Long-Term Fulfillment / ✔️
 - Ruby, aprenda a programar na linguagem mais divertida
-- The twelve-factor methodology to scale a software - https://12factor.net ✔️
+- [The twelve-factor methodology to scale a software](https://12factor.net) ✔️
 
 ## Projects/training:
 
-- All Challenges - https://github.com/iaurg/all-challenges ⚔️
-- Rocketdevs - https://github.com/Italox/rocketseatdevs - ✔️
-- Twitter copy - https://github.com/Italox/twitter-react - ✔️
-- Javascript Starter - https://github.com/Italox/RocketSeat/tree/master/JS - ✔️
-- Star Wars - https://github.com/Italox/star_wars - ✔️
-- Background Generator - https://github.com/Italox/background-generator - ✔️
-- Rocketseat GoWeek 9 - https://github.com/Italox/tattoour - ✔️
-- Robofriends React App - https://github.com/Italox/Robofriends - ✔️
-- Introduction in Computer Science with Python (USP) - https://github.com/Italox/ciencia-computacao-coursera - ✔️
+- [All Challenges](https://github.com/iaurg/all-challenges) - ⚔️
+- [Rocketdevs](https://github.com/Italox/rocketseatdevs) - ✔️
+- [Twitter copy](https://github.com/Italox/twitter-react) - ✔️
+- [Javascript Starter](https://github.com/Italox/RocketSeat/tree/master/JS) - ✔️
+- [Star Wars](https://github.com/Italox/star_wars) - ✔️
+- [Background Generator](https://github.com/Italox/background-generator) - ✔️
+- [Rocketseat GoWeek 9](https://github.com/Italox/tattoour) - ✔️
+- [Robofriends React App](https://github.com/Italox/Robofriends) - ✔️
+- [Introduction in Computer Science with Python (USP)](https://github.com/Italox/ciencia-computacao-coursera) - ✔️
 
 
 ## Resource/Content/Training:
