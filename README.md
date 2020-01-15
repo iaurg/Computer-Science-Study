@@ -15,6 +15,7 @@ Computer Science Degree
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): 9/Classes
 - [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - ✔️
 - [Rocketseat Javascript Starter](https://rocketseat.com.br/starter) - ✔️
+- [Rocketseat Bootcamp](https://rocketseat.com.br) - ✔️
 - [Introdução a Inteligência Artificial](https://www.microsoft.com/pt-br/academia) - ✔️
 - [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) - ✔️
 - [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) - ✔️
