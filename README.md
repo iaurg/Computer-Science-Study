@@ -1,5 +1,6 @@
 # Degree in MOU (My Own University)
 Computer Science Degree
+✔️ **Concluido** - ⚔️ **Fazendo**
 
 ## Courses
 ### Base
