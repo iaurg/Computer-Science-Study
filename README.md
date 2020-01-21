@@ -7,23 +7,23 @@ Computer Science Degree
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - ⚔️
 - [MIT 6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
-- [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - ✔️
+- [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercises](https://github.com/iaurg/ciencia-computacao-coursera) - ✔️ 
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
-
+- [Curso POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️ 
 
 ### Extra
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): 9/Classes
 - [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - ✔️
 - [Rocketseat Javascript Starter](https://rocketseat.com.br/starter) - ✔️
 - [Rocketseat Bootcamp](https://rocketseat.com.br) - ✔️
-- [Introdução a Inteligência Artificial](https://www.microsoft.com/pt-br/academia) - ✔️
+- [Introdução a Inteligência Artificial](https://www.microsoft.com/pt-br/academia) - [Summary](https://github.com/iaurg/academia-ia) - ✔️
 - [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) - ✔️
 - [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) - ✔️
 
 ## Books
 
 ### Base
-- The Pragmatic Programmer - ✔️ - [Summary](https://github.com/Italox/The-Pragmatic-Programmer)
+- The Pragmatic Programmer - [Summary](https://github.com/Italox/The-Pragmatic-Programmer) - ✔️
 - Introduction to Algorithms (The MIT Press)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
