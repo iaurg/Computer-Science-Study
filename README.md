@@ -77,6 +77,7 @@ Computer Science Degree
 - https://www.youtube.com/watch?v=HEaIsKm-pao
 - https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/
 - https://ecorner.stanford.edu
+- https://arxiv.org/corr
 
 ## Next study:
 - Fundamentals of Computer Science
