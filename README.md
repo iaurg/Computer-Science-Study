@@ -65,7 +65,7 @@ Computer Science Degree
 - http://rubykoans.com/ - Hard training Ruby
 - http://rubyquiz.com/
 - http://jstherightway.org/pt-br/
-- https://learngitbranching.js.org/ - Git training in interactive way 
+- https://learngitbranching.js.org/ - Git training in interactive and visual way 
 - https://app.codesignal.com/
 - http://stack.desenvolvedor.expert/
 - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#javascript
