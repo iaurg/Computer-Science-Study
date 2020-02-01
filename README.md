@@ -87,7 +87,6 @@ Computer Science Degree
 - Redux e Redux Saga
 - Axios  - ✔️
 - Styled Components  - ✔️
-- Test Unit and Functional Teste - Mocha e Chai - no Node
 - Test Unit and Functional - Jest - no React  - ✔️
 - Deploy node e react - ✔️
 - GraphQL
