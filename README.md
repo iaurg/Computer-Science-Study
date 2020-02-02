@@ -56,7 +56,7 @@ Computer Science Degree
 - [Javascript Starter](https://github.com/Italox/RocketSeat/tree/master/JS) - ✔️
 - [Star Wars](https://github.com/Italox/star_wars) - ✔️
 - [Background Generator](https://github.com/Italox/background-generator) - ✔️
-- [Rocketseat GoWeek 9](https://github.com/Italox/tattoour) - ✔️
+- [Rocketseat Go Week 9](https://github.com/Italox/tattoour) - ✔️
 - [Robofriends React App](https://github.com/Italox/Robofriends) - ✔️
 - [Introduction in Computer Science with Python (USP)](https://github.com/Italox/ciencia-computacao-coursera) - ✔️
 
@@ -80,7 +80,7 @@ Computer Science Degree
 - https://arxiv.org/corr
 
 ## Next study:
-- Fundamentals of Computer Science
+- Fundamentals of Computer Science - ✔️
 - https://github.com/Italox/js-the-right-way
 - https://github.com/Italox/You-Dont-Know-JS
 - https://github.com/Italox/33-js-concepts
