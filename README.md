@@ -48,7 +48,7 @@ Computer Science Degree
 - Ruby, aprenda a programar na linguagem mais divertida
 - [The twelve-factor methodology to scale a software](https://12factor.net) ✔️
 
-## Projects/training:
+## Projects:
 
 - [All Challenges](https://github.com/iaurg/all-challenges) - ⚔️
 - [Rocketdevs](https://github.com/Italox/rocketseatdevs) - ✔️
@@ -61,7 +61,7 @@ Computer Science Degree
 - [Introduction in Computer Science with Python (USP)](https://github.com/Italox/ciencia-computacao-coursera) - ✔️
 
 
-## Resource/Content/Training:
+## Resource:
 - http://rubykoans.com/ - Hard training Ruby
 - http://rubyquiz.com/
 - http://jstherightway.org/pt-br/
@@ -74,10 +74,14 @@ Computer Science Degree
 - https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming
 - https://en.wikipedia.org/wiki/Modern_Operating_Systems
 - https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
-- https://www.youtube.com/watch?v=HEaIsKm-pao
+- https://www.youtube.com/watch?v=HEaIsKm-pao (AkitaonRails)
 - https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4
 - https://ecorner.stanford.edu
 - https://arxiv.org/corr
+
+## Challenge Sites:
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://www.hackerrank.com)
 
 ## Next study:
 - Fundamentals of Computer Science - ✔️
@@ -89,6 +93,6 @@ Computer Science Degree
 - Styled Components  - ✔️
 - Test Unit and Functional - Jest - no React  - ✔️
 - Deploy node e react - ✔️
-- GraphQL
+- GraphQL - ✔️
 
 Think and grow!
