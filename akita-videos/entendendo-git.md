@@ -11,8 +11,8 @@
 - Phil Katz
 
 ## Video e materiais:
-[Tech Talk Linus Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
-[Post Git Akita](https://www.akitaonrails.com/git)
+- [Tech Talk Linus Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+- [Post Git Akita](https://www.akitaonrails.com/git)
 
 ## Estudar:
 - Algoritmo LCS
