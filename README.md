@@ -1,5 +1,6 @@
 # Degree in MOU (My Own University)
 Computer Science Degree
+
 ✔️ **Concluido** - ⚔️ **Fazendo**
 
 ## Courses
@@ -9,14 +10,14 @@ Computer Science Degree
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 - [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercises](https://github.com/iaurg/ciencia-computacao-coursera) - ✔️ 
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
-- [Curso POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️ 
+- [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️ 
 
 ### Extra
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): 9/Classes
 - [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - ✔️
 - [Rocketseat Javascript Starter](https://rocketseat.com.br/starter) - ✔️
 - [Rocketseat Bootcamp](https://rocketseat.com.br) - ✔️
-- [Introdução a Inteligência Artificial](https://www.microsoft.com/pt-br/academia) - [Summary](https://github.com/iaurg/academia-ia) - ✔️
+- [Introduction IA](https://www.microsoft.com/pt-br/academia) - [Summary](https://github.com/iaurg/academia-ia) - ✔️
 - [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) - ✔️
 - [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) - ✔️
 
@@ -62,22 +63,22 @@ Computer Science Degree
 
 
 ## Resource:
-- http://rubykoans.com/ - Hard training Ruby
-- http://rubyquiz.com/
-- http://jstherightway.org/pt-br/
-- https://learngitbranching.js.org/ - Git training in interactive and visual way 
-- https://app.codesignal.com/
-- http://stack.desenvolvedor.expert/
-- https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md#javascript
-- https://github.com/akitaonrails/computer_languages_genealogy_graphs-
-- https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
-- https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming
-- https://en.wikipedia.org/wiki/Modern_Operating_Systems
-- https://littleblah.com/post/2019-09-01-senior-engineer-checklist/
-- https://www.youtube.com/watch?v=HEaIsKm-pao (AkitaonRails)
-- https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4
-- https://ecorner.stanford.edu
-- https://arxiv.org/corr
+- [Javascript da forma certa - Livro](http://jstherightway.org/pt-br/)
+- [Treinamento de Git interativo](https://learngitbranching.js.org/)
+- [Preparação para entrevista](https://app.codesignal.com/login)
+- [Desenvolvedor Javascript Fullstack - Livro](http://stack.desenvolvedor.expert/)
+- [Livros grátis de programação](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md)
+- [Árvore genealógica de linguagens de programação](https://github.com/akitaonrails/computer_languages_genealogy_graphs)
+- [Checklist para Engenheiro Senior](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+- [Canal Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [Canal Computerphile](https://www.youtube.com/user/Computerphile)
+- [Canal Akitando - Fábio Akita](https://www.youtube.com/user/AkitaOnRails)
+- [Especificação para padronizar Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
+- [Ideias e pesquisas de Stanford](https://ecorner.stanford.edu)
+- [Repositório de pesquisas acadêmicas sobre Ciência da Computação](https://arxiv.org/corr)
+- [Você não sabe Javascript - Livro](https://github.com/getify/You-Dont-Know-JS)
+- [33 Conceitos que todo desenvolvedor JS deve conhecer](https://github.com/tiagoboeing/33-js-concepts)
+- [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
 
 ## Challenge Sites:
 - [LeetCode](https://leetcode.com)
@@ -85,14 +86,13 @@ Computer Science Degree
 
 ## Next study:
 - Fundamentals of Computer Science - ✔️
-- https://github.com/Italox/js-the-right-way
-- https://github.com/Italox/You-Dont-Know-JS
-- https://github.com/Italox/33-js-concepts
 - Redux e Redux Saga
 - Axios  - ✔️
 - Styled Components  - ✔️
-- Test Unit and Functional - Jest - no React  - ✔️
+- Test Unit and Functional - Jest - ✔️
 - Deploy node e react - ✔️
 - GraphQL - ✔️
+- Hooks - ✔️
+- Cypress
 
 Think and grow!
