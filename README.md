@@ -83,6 +83,9 @@ Computer Science Degree
 ## Challenge Sites:
 - [LeetCode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
+- [Project Euler](https://projecteuler.net/)
+- [Code Combat (game)](https://br.codecombat.com/)
+- [Code Signal](https://codesignal.com/)
 
 ## Next study:
 - Fundamentals of Computer Science - ✔️
