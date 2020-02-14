@@ -20,6 +20,7 @@ Computer Science Degree
 - [Introduction IA](https://www.microsoft.com/pt-br/academia) - [Summary](https://github.com/iaurg/academia-ia) - ✔️
 - [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) - ✔️
 - [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) - ✔️
+- [Python Course by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 
 ## Books
 
