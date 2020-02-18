@@ -90,13 +90,15 @@ Computer Science Degree
 
 ## Next study:
 - Fundamentals of Computer Science - ✔️
-- Redux e Redux Saga
+- Redux e Redux Saga - ✔️
 - Axios  - ✔️
 - Styled Components  - ✔️
 - Test Unit and Functional - Jest - ✔️
 - Deploy node e react - ✔️
 - GraphQL - ✔️
 - Hooks - ✔️
-- Cypress
+- Cypress ⚔️
+- lib-curl
+- web scraping
 
 Think and grow!
