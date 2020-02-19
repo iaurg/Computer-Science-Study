@@ -1,18 +1,22 @@
 # Degree in MOU (My Own University)
+
 Computer Science Degree
 
 ✔️ **Concluido** - ⚔️ **Fazendo**
 
 ## Courses
+
 ### Base
+
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - ⚔️
 - [MIT 6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
-- [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercises](https://github.com/iaurg/ciencia-computacao-coursera) - ✔️ 
+- [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercises](https://github.com/iaurg/ciencia-computacao-coursera) - ✔️
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
-- [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️ 
+- [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️
 
 ### Extra
+
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): 9/Classes
 - [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - ✔️
 - [Rocketseat Javascript Starter](https://rocketseat.com.br/starter) - ✔️
@@ -25,6 +29,7 @@ Computer Science Degree
 ## Books
 
 ### Base
+
 - The Pragmatic Programmer - [Summary](https://github.com/Italox/The-Pragmatic-Programmer) - ✔️
 - Introduction to Algorithms (The MIT Press)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
@@ -34,15 +39,16 @@ Computer Science Degree
 - Clean Code
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
-- Algoritmos e Estruturas de Dados Niklaus Wirth *Reading* 📖 - ⚔️
+- Algoritmos e Estruturas de Dados Niklaus Wirth _Reading_ 📖 - ⚔️
 - Refactoring
 - Domain Driven Design
 
 ### Extra
+
 - Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Summary](https://github.com/Italox/Getting-Real-Summary) ✔️
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
-- [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) 
+- [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - The Road to Learn React
 - Rework ✔️
 - Startup, Jessica Livingston - ✔️
@@ -50,6 +56,8 @@ Computer Science Degree
 - Ruby, aprenda a programar na linguagem mais divertida
 - [The twelve-factor methodology to scale a software](https://12factor.net) ✔️
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
+- [Livros indicados pelo Fábio Akita, com base nos vídeos que assisti/assisto](https://amzn.to/38I6jR3)
+
 ## Projects:
 
 - [All Challenges](https://github.com/iaurg/all-challenges) - ⚔️
@@ -62,8 +70,8 @@ Computer Science Degree
 - [Robofriends React App](https://github.com/Italox/Robofriends) - ✔️
 - [Introduction in Computer Science with Python (USP)](https://github.com/Italox/ciencia-computacao-coursera) - ✔️
 
-
 ## Resource:
+
 - [Javascript da forma certa - Livro](http://jstherightway.org/pt-br/)
 - [Treinamento de Git interativo](https://learngitbranching.js.org/)
 - [Preparação para entrevista](https://app.codesignal.com/login)
@@ -82,6 +90,7 @@ Computer Science Degree
 - [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
 
 ## Challenge Sites:
+
 - [LeetCode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
 - [Project Euler](https://projecteuler.net/)
@@ -89,10 +98,11 @@ Computer Science Degree
 - [Code Signal](https://codesignal.com/)
 
 ## Next study:
+
 - Fundamentals of Computer Science - ✔️
 - Redux e Redux Saga - ✔️
-- Axios  - ✔️
-- Styled Components  - ✔️
+- Axios - ✔️
+- Styled Components - ✔️
 - Test Unit and Functional - Jest - ✔️
 - Deploy node e react - ✔️
 - GraphQL - ✔️
