@@ -57,6 +57,7 @@ Computer Science Degree
 - [The twelve-factor methodology to scale a software](https://12factor.net) ✔️
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
 - [Livros indicados pelo Fábio Akita, com base nos vídeos que assisti/assisto](https://amzn.to/38I6jR3)
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - ⚔️
 
 ## Projects:
 
