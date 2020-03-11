@@ -10,7 +10,7 @@ Escolher algo estável no mercado será uma opção mais segura, porém a concor
 
 Em contra partida, escolher uma tecnologia nova é uma aposta, você pode iniciar os estudos em uma tecnologia que será lider de mercado em alguns anos ou investir seu tempo em algo que ficará "morto". Investir em uma tecnologia nova logo de inicio fará de você um líder em uma grande e influente tecnologia. Se o seu estudo da tecnologia escolhida for correto e ela decolar você será um profissional único entre poucos disponíveis. Alto risco. Alta recompensa.
 
-![Curva de adoção de tecnologia](/images/Schematic-representation-of-technology-adoption-curves-and-adopter-groups-with-defining.png "Curva de adoção")
+![Curva de adoção de tecnologia](./images/Schematic-representation-of-technology-adoption-curves-and-adopter-groups-with-defining.png "Curva de adoção")
 
 Contradizendo o gráfico acima, ainda existe uma posição no mercado chamada de "asilo da tecnologia" onde alguém deve migrar um sistema legado para uma nova tecnologia, assim este antigo sistema pode morrer em paz. O profissional responsável por esta migração com certeza será bem pago, pois a maioria dos profissionais que conhecem uma tecnologia antiga já migraram para novas ou se aposentaram. Mas ainda assim é arriscado, pois você será especialista em uma tecnologia que não existe.
 
