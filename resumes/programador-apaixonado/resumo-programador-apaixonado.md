@@ -34,7 +34,7 @@ Criei o mapa com base em pesquisas de gráficos e de "cabeça"
 Analisando este gráfico vejo que a minha média está no meio, onde é uma zona de segurança, pois muitas empresas utilizam e o mercado é tranquilo. Meu interesse é em apostas altas, terei que iniciar um estudo em tecnologias mais novas e em ascensão.
 
 Tendências de linguagens de programação em 2019:
-![Tendências de linguagens de programação em 2019](./images/mapa-tecnologias.png "Tendências de linguagens de programação em 2019")
+![Tendências de linguagens de programação em 2019](./images/trends-de-2019.jpg "Tendências de linguagens de programação em 2019")
 
 ## Oferta e Demanda
 
