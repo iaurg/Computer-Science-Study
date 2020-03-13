@@ -30,7 +30,7 @@ Computer Science Degree
 
 ### Base
 
-- The Pragmatic Programmer - [Summary](https://github.com/Italox/The-Pragmatic-Programmer) - ✔️
+- The Pragmatic Programmer - [Resume](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) - ✔️
 - Introduction to Algorithms (The MIT Press)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
@@ -45,7 +45,7 @@ Computer Science Degree
 
 ### Extra
 
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Summary](https://github.com/Italox/Getting-Real-Summary) ✔️
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resume](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/getting-real/resumo-getting-real.md) ✔️
 - Professional: Javascript for Web Developers vol 3rd / Pag: 234
 - Eloquent Javascript / Pag: 78
 - [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
@@ -57,7 +57,7 @@ Computer Science Degree
 - [The twelve-factor methodology to scale a software](https://12factor.net) ✔️
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
 - [Livros indicados pelo Fábio Akita, com base nos vídeos que assisti/assisto](https://amzn.to/38I6jR3)
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - ⚔️
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resume](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/programador-apaixonado/resumo-programador-apaixonado.md) ⚔️
 
 ## Projects:
 
