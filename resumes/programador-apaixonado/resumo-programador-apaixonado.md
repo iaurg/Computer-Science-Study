@@ -126,7 +126,7 @@ Quais são os seus maiores medos com relação à sua carreira? Pense sobre as �
 
 ## Seja generalista
 
-O mundo de software é composto por mudanças rápidas, ágeis e flexiveis, então você também precisa se adaptar. 
+O mundo de software é composto por mudanças rápidas, ágeis e flexiveis, então você também precisa se adaptar.
 
 Para se tornar a pessoa que será lembrada você precisa ser capaz de resolver problemas. E quais são esses problemas? Exatamente, você não sabe. Nem ninguém.
 
@@ -159,7 +159,7 @@ Ser especialista não é saber apenas uma coisa e desconhecer as outras. Seguind
 
 Infelizmente na área de software existem muitos especialistas rasos que usam o termo apenas como desculpa para saber só uma coisa. Especialista deve ser alguém com um profundo conhecimento técnico em uma área específica.
 
-Seja um especialista que saiba resolver qualquer problema de implatação em sua linguagem ou que ao menos saiba a quem pedir ajuda se necessário. 
+Seja um especialista que saiba resolver qualquer problema de implatação em sua linguagem ou que ao menos saiba a quem pedir ajuda se necessário.
 
 Este é o tipo de especialista que a indústria precisa. Se você é um especialista em Ruby, isso não é uma desculpa para não saber nada além de Ruby. Isso significa, que se for relacionado a Ruby você é o cara. Clientes com problemas no servidor e ninguém sabe o porque? "Dê 30 minutos".
 
@@ -215,9 +215,10 @@ Vá aprender por conta!
 **Exercício**
 Como e porque? Sempre que estiver trabalhando ou estudando pense sobre as partes que você não entende por completo: como isso funciona? E por que isso tem que acontecer?
 
-Voê pode não saber responder, mas o simples fato de se questionar já o colocará em outro patamar.
+Você pode não saber responder, mas o simples fato de se questionar já o colocará em outro patamar.
 
 Continue perguntando sobre como e porque até que tenha ido longe o suficiente.
 
 Escolha uma das mais críticas porém negligenciadas ferramentas de seu ambiente e foque nela. Reserve um pequeno periodo de tempo todos os dias para aprender uma coisa nova sobre ela que vai lhe dar mais controle. Em momentos que a mente divaga ao invés de ir para o Facebook ou Twitter, você pode buscar por dicas de bash. Rapidamente você encontrará alguma coisa que não sabia e pode usar o truque do como e porque.
 
+## Aprenda como os negócios realmente funcionam
