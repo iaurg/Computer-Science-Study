@@ -94,6 +94,18 @@ void cough(int n){
 
 > Writing a good or a bad code is a lot about design decisions
 
+### Data Types - Shorts
+
+`void` in C is nothing, returns nothing.
+
+Only declare a variable if you need it.
+
+`int age;` <- Declaration
+`age = 1995;` <- Assignment
+
+Initilization is when you declare and assign a variable at the same time:
+`int power = 9001;`
+
 ## Links
 
 [Sandbox CS50](https://sandbox.cs50.io)
