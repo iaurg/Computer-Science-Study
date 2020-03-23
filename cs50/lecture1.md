@@ -106,7 +106,47 @@ Only declare a variable if you need it.
 Initilization is when you declare and assign a variable at the same time:
 `int power = 9001;`
 
+#### Operators and Expressions:
+
+Arithmetic `+ - * / %`
+Syntax Sugar `*= -= += ++ --`
+Boolean `true false 0 1`, any number > 0 is true
+Logical `&& (AND) || (OR)`
+Not `!x`
+Relational `< > <= >=`
+Equality `==`
+Inequality `!==`
+
+#### Conditionals
+
+```c
+if(boolean-expression){
+    // execute this
+} else if(another-boolean){
+    // execute this
+} else {
+    // execute this
+}
+```
+
+Switch, case-break-case-case-default
+
+Ternary, `x > 4 ? true : false`
+
+#### Loops
+
+`while, do while, for`
+
+`for(start;expression;increment)`
+
+#### Basic linux commands
+
+```bash
+cd - ls - mkdir - pwd - cp - mv - rm - rmdir
+chmod - ln - touch - rmdir - man - diff - sudo - clear - telnet
+```
+
 ## Links
 
-[Sandbox CS50](https://sandbox.cs50.io)
-[LAB CS50](https://lab.cs50.io/)
+- [Sandbox CS50](https://sandbox.cs50.io)
+- [LAB CS50](https://lab.cs50.io/)

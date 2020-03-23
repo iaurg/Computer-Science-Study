@@ -13,8 +13,9 @@ char c = 'a';
 ```
 
 In binary both are 01000001, but the C compiler define one like int and another like char.
-[Source 1](https://www.quora.com/How-do-computers-differentiate-between-letters-and-numbers-in-binary)
-[Source 2](https://www.reddit.com/r/explainlikeimfive/comments/263036/eli5_how_can_computers_tell_the_difference/)
+
+- [Source 1](https://www.quora.com/How-do-computers-differentiate-between-letters-and-numbers-in-binary)
+- [Source 2](https://www.reddit.com/r/explainlikeimfive/comments/263036/eli5_how_can_computers_tell_the_difference/)
 
 Characters are translated from binary using de [UNICODE](https://home.unicode.org) pattern.
 
@@ -32,5 +33,5 @@ SOURCE CODE -> COMPILER -> MACHINE CODE (0010)
 
 ## Links
 
-[MIT Scratch](https://scratch.mit.edu)
-[MIT Scratch CS50 Studio](https://scratch.mit.edu/studios/25128634/)
+- [MIT Scratch](https://scratch.mit.edu)
+- [MIT Scratch CS50 Studio](https://scratch.mit.edu/studios/25128634/)
