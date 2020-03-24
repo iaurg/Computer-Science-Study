@@ -100,22 +100,22 @@ void cough(int n){
 
 Only declare a variable if you need it.
 
-`int age;` <- Declaration
-`age = 1995;` <- Assignment
+- `int age;` <- Declaration
+- `age = 1995;` <- Assignment
 
 Initilization is when you declare and assign a variable at the same time:
 `int power = 9001;`
 
 #### Operators and Expressions:
 
-Arithmetic `+ - * / %`
-Syntax Sugar `*= -= += ++ --`
-Boolean `true false 0 1`, any number > 0 is true
-Logical `&& (AND) || (OR)`
-Not `!x`
-Relational `< > <= >=`
-Equality `==`
-Inequality `!==`
+- Arithmetic `+ - * / %`
+- Syntax Sugar `*= -= += ++ --`
+- Boolean `true false 0 1`, any number > 0 is true
+- Logical `&& (AND) || (OR)`
+- Not `!x`
+- Relational `< > <= >=`
+- Equality `==`
+- Inequality `!==`
 
 #### Conditionals
 
