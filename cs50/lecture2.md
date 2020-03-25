@@ -30,6 +30,25 @@ Linking: Link all binary files in one file
 
 **TEST!**
 
+### Functions
+
+Function can be named like procedure, methods or subroutines
+
+Function = blackbox with 0+inputs and 1 output
+
+Functions can help us with organization, simplification and reusability
+
+> Give functions meaningful names
+
+Declaration: `return-type name(argument-list);`
+Definition:
+
+```c
+int sum(num1, num2){
+    return num1 + num2;
+}
+```
+
 ## Mentions
 
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
