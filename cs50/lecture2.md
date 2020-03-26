@@ -49,6 +49,33 @@ int sum(num1, num2){
 }
 ```
 
+Exercise:
+Is a valid triangle?
+
+```c
+#include <cs50.h>
+#include <stdio.h>
+
+bool valid_triangle(float side1, float side2, float side3);
+
+int main(void){
+    valid_triangle(2,3,4);
+}
+
+bool valid_triangle(float side1, float side2, float side3){
+
+    if(side1 < 0 || side2 < 0 || side3 < 0){
+        return false;
+    }
+
+    if(side1 + side2 < side3 || side2 + side1 < side3 || side2 + side3 < side1){
+        return false;
+    }
+
+    return true;
+}
+```
+
 ## Mentions
 
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
