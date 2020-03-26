@@ -76,6 +76,20 @@ bool valid_triangle(float side1, float side2, float side3){
 }
 ```
 
+### Arrays
+
+Arrays hold values of the same data type
+
+Array is a block of contiguos space in memory
+
+Array of elements acessed by index number
+
+Model array `type name[size]` <- size is amount of elements array contain
+
+`int student_grades[40]`
+
+Instantiation syntax: `bool truthtabe[3] = {true, false, true}`
+
 ## Mentions
 
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
