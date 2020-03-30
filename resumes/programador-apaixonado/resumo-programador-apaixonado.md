@@ -18,7 +18,7 @@ Assim as duas pontas da curva de adoção se provam lucrativas.
 
 Se quiser uma ajuda para analisar as tecnologias com promessas e as que estão "morrendo" acesse [este post](https://www.infoq.com/articles/programming-language-trends-2019/)
 
-**Exercício**
+**Exercício** ✔️
 Faça uma lista de tecnologias recentes, médias e antigas baseada no mercado atual. Mapeie-as em uma folha da esquerda para a direita. Na esquerda, coloque as tecnologias recentes, e na direita, as que estão próximas do fim. Force a si mesmo para encontrar a maior quantidade possível de tecnologias. Seja o mais granular possível sobre onde as tecnologias estão quando comparadas umas com as outras.
 
 Quando você tiver mapeado o máximo de tecnologias que conseguiu se lembrar, marque as tecnologias nas quais você se considera forte. Então, talvez em uma cor diferente, marque aquelas sobre as quais você possui algum conhecimento, mas não domina. Onde está a maioria das tecnologias que você marcou? Elas estão aglomeradas em alguma ponta? Estão espalhadas? Elas estão próximas às pontas em que você se interessa?
@@ -79,7 +79,7 @@ Ao invés de simplesmente completar listas de tarefas, você pensará e terá ba
 
 Se esforce para expandir seu conhecimento de negócios e tente entender uma gama alta de negócios diferentes, esse ponto será um diferencial em sua carreira.
 
-**Exercício**
+**Exercício** ⚔️
 Regularmente converse com algum empresário e pergunte como funciona o negócio dele, como eles trabalham, quais são as dificuldade ou facilidades tecnológicas que possuem. Com essas informações de forma recorrente seu repertório e entendimento de negócios será expandido e você terá mais argumentos e bases para conversar com clientes.
 
 ## Seja o pior
@@ -121,8 +121,12 @@ Outra questão referente a carreira que está indo de encontro com o tradicional
 
 Assuma riscos em sua carreira. Não deixe o medo o consumir. E se você não estiver se divertindo, você não vai ser excelente.
 
-**Exercício**
+**Exercício** ✔️
 Quais são os seus maiores medos com relação à sua carreira? Pense sobre as últimas decisões que você tomou. Faça uma lista de escolhas que fez e pense o quanto dessas decisões foram conduzidas pelo medo? Como você poderia reverter e tomar uma decisão com menos medo?
+
+*R:* Creio que uma das preocupações é em relação ao tempo, parece que não vai dar tempo de aprender tudo que quero. Mas sei que esta é uma ansiedade sem base pois a maestria de algo vem com a pratica deliberada, algo que me ajudou muito nessa questão foram os videos do Fabio Akita explorando a dimensão do tempo.
+
+Poucas das minhas escolhas são tomadas com medo, existe uma incerteza por fatos externos que não podem ser controlados por mim, mas esse é um fator comum. As escolhas dos últimos anos é o foco em ser excelente, então venho melhorando pouco a pouco para alcançar o que busco.
 
 ## Seja generalista
 
@@ -149,6 +153,13 @@ Liste as dimensões em que você pode ou não estar generalizando seus conhecime
 
 Assim que possível comece a aprender alguma tecnologia que você listou. Se possível pratique e aplique.
 
+*Lista*
+Linguagem de programação/JavaScript => Rust 🌱
+Paradigma/Imperativo => Reativo, Procedural, funcional 🌱
+Economia/Criptomoedas/ações => Commodities 🌱
+Vendas e comunicação 🌱
+Marketing de comunicação e conteúdo 🌱
+
 ## Seja especialista
 
 Evite a falta de profundidade técnica.
@@ -165,10 +176,18 @@ Este é o tipo de especialista que a indústria precisa. Se você é um especial
 
 Espero que isso seja o que você considera um especialista, antes de rotular algum.
 
-**Exercício**
-Independente da sua linguagem como é que o código que você digitou passa de texto legível para as instruções que um computador executa? O que significa escrever seu próprio compilador? Quando você importa ou usa bibliotecas, de onde elas vêm? Como um compilador, sistema operacional ou máquina virtual liga vários pedaços de código para formar um sistema coerente? Aprender esses pontos fará com que você fique muito mais próximo de ser um especialista em sua lingugagem.
+**Exercício** ✔️
+Independente da sua linguagem como é que o código que você digitou passa de texto legível para as instruções que um computador executa? O que significa escrever seu próprio compilador? Quando você importa ou usa bibliotecas, de onde elas vêm? Como um compilador, sistema operacional ou máquina virtual liga vários pedaços de código para formar um sistema coerente? Aprender esses pontos fará com que você fique muito mais próximo de ser um especialista em sua linguagem.
 
 Encontre uma oportunidade e dê uma aula sobre algum tema da tecnologia que você gostaria de se aprofundar. O ensino é uma das melhores maneiras de aprender.
+
+*R:*
+Coincidentemente as perguntas aqui casam com as aulas da [CS50](../../cs50)
+1 - O computador executa apenas binário, então sempre haverá algum interpretador para "transformar" todo o texto legível em binário. O process desta transformação pode variar de acordo com cada linguagem. CÓDIGO -> INTERPRETADOR -> BINÁRIO (0010)
+2 - Teoricamente você mesmo construirá o processo até se comunicar diretamente com o Hardware.
+3 - Depende, normalmente vem de gerenciadores de bibliotecas (npm, yarn, github, gem...). Bibliotecas são códigos que alguma pessoa escreveu e você acopla em seu código. Tudo que estiver nessa biblioteca também fará parte de seu programa, por isso é bom prestar atenção em quais bibliotecas está utilizando.
+
+Vou ensinar o [CS50](https://cs50.harvard.edu/x/2020/) como forma de revisão.
 
 ## Não coloque todos seus ovos em um só cesto
 
@@ -222,3 +241,20 @@ Continue perguntando sobre como e porque até que tenha ido longe o suficiente.
 Escolha uma das mais críticas porém negligenciadas ferramentas de seu ambiente e foque nela. Reserve um pequeno periodo de tempo todos os dias para aprender uma coisa nova sobre ela que vai lhe dar mais controle. Em momentos que a mente divaga ao invés de ir para o Facebook ou Twitter, você pode buscar por dicas de bash. Rapidamente você encontrará alguma coisa que não sabia e pode usar o truque do como e porque.
 
 ## Aprenda como os negócios realmente funcionam
+
+Não subestime o conhecimento de domínios, certifique-se de investir o seu entendimento além da programação em outros assuntos. Obrigatoriamente saiba o básico de finanças, todos os negócios dependem de finanças.
+
+> Você não pode criativamente ajudar em negócios sem saber como ele funciona
+
+Entender como um negócio funciona lhe dará o "poder" da criatividade, entendendo os pontos que são essenciais farão com que você pense e programe funcionalidades melhores para toda a empresa. Para poder programar algo útil você precisa entender o problema e os porquês.
+
+Conhecendo a empresa e o ramo de atuação você terá a capacidade de fazer mudanças significativas ao invés de coisas que são aparentemente corretas.
+
+**Exercício** ✔️
+1) Procure um livro básico sobre negócios, e trabalhe com ele.
+2) Peça para alguém orientá-lo na área de finanças de sua empresa e explicar como funcionam as coisas.
+
+*R:* Já faço isso, como atuo em minha própria empresa entender de negócios e finanças é obrigatório, além de que utilizo este mesmo conhecimento para a vida pessoal fazendo controle de finanças e investimentos. Concordo com o autor do livro que este é um conhecimento descartado pela maioria e que o entendimento de negócios e economia em um geral pode lhe dar uma vantagem em diversos aspectos, sua visão vai além.
+
+## Encontre um mentor
+
