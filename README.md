@@ -99,6 +99,13 @@ Computer Science Degree
 - [Code Combat (game)](https://br.codecombat.com/)
 - [Code Signal](https://codesignal.com/)
 
+## Sibelius References
+- [Y Combinator Resources](https://www.ycombinator.com/resources/)
+- [Jest Everywhere](https://www.youtube.com/watch?v=X1EbHgFxSdw) - ✔️
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [Learn in Public](https://www.swyx.io/writing/learn-in-public/) - ✔️
+- [On the Spectrum of Abstraction](https://gist.github.com/markerikson/02d5846040a1bf4a02147990df3c3599) - ✔️
+
 ## Next study:
 
 - Fundamentals of Computer Science - ✔️
