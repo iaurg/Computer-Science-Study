@@ -14,6 +14,7 @@ Computer Science Degree
 - [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercises](https://github.com/iaurg/ciencia-computacao-coursera) - ✔️
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
 - [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️
+- [42](https://www.42sp.org.br/) - ⚔️
 
 ### Extra
 
