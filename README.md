@@ -116,6 +116,7 @@ Computer Science Degree
 - Deploy node e react - ✔️
 - GraphQL - ✔️
 - Hooks - ✔️
+- Entria Challenge
 - Cypress ⚔️
 - lib-curl
 - web scraping
