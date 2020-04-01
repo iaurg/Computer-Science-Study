@@ -93,6 +93,7 @@ Computer Science Degree
 
 ## Challenge Sites:
 
+- [Exercise](https://exercism.io/) - Code mentoring
 - [MIT Scratch](https://scratch.mit.edu)
 - [LeetCode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
@@ -101,6 +102,7 @@ Computer Science Degree
 - [Code Signal](https://codesignal.com/)
 
 ## Sibelius References
+
 - [Y Combinator Resources](https://www.ycombinator.com/resources/)
 - [Jest Everywhere](https://www.youtube.com/watch?v=X1EbHgFxSdw) - ✔️
 - [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
