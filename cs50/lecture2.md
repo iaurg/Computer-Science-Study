@@ -88,7 +88,7 @@ Model array `type name[size]` <- size is amount of elements array contain
 
 `int student_grades[40]`
 
-Instantiation syntax: `bool truthtabe[3] = {true, false, true}`
+Instantiation syntax: `bool truthtable[3] = {true, false, true}`
 
 ## Mentions
 
