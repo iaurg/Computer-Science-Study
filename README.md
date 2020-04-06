@@ -26,6 +26,7 @@ Computer Science Degree
 - [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery) - ✔️
 - [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms) - ✔️
 - [Python Course by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
+- [Git e Github Justen](https://www.udemy.com/course/git-e-github-para-iniciantes) - ✔️
 
 ## Books
 
