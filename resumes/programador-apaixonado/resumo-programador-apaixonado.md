@@ -124,7 +124,7 @@ Assuma riscos em sua carreira. Não deixe o medo o consumir. E se você não est
 **Exercício** ✔️
 Quais são os seus maiores medos com relação à sua carreira? Pense sobre as últimas decisões que você tomou. Faça uma lista de escolhas que fez e pense o quanto dessas decisões foram conduzidas pelo medo? Como você poderia reverter e tomar uma decisão com menos medo?
 
-*R:* Creio que uma das preocupações é em relação ao tempo, parece que não vai dar tempo de aprender tudo que quero. Mas sei que esta é uma ansiedade sem base pois a maestria de algo vem com a pratica deliberada, algo que me ajudou muito nessa questão foram os videos do Fabio Akita explorando a dimensão do tempo.
+_R:_ Creio que uma das preocupações é em relação ao tempo, parece que não vai dar tempo de aprender tudo que quero. Mas sei que esta é uma ansiedade sem base pois a maestria de algo vem com a pratica deliberada, algo que me ajudou muito nessa questão foram os videos do Fabio Akita explorando a dimensão do tempo.
 
 Poucas das minhas escolhas são tomadas com medo, existe uma incerteza por fatos externos que não podem ser controlados por mim, mas esse é um fator comum. As escolhas dos últimos anos é o foco em ser excelente, então venho melhorando pouco a pouco para alcançar o que busco.
 
@@ -153,7 +153,7 @@ Liste as dimensões em que você pode ou não estar generalizando seus conhecime
 
 Assim que possível comece a aprender alguma tecnologia que você listou. Se possível pratique e aplique.
 
-*Lista*
+_Lista_
 Linguagem de programação/JavaScript => Rust 🌱
 Paradigma/Imperativo => Reativo, Procedural, funcional 🌱
 Economia/Criptomoedas/ações => Commodities 🌱
@@ -181,7 +181,7 @@ Independente da sua linguagem como é que o código que você digitou passa de t
 
 Encontre uma oportunidade e dê uma aula sobre algum tema da tecnologia que você gostaria de se aprofundar. O ensino é uma das melhores maneiras de aprender.
 
-*R:*
+_R:_
 Coincidentemente as perguntas aqui casam com as aulas da [CS50](../../cs50)
 1 - O computador executa apenas binário, então sempre haverá algum interpretador para "transformar" todo o texto legível em binário. O process desta transformação pode variar de acordo com cada linguagem. CÓDIGO -> INTERPRETADOR -> BINÁRIO (0010)
 2 - Teoricamente você mesmo construirá o processo até se comunicar diretamente com o Hardware.
@@ -251,10 +251,102 @@ Entender como um negócio funciona lhe dará o "poder" da criatividade, entenden
 Conhecendo a empresa e o ramo de atuação você terá a capacidade de fazer mudanças significativas ao invés de coisas que são aparentemente corretas.
 
 **Exercício** ✔️
-1) Procure um livro básico sobre negócios, e trabalhe com ele.
-2) Peça para alguém orientá-lo na área de finanças de sua empresa e explicar como funcionam as coisas.
 
-*R:* Já faço isso, como atuo em minha própria empresa entender de negócios e finanças é obrigatório, além de que utilizo este mesmo conhecimento para a vida pessoal fazendo controle de finanças e investimentos. Concordo com o autor do livro que este é um conhecimento descartado pela maioria e que o entendimento de negócios e economia em um geral pode lhe dar uma vantagem em diversos aspectos, sua visão vai além.
+1. Procure um livro básico sobre negócios, e trabalhe com ele.
+2. Peça para alguém orientá-lo na área de finanças de sua empresa e explicar como funcionam as coisas.
+
+_R:_ Já faço isso, como atuo em minha própria empresa entender de negócios e finanças é obrigatório, além de que utilizo este mesmo conhecimento para a vida pessoal fazendo controle de finanças e investimentos. Concordo com o autor do livro que este é um conhecimento descartado pela maioria e que o entendimento de negócios e economia em um geral pode lhe dar uma vantagem em diversos aspectos, sua visão vai além.
 
 ## Encontre um mentor
 
+> É OK depender de alguém. Só tenha certeza que é a pessoa certa
+
+Normalmente na área de TI a prática de mentoria é algo raro e visto como um ponto de fraqueza. Por mais que seja benéfico para todos.
+
+Procure um mentor que seja um modelo a seguir.
+
+Você precisa de novos níveis comparativos para ver que não é "tão bom" quanto você pensa e para que possa ter uma nova noção de realidade, assim você pode buscar um novo ponto de melhoria.
+
+**Exercício**
+
+1. Tutorie a si mesmo – todos nós queremos ter alguém para nos orientar, mas a realidade é que nem sempre vamos poder encontrar alguém a quem possamos dar esse papel. Eis um jeito de fazer uma automentoria.
+
+Pense na pessoa de sua área que você mais admira. Muitos de nós já possuem uma pequena lista pronta, pegando de algum momento de nossas carreiras. Pode ser alguém com quem tenha trabalhado, ou pode ser alguém cujo trabalho é admirado. Liste os dez atributos mais importantes desse modelo a seguir. Escolha os atributos que são a razão de você tê-lo escolhido para esse papel. Tais atributos podem ser de áreas específicas de habilidade, como amplitude de tecnologia, ou a profundidade de conhecimento sobre algum domínio. Ou, eles podem ter características mais pessoais, como a habilidade de deixar os membros da equipe tranquilos, ou a de ser um palestrante envolvente.
+
+Agora, ranqueie essas qualidades em ordem de importância, sendo que 1 é o menos importante e 10, o mais importante. Você acabou de criar e destilar uma lista de atributos que você acha admiráveis e importantes. Esses são os caminhos nos quais você deve se empenhar para emular o modelo escolhido. Mas como escolher em qual focar primeiro?
+
+Adicione uma coluna à lista, e para cada item na lista, imagine como seu modelo iria avaliar você em uma escala de 1 a 10 (10 sendo o melhor). Tente realmente se colocar na mente de seu modelo e observar a si mesmo como se fosse uma terceira pessoa.
+
+Quando você tem os atributos, o ranking, e suas próprias avaliações, em uma coluna final, subtraia sua classificação em cada fileira do nível de importância que você deu à coluna anterior. Se você ranqueou algo como 10 para o atributo mais importante de seu modelo, e sua própria avaliação foi 3, isso lhe dá uma prioridade final de valor 7. Tendo preenchido esta coluna completamente, separando em ordem descendente, você terá uma lista das 10 áreas priorizadas em que você deve melhorar.
+
+Comece com os primeiros dois ou três itens, e formule uma lista de tarefas concretas que você pode começar a fazer agora para melhorar a si mesmo.
+
+## Seja um mentor
+
+Se você quer realmente aprender alguma coisa, tente ensiná-la para outra pessoa. (Learn in Public)
+
+> Para descobrir se você realmente sabe algo, tente ensinar para outra pessoa
+
+Quando ensinamos alguém nós limpamos os cantos sujos de nosso conhecimento que raramente são expostos.
+
+Você não precisa ser um especialista para ensinar, com certeza existe algo que você sabe/entende que pode de fato ajudar alguém com dificuldades. Encontre esse algo e comece a ser prestativo.
+
+Apenas comece a ajudar as pessoas.
+
+**Exercício**
+1 - Encontre alguém para ajudar. Ofereça-se como voluntário para facilitar o caminho dessa pessoa.
+
+2 - Encontre um fórum/servidor online e comece a ajudar respondendo dúvidas.Torne-se conhecido pela sua habilidade e paciência em ajudar as pessoas
+
+## Pratique, pratique, pratique
+
+Quando você pratica/estuda programação deve ser difícil, não deve ser algo simples. Se seus códigos estão sempre impecáveis e sem dificuldade alguma no processo quer dizer que você não está estendendo seus limites. A prática serve para isso.
+
+Pratique e erre nos bastidores para que possa atuar excelentemente em público.
+
+Você consegue imaginar um músico subindo no palco sem ensaiar?
+
+Invista tempo em sua profissão!
+
+> Pratique nos seus limites
+
+Você deve reservar um momento para praticar. É sua responsabilidade.
+
+**Exercício**
+
+TopCoder: Site para competir
+
+Code Kata: Site para praticar código
+
+## O jeito que você faz
+
+Normalmente metodologias são tratadas com um certo preconceito e impostas através de uma hierarquia, isso faz com que toda uma área de conhecimento seja negligenciada. Para de aceitar processos ineficientes e jargões desnecessários, se você pensa que deve existir uma maneira melhor de desenvolver software, talvez exista mesmo. Se aprofunde e mude.
+
+Para um processo funcionar ele precisa ser compreendido por todas as pessoas que irão utilizá-lo.
+
+**Exercício**
+
+1 - Escolha uma metodologia de desenvolvimento de software, e escolha um livro, comece a ler sites e inscreva-se em uma lista de e-mails. Analise a metodologia e aponte o que acha positivo e negativo.
+
+## Nos ombros dos gigantes
+
+Estudar a obra os mestres é uma parte essencial para se tornar um mestre
+
+> Minere códigos existentes para ter insights
+
+> Use códigos existentes para refletir sobre suas próprias capacidades
+
+Leia códigos de desenvolvedores excelentes para se situar e ver em qual nível você se encontra, pode ser humilhante, mas com certeza trará um grande benefício com ideias e código que você jamais teria imaginado.
+
+Se aproveite do mundo open source para entender e se aprofundar em softwares por completo.
+
+**Exercicio**
+1 - Escolha um projeto e o leia como um livro. Faça anotações. Esboce as coisas boas e ruins. Escreva uma crítica e publique
+
+2 - Encontre um grupo de pessoas que pense como você e se reuna para estudar códigos de 2 a 200 linhas. Quebre o código e discuta o que está sendo utilizado.
+
+## Automatize-se em um emprego
+
+Pare de tentar competir em quantidade de programadores offshore.
+
+Automatize processos para que você possa ter um fluxo de trabalho melhorado e possa comprovar a eficácia de um programador excelente.
