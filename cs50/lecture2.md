@@ -40,6 +40,8 @@ Functions can help us with organization, simplification and reusability
 
 > Give functions meaningful names
 
+Functions separate our code into small pieces of code with one purpose.
+
 Declaration: `return-type name(argument-list);`
 Definition:
 
