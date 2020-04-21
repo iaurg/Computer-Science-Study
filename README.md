@@ -14,11 +14,14 @@ Computer Science Degree
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 - [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercises](https://github.com/iaurg/ciencia-computacao-coursera) - ✔️
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
-- [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️
 - [42](https://www.42sp.org.br/) - ⚔️
+- CS 124: Data Structures and Algorithms
+- CS 161: Operating Systems (2019)
+- CS-121 / CSCI-E121: Introduction to Theoretical Computer Science
+
 
 ### Extra
-
+- [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP) - ✔️
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript): 9/Classes
 - [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - ✔️
 - [Rocketseat Javascript Starter](https://rocketseat.com.br/starter) - ✔️
