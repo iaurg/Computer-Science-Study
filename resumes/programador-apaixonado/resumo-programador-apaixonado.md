@@ -349,4 +349,40 @@ Se aproveite do mundo open source para entender e se aprofundar em softwares por
 
 Pare de tentar competir em quantidade de programadores offshore.
 
-Automatize processos para que você possa ter um fluxo de trabalho melhorado e possa comprovar a eficácia de um programador excelente.
+Automatize processos para que você possa ter um fluxo de trabalho melhorado e possa comprovar a eficácia de um programador excelente. Pense em automatizar o fluxo da empresa e negócio.
+
+> Não importa o qual nova ou legal uma tecnologia seja, ela só terá valor se resolver um problema real
+
+**Exercício**
+1 - Escolha uma tarefa que você faz de forma repetitiva e escreva um gerador de código para ela. Não se preocupe com reusabilidade. Apenas garanta que seu gerador economize tempo. Pense em uma maneira de aumentar o nivel de abstração do que você está gerando.
+2 - Pesquise por model-driven architecture (MDA). Experimente algumas das ferramentas disponíveis. Procure alguma lugar do seu trabalho no qual aplicar alguns conceitos MDA, ou talvez o grupo completo de ferramentas. Pense em aplicar os conceitos de MDA apenas com as ferramentas que você utiliza todo dia.
+
+## Agora Mesmo
+
+O trabalho irá se expandir pelo tempo disponível para a conclusão.
+
+Um senso de urgência mesmo que fictício é o suficiente para facilmente dobrar ou triplicar sua produtividade.
+
+Trate seus projetos como corrida e você chegará ao final muito mais rápido do que se você tratá-los como uma cela de prisão. Crie movimento. Seja aquele que empurra, não fique confortável demais.
+
+**Exercício**
+Olhe para sua escrivaninha. Examine as tarefas que estão lá por um longo tempo, os projetos que estão começando a tomar forma, ou aqueles em que você está um pouco travado -- talvez por questões burotcráticas, talvez travados por conta de alguma análise.
+Encontre um que você poderia fazer nas horas livres do seu trabalho normal, quando você estaria provavelmente navegando pela internet, checando e-mails ou tendo um almoço por mais de uma hora. Transforme um projeto de meses em uma tarefa de menos de uma semana
+
+## Leitor de mentes
+
+Preste atenção nos detalhes e conversas. Implemente funcionalidades que são frequentemente comentadas. Se forem baratas e rápidas faça-as antes de serem solicitadas.
+
+> O truque da leitura de mente, se feito certo, faz as pessoas dependerem de você.
+
+Se você conseguir identificar funcionalidades que seus clientes querem mas ainda não pediram e desenvolver, você irá encantá-los.
+
+Cuidado com os riscos da leitura de mentes:
+Comece pequeno, faça suposições de itens que podem ser encaixados nas frestas de seu trabalho normal, sem muito custo para a empresa.
+
+Evite este truque caso a mudança altere o caminho arquitetônico do sistema ou limite de alguma forma o que ele pode fazer.
+
+**Exercicio**
+Comece a tomar nota de funcionalidades que você acha que os usuários e gestores irão pedir. Seja criativo. Tente ver o sistema a partir do ponto de vista deles. Depois de ter uma lista de funcionalidades não tão obvias, pense sobre como você poderia implementá-las de forma mais eficiente. Pense sobre os casos limites que seus clientes podem não ter em mente imediatamente.
+
+Conforme você recebe solicitações de melhoria, acompanhe sua taxa de acerto. Quantas das suas suposições tornaram-se funcionalidades que realmente foram requisitadas? Quando suas suposições vieram à tona, você foi capaz de usar as ideias que vieram em sua sessão de brainstorm?
