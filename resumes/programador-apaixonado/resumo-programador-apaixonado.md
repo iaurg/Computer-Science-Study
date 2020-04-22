@@ -386,3 +386,40 @@ Evite este truque caso a mudança altere o caminho arquitetônico do sistema ou 
 Comece a tomar nota de funcionalidades que você acha que os usuários e gestores irão pedir. Seja criativo. Tente ver o sistema a partir do ponto de vista deles. Depois de ter uma lista de funcionalidades não tão obvias, pense sobre como você poderia implementá-las de forma mais eficiente. Pense sobre os casos limites que seus clientes podem não ter em mente imediatamente.
 
 Conforme você recebe solicitações de melhoria, acompanhe sua taxa de acerto. Quantas das suas suposições tornaram-se funcionalidades que realmente foram requisitadas? Quando suas suposições vieram à tona, você foi capaz de usar as ideias que vieram em sua sessão de brainstorm?
+
+## Êxito diário
+Melhore sua habilidade de expor quando excede as expectativas
+
+> Tenha uma realização para relatar todo dia
+
+Acompanhar seus êxitos com frequência irá assegurar que você não fique travado: se você deve alcançar um êxito por dia, não pode ficar elaborando a tarefa perfeita durante duas semanas.
+
+**Exercício**
+Separe meia hora e sente-se em um local calmo para pensar sobre os pequenos problemas diários de sua equipe. Anote-os. O que gasta tempo de sua equipe diariamente e que poderia ser melhorado?
+
+O que vocês estão fazendo manualmente que poderia ser feito de forma automática? Há algo que você pode limpar? Pode fazer redução de falhas?
+
+Reserve 20 minutos e escreva todas as ideais boas e ruins, separe cinco itens mais irritantes e faça 1 por dia durante a semana.
+
+## Lembre-se de para quem você trabalha
+Resolva e busque fazer parte de problemas que estão próximos a você, caso a hierarquia de sua empresa seja muito profunda. Fazendo uma pequena parte você contribui para impactar diversos níveis da empresa.
+
+> O sucesso de seu chege é o seu sucesso
+
+Alinhe-se com as necessidades do negócio e alinhe o negócio com suas necessidades. Se for dominar a sua função isso irá assegurá-lo de fazer as coisas certas
+
+**Exercicio**
+Faça uma reunião com sua equipe e entenda as metas e objetivos a serem alcançados. Pergunte como você pode fazer a diferença. Priorize o trabalho com base nessas metas.
+
+## Esteja onde você está
+
+Pare de pensar e agir com base na sua próxima promoção, faça a sa função atual de forma excelente e o próximo degrau da escada será automático.
+
+> Seja ambicioso, mas não demonstre
+
+Foque-se e invista no seu presente, por mais que o futuro seja importante. A sua dedicação no presente será refletida no futuro sem ao menos você perceber.
+
+**Exercício**
+Coloqueas metas de sua carreira de lado por uma semana. Escreva seus objetivos para seu emprego atual. Em vez de pensar sobre aonde você quer ir em seguida, pense sobre o que você quer ter alcançado quando você terminar o trabalho no qual está agora. O que você pode ter produzido nesse emprego que terá sido ótimo? Crie um plano que seja ambos estratégico e tático. Passe a semna implementando essas táticas em apoio às metas a longo prazo de "terminar" esse trabalho.
+
+Quanto tempo vai passar até que você conquiste tudo o que sente que precisa em sua função atual? Como você saberá que terá concluído? Planeje a próxima semana e repita.
