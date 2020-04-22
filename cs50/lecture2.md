@@ -92,6 +92,16 @@ Model array `type name[size]` <- size is amount of elements array contain
 
 Instantiation syntax: `bool truthtable[3] = {true, false, true}`
 
+### Command Line Arguments
+argc - Argument count
+argv - Argument vector
+
+```c
+int main(int argc string argv[])
+```
+
+This means if I provide a command like: `./hello cs50` the argc is equal 2 and argv equal ["./hello", "cs50"]
+
 ## Mentions
 
 - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
