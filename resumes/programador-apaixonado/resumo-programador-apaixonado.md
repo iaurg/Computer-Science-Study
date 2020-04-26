@@ -423,3 +423,78 @@ Foque-se e invista no seu presente, por mais que o futuro seja importante. A sua
 Coloqueas metas de sua carreira de lado por uma semana. Escreva seus objetivos para seu emprego atual. Em vez de pensar sobre aonde você quer ir em seguida, pense sobre o que você quer ter alcançado quando você terminar o trabalho no qual está agora. O que você pode ter produzido nesse emprego que terá sido ótimo? Crie um plano que seja ambos estratégico e tático. Passe a semna implementando essas táticas em apoio às metas a longo prazo de "terminar" esse trabalho.
 
 Quanto tempo vai passar até que você conquiste tudo o que sente que precisa em sua função atual? Como você saberá que terá concluído? Planeje a próxima semana e repita.
+
+## Quão bom eu posso fazer um trabalho hoje?
+
+Existem momentos específicos em que nossa habilidades chegam ao máximo e extrapolam os níveis de execução. Porque quando o prazo está atrasadou ou um erro inesperado ocorre em produção o nosso modo de desenvolver extrapola o normal e conseguimos resultados rápidos e eficientes?
+
+O que poderiamos fazer se conseguissemos esse nível de interesse e foco em todas as atividades cotidianas?
+
+> Quãos mais divertido você pode tornar seu trabalho?
+
+Provavelmente as tarefas "chatas" são chatas por dois motivos: 
+1 - Elas não ativam a nossa criatividade
+2 - Elas não são desafiadoras
+
+Acabam sendo vistas apenas como deveres a serem concluidos que você facilmente passaria para outra pessoa se fosse possível.
+
+Para "converter" tarefas chatas em algo interessante tente fazer essas tarefas de maneira perfeita.
+
+Identifique a tarefa em questão e procure a melhor e mais correta forma de fazê-la, isso com certeza acrescentará dificuldade e consequentemente um desafio.
+
+**Exercicio**
+Torne isso visível. Registre as tarefas chatas e crie competições para que elas possam ser finalizadas, com acompanhamento e rankings. Essa visualização impulsionará o seu lado competitivo e transformará a sua visão desta tarefa.
+
+## Quanto você vale?
+
+Analise quanto você custa para sua empresa e qual é o retorno que você traz para valer a pena o investimento em você (seu salário). Toda empresa precisa de um retorno desse investimento feito no profissional, e saber, ou pelo menos se interessar por quanto você traz de retorno à sua empresa fará com que você pense de maneira diferente. Ao invés de pensar em aumento de salário como um "direito" veja se você vale o investimento a mais. Você trabalha para um negócio, e ao menos que você forneça algum tipo de valor real, você é um desperdício de dinheiro.
+
+Quanto você acha que precisa entregar para ser considerado um investimento de valor à empresa?
+
+> Pergunte-se: "Fui valioso hoje?"
+
+Busque formas criativas de economizar dinheiro da empresa. Procure formas de otimizar a equipe de software. Pense nos usuários finais e como eles podem ser impactados.
+
+Lembre-se de que você precisa trazer um valor real para a sua empresa e isso fará de você um profissional indispensável.
+
+**Exercicio**
+
+A maioria das empresas possui um nível de taxa de retorno, com o qual eles calculam se um investimento vale a pena. Este número é chamado de taxa mínima. Descubra a taxa mínima de sua empresa e aplique isso ao seu salário. Você é um bom investimento?
+
+## Uma pedrinha em um balde d'água
+
+Desça de seu pedastal e pare de achar que você é insubstituível. Se você for embora da empresa em que atua terá o mesmo impacto caso qualquer outro colega seu saia, quase 0.
+
+Pense que cada dia pode ser o seu último dia e tenha a humildade para reconhecer e estar atento a tudo que você faz.
+
+Quanto mais arrogante você for em relação ao que faz, maiores as probabilidades de você desenvolver pontos cegos e deixar coisas importantes passarem.
+
+Você sempre fez de um jeito X, sempre deu certo, acha que é a melhor forma e deixa de procurar novas possibilidades que podem funcionar melhor.
+
+> Tenha cuidado para não se cegar com o próprio sucesso
+
+Quanto mais insubstituível você pensa que é, mais substituível você é (e você se torna menos desejável)
+
+Querer ser insubstituivel criará um ambiente hostil e não vantajoso para você. Poucos desenvolvedores de software são gênios realmente inigualáveis.
+
+**Exercício**
+Faça um inventário de todas as coisas que você faz e liste os itens em que sua equipe é totalmente dependente de você. Pegue todos esses itens e adicione em sua lista de tarefas para que sejam documentados, refatorados ou automatizados para que qualquer um consiga entender/fazer. Deixe este material acessível para qualquer um da equipe e repita o processo frequentemente.
+
+## Aprenda a amar manutenção
+
+Todos querem iniciar novos projetos e quase ninguém deseja dar manutenção em legados. É uma percepção que dá para entender, afinal manutenção não parece nada glamuroso, você pega um sistema cheio que janelas quebradas e com nós que você precisará de muito esforço para ajustar caso estejam errados. Criar algo novo parece ser mais libertador e "correto" pois você está definindo tudo e criando.
+
+Porém, quando algo novo está sendo criado existe muito mais expectativa por parte do solicitante e as regras/revisões tendem a ser mais rigorosas, tendo em vista que estão investindo tudo neste novo sistema.
+
+O ambiente da manutenção você precisa se preocupar em: O sistema funcionar e ajustar erros com o mínimo de custo. Fora isso você é livre para refatorar, implementar, verificar gargalos, estruturas, testes...Desde que atenda ao foco principal os demais detalhes serão vistos como melhorias bem vindas.
+
+> Manutenção pode ser um lugar de liberdade e criatividade
+
+Todo sistema se torna um legado após a primeira linha de código, tudo que vem depois é  manutenção. Aprenda a amar este ponto e você terá um ótimo caminho pela frente.
+
+**Exercício**
+Meça, melhore, meça: Para a aplicação ou código mais crítico que você mantem, faça uma lista de fatores mensuráveis que representam qualidade da aplicação. Escolha os atributos mensuráveis mais importantes e comece a medí-los.
+
+Depois que você tiver uma boa base, estabeleça um objetivo e melhore a performance de sua aplicação ou função.
+
+Repita o processo para tudo que encontrar e veja como é viciante mensurar e executar.
