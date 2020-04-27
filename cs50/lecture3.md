@@ -6,7 +6,7 @@ Theta Θ notation = To describe a algorithm if the best and worst case is the sa
 
 Linear search go one by one searching: Big(O) = O(n) / Ω = Ω(1)
 
-Binary search divide search in half: Big(O) = O(logn) / Ω = Ω(1)
+Binary search divide search in half, but this only work in sorted array: Big(O) = O(logn) / Ω = Ω(1)
 
 Selection Sort: Look for small number and move to the start... one by one = O(n2) / Ω = Ω(n-1)
 
