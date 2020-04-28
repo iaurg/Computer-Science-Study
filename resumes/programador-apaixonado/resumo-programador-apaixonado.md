@@ -498,3 +498,18 @@ Meça, melhore, meça: Para a aplicação ou código mais crítico que você man
 Depois que você tiver uma boa base, estabeleça um objetivo e melhore a performance de sua aplicação ou função.
 
 Repita o processo para tudo que encontrar e veja como é viciante mensurar e executar.
+
+## Maratona de oito horas
+
+Devemos trabalhar horas suficientes para que sejamos produtivos. Trabalhar cansado será contra produtivo pois quando estamos cansados tendemos a cometer mais erros.
+
+A idéia das oito horas é que você trabalhe com tanto afinco que seja impossível trabalhar mais que esses tempo.
+
+Com menos horas e tempo limitado cada hora será única e você dará valor para cada tempo investido no trabalho.
+
+Trabalhe menos e você realizará mais. Faça um orçamento cuidadoso das horas que você investe em trabalho.
+
+> Projetos são maratonas, não corridas de velocidade
+
+**Exercício**
+Certifique-se de que você durma bem hoje. Amanhã, tome café da manhã e, então, comece a trabalhar em um horário exato (de preferência, um pouco mais cedo que o usual). Trabalhe intensamente por quatro horas. Tire uma hora de almoço. Então, trabalha por mais quatro horas tão intensamenet que você fique exausto e não consiga fazer mais. Vá para casa, relaxe e divirta-se
