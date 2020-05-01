@@ -513,3 +513,20 @@ Trabalhe menos e você realizará mais. Faça um orçamento cuidadoso das horas 
 
 **Exercício**
 Certifique-se de que você durma bem hoje. Amanhã, tome café da manhã e, então, comece a trabalhar em um horário exato (de preferência, um pouco mais cedo que o usual). Trabalhe intensamente por quatro horas. Tire uma hora de almoço. Então, trabalha por mais quatro horas tão intensamenet que você fique exausto e não consiga fazer mais. Vá para casa, relaxe e divirta-se
+
+## Aprenda a falhar
+Quanto antes descobrir suas falhas mais robusto seu software tende a ficar. Por mais que algumas práticas de identificação de erros mostrem suas falhas, deixe seu ego de lado e busque melhorar. A qualidade de seu software agradece.
+
+O pior dos erros é aquele que você não sabe que está comentendo. Se você nunca andou em um campo minado antes, você pode não saber onde _não_ pisar. Todos cometem erros, porém o amador não sabe o que fazer quando erra e o profissional se adapta e corrige o erro com maestria.
+
+Erros podem ser cometidos tanto no ambito de programação como em outros pontos de atuação como comunicação, venda, design...
+
+Alguns pontos que fazem a diferença:
+- Errou? Assuma logo e ajude/busque como arrumar. Em software quanto antes descobrir o erro melhor.
+- Se foi você quem errou, leve a culpa e assuma a responsabilidade. O problema precisa ser resolvido, se estiverem buscando um culpado estão perdendo tempo de resolução.
+- Oferaça uma solução. Se não possui uma, tente ajudar da maneira que for possível.
+- Peça ajuda. Mate ego e orgulho de uma vez por todas, ajude sua equipe a encontrar a saída.
+
+> Momentos de estresse oferecem as melhores oportunidades de construir fidelidade
+
+Você precisará tratar e administrar um erro alguma vez na vida, quando chegar este momento a sua posição será um diferencial, e caso seja um contato direto com cliente este posicionamento poderá construir fidelidade.
