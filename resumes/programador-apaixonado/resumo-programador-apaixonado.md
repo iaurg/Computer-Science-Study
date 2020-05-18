@@ -530,3 +530,20 @@ Alguns pontos que fazem a diferença:
 > Momentos de estresse oferecem as melhores oportunidades de construir fidelidade
 
 Você precisará tratar e administrar um erro alguma vez na vida, quando chegar este momento a sua posição será um diferencial, e caso seja um contato direto com cliente este posicionamento poderá construir fidelidade.
+
+## Diga "Não"
+O jeito mais fácil de não cumprir com seus compromissos é se comprometer com o que você sabe que não conseguirá cumprir.
+
+Tenha coragem o suficiente para ser honesto
+
+**Exercicio**
+Faça uma lista com tudo que você se comprometeu:
+- O que foi pedido com uma data limite?
+- Com o que você se comprometeu?
+- Se você está atrasado, registre tanto o que você fez e o que lhe pediram para fazer.
+- Registre quando você cumpriu o dever
+
+Examine diariamente. Comunique quando você falhará assim que você perceber. Examine mensalmente -- Qual a média de sucesso? Com qual frequência você está correto?
+
+
+
