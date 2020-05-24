@@ -545,5 +545,21 @@ Faça uma lista com tudo que você se comprometeu:
 
 Examine diariamente. Comunique quando você falhará assim que você perceber. Examine mensalmente -- Qual a média de sucesso? Com qual frequência você está correto?
 
+## Não entre em pânico
 
+Tente entender todo o contexto e evite entrar em pânico por mais difícil que seja a situação. Esteja ciente de seu contexto atual para que se adeque ao todo.
+
+Normalmente entramos em pânico porque perdemos as expectativas. Quando algo dá errado tendemos a focar todas as nossas atenções para o problema, não que seja totalmente ruim, porém com o estresse no máximo e o problema aumentando os nossos cérebros tendem a "desligar".
+
+Quando entrar em pânico pare e tente visualizar a situação em terceira pessoa, tente ajudar você mesmo, analise as mensagens de erro, tente entender a situação fora do problema para que você possa ampliar seu campo de visão.
+
+**Exercicio**
+Mantenha um diário do pânico e anote nele todas as situações que você se sente/sentiu em pânico. Com esse relatório você poderá reanalisar a situação no modo offline e tentar ver outras formas de abordar.
+
+Faça as perguntas para cada situação:
+- Valeu a pena o pânico?
+- Qual teria sido a melhor reação para a situação?
+- O que um herói ou alguem que você admira teria feito nessa situação?
+  
+Depois de um tempo esta análise começará a acontecer em tempo real conforme o pânico aparece.
 
