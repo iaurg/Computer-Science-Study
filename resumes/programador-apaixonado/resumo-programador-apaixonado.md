@@ -563,3 +563,14 @@ Faça as perguntas para cada situação:
   
 Depois de um tempo esta análise começará a acontecer em tempo real conforme o pânico aparece.
 
+## Diga, faça, mostre
+
+O jeito mais fácil de nunca ter algo pronto é nunca se comprometer com nada. Se você não tem um prazo, não há uma pressão ou incentivo suficiente para concluir algo. Isso ainda é mais verdadeiro quando esse **algo** que deve ser feito não é 100% excitante.
+
+Metrifique a acompanhe as tarefas que você executa. Seu planejamento será um diferencial para você.
+
+Criar e executar planos demonstra que você não é apenas um robô que digita códigos, mas que você é um lider.
+
+Copie códigos bons até você assimilar eles dentro de você. Copie mesmo, descaradamente e vá treinando e absorvendo padrões.
+
+Falhe e copie repetidamente.
