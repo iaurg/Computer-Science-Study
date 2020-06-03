@@ -574,3 +574,25 @@ Criar e executar planos demonstra que você não é apenas um robô que digita c
 Copie códigos bons até você assimilar eles dentro de você. Copie mesmo, descaradamente e vá treinando e absorvendo padrões.
 
 Falhe e copie repetidamente.
+
+## Percepções e perssepisões
+
+Mostre sua evolução para que você seja percebido.
+
+Faça com que os outros percebam o seu valor. Normalmente isso pode ser equilibrado com comunicação. Para seu chefe não importa muito como você faz o código, ele normalmente busca outros fatores, perceba e apresente-os. Controle as percepções que as outras pessoas tem de você. Você não vai impressionar seus clientes com suas habilidades de programção orientada a objetos.
+
+**Exercicio**
+1) Percepções são conduzidas por diferentes fatores, dependendo de qual público alvo. Sua mãe não se importa muito sobre o quão bem você consegue programar, mas seus colegas de equipe sim.
+
+Entender o que é importante em cada relacionamento é uma parte crucial para formar percepções verossímeis naqueles com quem você interage. Pense nos diferentes tipos de relacionamento que você geralmente tem com as pessoas do escritório. Por exemplo, você provavelmente tem colegas que fazem o mesmo tipo de serviço que você. Você também provavelmente tem um chefe direto, e talvez você tenha um ou mais clientes e um gerente.
+
+Pegue esses grupos diferentes e os liste. Próximo a cada um, escreva quais dos seus atributos mais provavelmente vão conduzir a percepção daquele grupo sobre você. Aqui está um exemplo:
+
+| Grupo             | Condutores de percepeção                                                                               |
+|-------------------|--------------------------------------------------------------------------------------------------------|
+| Colegas de equipe | Habilidades técnicas, sociais e trabalho em equipe                                                     |
+| Chefe             | Espírito de liderança, foco no cliente, habilidades de comunicação, acompanhamento, trabalho em equipe |
+| Clientes          | Foco no cliente, habilidades de comunicação, acompanhamento                                            |
+| Gerente           | Habilidades de comunicação, acompanhamento, produtividade, habilidades técnicas                        |
+
+Pense sobre sua lista. Como você poderia mudar seu comportamento com o resultado dessa lista? O que você já vem ajustando conforme interage com cada grupo? O que você não tem ajustado em seu comportamento?
