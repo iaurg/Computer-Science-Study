@@ -5,7 +5,7 @@
 O objetivo deste repositório é reunir conteúdo para que eu e você possamos consultar durante estudos em Ciência da Computação. Irei separar em sessões de:
 
 <p align="left">
-  <a href="#rocket-sobre-o-desafio">🎓 Cursos</a>
+  <a href="#cursos">🎓 Cursos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#livros">📚 Livros</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
