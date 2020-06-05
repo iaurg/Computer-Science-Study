@@ -30,7 +30,7 @@ Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualqu
 
 🔥 Sinta-se livre para contribuir, agregar, melhorar, compartilhar, usar, ajustar, corrigir, copiar...
 
-## 🎓 Cursos
+## 🎓Cursos
 
 ### Base da computação
 Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução a computação com conceitos que serão utilizados em muitas linguagens de programação. Eu ainda estou concluindo este curso, as aulas tem em média 1~2 horas com desafios a cada módulo com um ambiente bem legal para você testar os códigos.
@@ -45,7 +45,7 @@ Os cursos e links abaixo eu reuni pesquisando e viso como uma segunda etapa
 - [CS 124: Data Structures and Algorithms](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/2020/02/21462)
 - [CS-121 / CSCI-E121: Introduction to Theoretical Computer Science](https://cs121.boazbarak.org/schedule/)
 
-## 📚 Livros
+## 📚Livros
 Irei separar os livros em técnicos, crescimento pessoal e livros interessantes para a área de software, eles possuem cada um seus pontos positivos, porém podem lhe ajudar em uma etapa diferente do seu desenvolvimento. Ser bom em algo muitas vezes exige ir além de apenas códigos.
 
 Se eu já lí e fiz um resumo do livro ele estará junto com o título.
@@ -115,7 +115,7 @@ Esses links serão bem úteis caso você queira melhorar sua habilidade de ented
 - [Code Combat (game)](https://br.codecombat.com/)
 - [Code Signal](https://codesignal.com/)
 
-## 📝 Artigos e sites
+## 📝Artigos e sites
 Aqui reuno links, sites e artigos que agregam de alguma forma o conhecimento. Seria legal você dar uma olhada
 - [Treinamento de Git interativo](https://learngitbranching.js.org/)
 - [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
