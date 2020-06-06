@@ -103,6 +103,7 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Canal Computerphile](https://www.youtube.com/user/Computerphile)
 - [Canal Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Canal Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+- [Canal Ben Eater](https://www.youtube.com/user/eaterbc)
 
 ## Sites para praticar programação
 Esses links serão bem úteis caso você queira melhorar sua habilidade de entedimento lógico, treinar alguma linguagem, praticar algoritmos ou treinar com mentores
