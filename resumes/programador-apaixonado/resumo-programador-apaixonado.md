@@ -596,3 +596,24 @@ Pegue esses grupos diferentes e os liste. Próximo a cada um, escreva quais dos 
 | Gerente           | Habilidades de comunicação, acompanhamento, produtividade, habilidades técnicas                        |
 
 Pense sobre sua lista. Como você poderia mudar seu comportamento com o resultado dessa lista? O que você já vem ajustando conforme interage com cada grupo? O que você não tem ajustado em seu comportamento?
+
+
+## Guia de aventura
+
+Foi-se os dias do hacker trancado em uma sala secreta com sua tela verde. Uma habilidade muito importante é a comunicação. Com certeza a comunicação será um fator decisivo para escolher um programador, pois quem escolhe precisa decifrar o que está sendo feito, e com certeza saber os melhores patterns não serão decisivos nesse momento.
+
+Clientes e gerentes tem medo de você! E com uma boa razão. Você é esperto. Você fala uma linguagem oculta que eles não entendem. Você os faz sentir estúpidos com seus comentários sarcásticos (mesmo quando não tem intenção). E seu trabalho é frequentemente o último e mais importante pedágio entre a concepção de um projeto e seu nascimento.
+
+Para de achar que quem não entende de "computadores" não é inteligente, assim como você entende de sua área seu cliente entende da dele. Pode ser um preconceito arraigado em você, e você sabe que sente isso.
+
+Reverta o relacionamento. Ao invés de se achar um gênio da computação, vire a mesa e assuma que seu cliente é um especialista no ramo dele com o qual você precisa aprender para fazer o seu trabalho.
+
+**Exercicio**
+
+1 - Olhe para sí mesmo: Você é aquele programador ogro e mau humorado que todo mundo teme? Você tem certeza? Eles tem medo de lhe dizer?
+
+Analise os e-mails que você já enviou para clientes, gerentes ou colegas e coloque-se no lugar deles. Como você se sente? Veja as coisas do ponto de vista deles.
+
+2 - Pule a cerca: Encontre uma oportunidade para ser jogado em uma situação em que você *não* é especialista e, portanto, depende daqueles que são.
+
+Imagine-se em um time de pessoas profissionais na área dela em que você foi introduzido como iniciante. Como você gostaria de ser tratado por seus colegas?
