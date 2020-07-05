@@ -24,6 +24,8 @@ Neste mesmo repositório existem alguns itens "extras" que dependendo da sua cur
 
 Enquanto eu estudava encontrei um repositório muito legal do @jwasham que tem a mesma ideia desse aqui, tudo que agrega é ótimo, se quiser dar uma olhada no [Code Interview University](https://github.com/jwasham/coding-interview-university)
 
+Encontrei outro projeto legal com a mesma ideia [OSSU (Open Source Society University)](https://github.com/ossu/computer-science), um caminho para quem deseja aprender Ciência da Computação usando materiais online.
+
 Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualquer desafio, serei quem cria e executa projetos de alta complexidade. Por isso viso adicionar neste repositório conteúdos que beneficiem nesse crescimento.
 
 > Nenhum homem pode viver uma vida feliz, ou mesmo uma vida suportável, sem o estudo da sabedoria; você sabe também que uma vida feliz é alcançada quando a nossa sabedoria é levada ao auge, mas que a vida é pelo menos suportável, mesmo quando a nossa sabedoria apenas começa. - Sêneca
@@ -33,11 +35,13 @@ Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualqu
 ## 🎓Cursos
 
 ### Base da computação
+
 Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução a computação com conceitos que serão utilizados em muitas linguagens de programação. Eu ainda estou concluindo este curso, as aulas tem em média 1~2 horas com desafios a cada módulo com um ambiente bem legal para você testar os códigos.
 
 [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - [Anotações](./cs50)
 
 Os cursos e links abaixo eu reuni pesquisando e viso como uma segunda etapa
+
 - [IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 - [MIT 6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
@@ -46,6 +50,7 @@ Os cursos e links abaixo eu reuni pesquisando e viso como uma segunda etapa
 - [CS-121 / CSCI-E121: Introduction to Theoretical Computer Science](https://cs121.boazbarak.org/schedule/)
 
 ## 📚Livros
+
 Irei separar os livros em técnicos, crescimento pessoal e livros interessantes para a área de software, eles possuem cada um seus pontos positivos, porém podem lhe ajudar em uma etapa diferente do seu desenvolvimento. Ser bom em algo muitas vezes exige ir além de apenas códigos.
 
 Se eu já lí e fiz um resumo do livro ele estará junto com o título.
@@ -66,7 +71,7 @@ Legenda:
 - Clean Code
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
-- Algoritmos e Estruturas de Dados Niklaus Wirth 📖 
+- Algoritmos e Estruturas de Dados Niklaus Wirth 📖
 - Refactoring
 - Domain Driven Design
 
@@ -81,6 +86,7 @@ Legenda:
 - O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumindo](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/programador-apaixonado/resumo-programador-apaixonado.md) 📖
 
 ### Crescimento Pessoal
+
 - Mastery: The Keys to Success and Long-Term Fulfillment 📙
 - Essencialismo 📙
 - Cartas de um Estoico 📙
@@ -94,10 +100,12 @@ Legenda:
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
 
 ### Indicações de livros
+
 - [Livros indicados pelo Fábio Akita, com base nos vídeos que assisti/assisto](https://amzn.to/38I6jR3)
 - [Livros indicados pelo Lucas Montano](https://amzn.to/3eVK5Od)
 
 ## Canais no Youtube:
+
 - [Canal Akitando - Fábio Akita](https://www.youtube.com/user/AkitaOnRails)
 - [Canal Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [Canal Computerphile](https://www.youtube.com/user/Computerphile)
@@ -106,6 +114,7 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Canal Ben Eater](https://www.youtube.com/user/eaterbc)
 
 ## Sites para praticar programação
+
 Esses links serão bem úteis caso você queira melhorar sua habilidade de entedimento lógico, treinar alguma linguagem, praticar algoritmos ou treinar com mentores
 
 - [Exercise](https://exercism.io/)
@@ -117,7 +126,9 @@ Esses links serão bem úteis caso você queira melhorar sua habilidade de ented
 - [Code Signal](https://codesignal.com/)
 
 ## 📝Artigos e sites
+
 Aqui reuno links, sites e artigos que agregam de alguma forma o conhecimento. Seria legal você dar uma olhada
+
 - [Treinamento de Git interativo](https://learngitbranching.js.org/)
 - [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
 - [Y Combinator Resources](https://www.ycombinator.com/resources/)
@@ -130,12 +141,15 @@ Aqui reuno links, sites e artigos que agregam de alguma forma o conhecimento. Se
 - [Repositório de pesquisas acadêmicas sobre Ciência da Computação](https://arxiv.org/corr)
 
 ### Meus treinos
+
 Aqui é uma lista de projetos ou treinos que eu fiz e faço durante os estudos, literalmente desde o inicio.
 
 - [Repositório de treinos](https://github.com/iaurg/all-challenges)
 
 ### Feitos antigamente
+
 Aqui são alguns cursos e materiais que eu já conclui antigamente, então deixarei apenas como um histórico interessante e caso alguém queira por algum motivo saber
+
 - [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercícios](https://github.com/iaurg/ciencia-computacao-coursera)
 - [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP)
 - [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
