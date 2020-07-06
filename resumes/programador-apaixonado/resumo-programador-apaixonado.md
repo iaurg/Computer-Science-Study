@@ -388,6 +388,7 @@ Comece a tomar nota de funcionalidades que você acha que os usuários e gestore
 Conforme você recebe solicitações de melhoria, acompanhe sua taxa de acerto. Quantas das suas suposições tornaram-se funcionalidades que realmente foram requisitadas? Quando suas suposições vieram à tona, você foi capaz de usar as ideias que vieram em sua sessão de brainstorm?
 
 ## Êxito diário
+
 Melhore sua habilidade de expor quando excede as expectativas
 
 > Tenha uma realização para relatar todo dia
@@ -402,6 +403,7 @@ O que vocês estão fazendo manualmente que poderia ser feito de forma automáti
 Reserve 20 minutos e escreva todas as ideais boas e ruins, separe cinco itens mais irritantes e faça 1 por dia durante a semana.
 
 ## Lembre-se de para quem você trabalha
+
 Resolva e busque fazer parte de problemas que estão próximos a você, caso a hierarquia de sua empresa seja muito profunda. Fazendo uma pequena parte você contribui para impactar diversos níveis da empresa.
 
 > O sucesso de seu chege é o seu sucesso
@@ -432,7 +434,7 @@ O que poderiamos fazer se conseguissemos esse nível de interesse e foco em toda
 
 > Quãos mais divertido você pode tornar seu trabalho?
 
-Provavelmente as tarefas "chatas" são chatas por dois motivos: 
+Provavelmente as tarefas "chatas" são chatas por dois motivos:
 1 - Elas não ativam a nossa criatividade
 2 - Elas não são desafiadoras
 
@@ -490,7 +492,7 @@ O ambiente da manutenção você precisa se preocupar em: O sistema funcionar e 
 
 > Manutenção pode ser um lugar de liberdade e criatividade
 
-Todo sistema se torna um legado após a primeira linha de código, tudo que vem depois é  manutenção. Aprenda a amar este ponto e você terá um ótimo caminho pela frente.
+Todo sistema se torna um legado após a primeira linha de código, tudo que vem depois é manutenção. Aprenda a amar este ponto e você terá um ótimo caminho pela frente.
 
 **Exercício**
 Meça, melhore, meça: Para a aplicação ou código mais crítico que você mantem, faça uma lista de fatores mensuráveis que representam qualidade da aplicação. Escolha os atributos mensuráveis mais importantes e comece a medí-los.
@@ -515,6 +517,7 @@ Trabalhe menos e você realizará mais. Faça um orçamento cuidadoso das horas 
 Certifique-se de que você durma bem hoje. Amanhã, tome café da manhã e, então, comece a trabalhar em um horário exato (de preferência, um pouco mais cedo que o usual). Trabalhe intensamente por quatro horas. Tire uma hora de almoço. Então, trabalha por mais quatro horas tão intensamenet que você fique exausto e não consiga fazer mais. Vá para casa, relaxe e divirta-se
 
 ## Aprenda a falhar
+
 Quanto antes descobrir suas falhas mais robusto seu software tende a ficar. Por mais que algumas práticas de identificação de erros mostrem suas falhas, deixe seu ego de lado e busque melhorar. A qualidade de seu software agradece.
 
 O pior dos erros é aquele que você não sabe que está comentendo. Se você nunca andou em um campo minado antes, você pode não saber onde _não_ pisar. Todos cometem erros, porém o amador não sabe o que fazer quando erra e o profissional se adapta e corrige o erro com maestria.
@@ -522,6 +525,7 @@ O pior dos erros é aquele que você não sabe que está comentendo. Se você nu
 Erros podem ser cometidos tanto no ambito de programação como em outros pontos de atuação como comunicação, venda, design...
 
 Alguns pontos que fazem a diferença:
+
 - Errou? Assuma logo e ajude/busque como arrumar. Em software quanto antes descobrir o erro melhor.
 - Se foi você quem errou, leve a culpa e assuma a responsabilidade. O problema precisa ser resolvido, se estiverem buscando um culpado estão perdendo tempo de resolução.
 - Oferaça uma solução. Se não possui uma, tente ajudar da maneira que for possível.
@@ -532,12 +536,14 @@ Alguns pontos que fazem a diferença:
 Você precisará tratar e administrar um erro alguma vez na vida, quando chegar este momento a sua posição será um diferencial, e caso seja um contato direto com cliente este posicionamento poderá construir fidelidade.
 
 ## Diga "Não"
+
 O jeito mais fácil de não cumprir com seus compromissos é se comprometer com o que você sabe que não conseguirá cumprir.
 
 Tenha coragem o suficiente para ser honesto
 
 **Exercicio**
 Faça uma lista com tudo que você se comprometeu:
+
 - O que foi pedido com uma data limite?
 - Com o que você se comprometeu?
 - Se você está atrasado, registre tanto o que você fez e o que lhe pediram para fazer.
@@ -557,10 +563,11 @@ Quando entrar em pânico pare e tente visualizar a situação em terceira pessoa
 Mantenha um diário do pânico e anote nele todas as situações que você se sente/sentiu em pânico. Com esse relatório você poderá reanalisar a situação no modo offline e tentar ver outras formas de abordar.
 
 Faça as perguntas para cada situação:
+
 - Valeu a pena o pânico?
 - Qual teria sido a melhor reação para a situação?
 - O que um herói ou alguem que você admira teria feito nessa situação?
-  
+
 Depois de um tempo esta análise começará a acontecer em tempo real conforme o pânico aparece.
 
 ## Diga, faça, mostre
@@ -582,21 +589,21 @@ Mostre sua evolução para que você seja percebido.
 Faça com que os outros percebam o seu valor. Normalmente isso pode ser equilibrado com comunicação. Para seu chefe não importa muito como você faz o código, ele normalmente busca outros fatores, perceba e apresente-os. Controle as percepções que as outras pessoas tem de você. Você não vai impressionar seus clientes com suas habilidades de programção orientada a objetos.
 
 **Exercicio**
-1) Percepções são conduzidas por diferentes fatores, dependendo de qual público alvo. Sua mãe não se importa muito sobre o quão bem você consegue programar, mas seus colegas de equipe sim.
+
+1. Percepções são conduzidas por diferentes fatores, dependendo de qual público alvo. Sua mãe não se importa muito sobre o quão bem você consegue programar, mas seus colegas de equipe sim.
 
 Entender o que é importante em cada relacionamento é uma parte crucial para formar percepções verossímeis naqueles com quem você interage. Pense nos diferentes tipos de relacionamento que você geralmente tem com as pessoas do escritório. Por exemplo, você provavelmente tem colegas que fazem o mesmo tipo de serviço que você. Você também provavelmente tem um chefe direto, e talvez você tenha um ou mais clientes e um gerente.
 
 Pegue esses grupos diferentes e os liste. Próximo a cada um, escreva quais dos seus atributos mais provavelmente vão conduzir a percepção daquele grupo sobre você. Aqui está um exemplo:
 
 | Grupo             | Condutores de percepeção                                                                               |
-|-------------------|--------------------------------------------------------------------------------------------------------|
+| ----------------- | ------------------------------------------------------------------------------------------------------ |
 | Colegas de equipe | Habilidades técnicas, sociais e trabalho em equipe                                                     |
 | Chefe             | Espírito de liderança, foco no cliente, habilidades de comunicação, acompanhamento, trabalho em equipe |
 | Clientes          | Foco no cliente, habilidades de comunicação, acompanhamento                                            |
 | Gerente           | Habilidades de comunicação, acompanhamento, produtividade, habilidades técnicas                        |
 
 Pense sobre sua lista. Como você poderia mudar seu comportamento com o resultado dessa lista? O que você já vem ajustando conforme interage com cada grupo? O que você não tem ajustado em seu comportamento?
-
 
 ## Guia de aventura
 
@@ -614,6 +621,21 @@ Reverta o relacionamento. Ao invés de se achar um gênio da computação, vire 
 
 Analise os e-mails que você já enviou para clientes, gerentes ou colegas e coloque-se no lugar deles. Como você se sente? Veja as coisas do ponto de vista deles.
 
-2 - Pule a cerca: Encontre uma oportunidade para ser jogado em uma situação em que você *não* é especialista e, portanto, depende daqueles que são.
+2 - Pule a cerca: Encontre uma oportunidade para ser jogado em uma situação em que você _não_ é especialista e, portanto, depende daqueles que são.
 
 Imagine-se em um time de pessoas profissionais na área dela em que você foi introduzido como iniciante. Como você gostaria de ser tratado por seus colegas?
+
+## Eu iscrevu mto beim
+
+Chega de programado ogro monossilábico. É necessário ter uma comunicação direta e de qualidade com os profissionais de tecnologia.
+
+Atente-se a suas habilidades de escrita e esteja ciente de que elas fazem diferença em sua carreira.
+
+> Se você não consegue organizar seus pensamentos em sua língua materna de modo que os outros entendam, como podemos esperar que você consiga fazer isso em uma linguagem de programação?
+
+Você é o que você consegue explicar.
+
+**Exercicio**
+1 - Comece um diário de desenvolvimento. Escreva um pouco em cada dia, explicando em que você tem trabalhado, justificando suas decisões de programação e examinando difíceis decisões técnicas e profissionais. Mesmo que você seja seu único público (depende de você), preste atenção na qualidade de sua escrita e em sua habilidade de se expressar claramente. Ocasionalmente, releia registros antigos e os critique. Ajuste seus novos registros com base no que gostou ou não nos anteriores.
+
+2 - Aprenda a digitar. Faça um curso e treine datilografia.
