@@ -639,3 +639,16 @@ Você é o que você consegue explicar.
 1 - Comece um diário de desenvolvimento. Escreva um pouco em cada dia, explicando em que você tem trabalhado, justificando suas decisões de programação e examinando difíceis decisões técnicas e profissionais. Mesmo que você seja seu único público (depende de você), preste atenção na qualidade de sua escrita e em sua habilidade de se expressar claramente. Ocasionalmente, releia registros antigos e os critique. Ajuste seus novos registros com base no que gostou ou não nos anteriores.
 
 2 - Aprenda a digitar. Faça um curso e treine datilografia.
+
+## Estar presente
+
+Relacionamento pessoal fortalece os laços profissionais e de amizades entre as pessoas e facilita a comunicação. Nós "humanos" ainda não estamos acostumados naturalmente com a comunicação a distância, por mais incômodo que isso possa ser para nós geeks.
+
+Programar trancado em um quarto sem falar com ninguém não é a melhor opção para sua carreira.
+
+Tente aprender de verdade sobre as pessoas com quem você trabalha.
+
+**Exercicio**
+1- Na próxima semana, pegue um dia para se forçar (com razão) a não mandar nenhum e-mail. Toda vez em que você iria fazer isso telefone para a pessoa, ou se possível vá até o escritório dela e converse pessoalmente.
+
+2- Faça uma lista de colegas, chefes e clientes com quem você não conversa o suficiente. Coloque compromissos recorrentes em sua agenda para ligar e falar com eles. Estabeleça um contato humano
