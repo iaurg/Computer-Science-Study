@@ -652,3 +652,17 @@ Tente aprender de verdade sobre as pessoas com quem você trabalha.
 1- Na próxima semana, pegue um dia para se forçar (com razão) a não mandar nenhum e-mail. Toda vez em que você iria fazer isso telefone para a pessoa, ou se possível vá até o escritório dela e converse pessoalmente.
 
 2- Faça uma lista de colegas, chefes e clientes com quem você não conversa o suficiente. Coloque compromissos recorrentes em sua agenda para ligar e falar com eles. Estabeleça um contato humano
+
+## Fale com propriedade
+
+Entenda o que a pessoa que você está conversando quer ouvir. Falar a quantidade de memória ou velocidade do servidor pode não ser tão interessante para um setor de vendas, mas informar quantos processos é capaz de automatizar com esses recursos pode ser um ótimo assunto.
+
+> Comunique-se na linguagem de seu negócio
+
+Entenda o porque das tarefas que você executa, quais são os beneficios reais para o negócio. Ou você apenas marca checklists sem dar palpite?
+
+**Exercicio**
+
+1 - Faça uma lista das suas últimas realizações. Escreva o benefício de negócio para cada uma. Se há conquistas para as quais você não consegue escrever um beneficio, pergunte ao seu chefe ou um conhecido confiável como eles enquadrariam o benefício
+
+2 - Faça seu discurso de elevador e decore-o. Esteja sempre pronto para informar os benefícios que suas ações trazem para o negócio.
