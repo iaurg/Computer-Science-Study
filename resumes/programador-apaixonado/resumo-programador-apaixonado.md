@@ -666,3 +666,32 @@ Entenda o porque das tarefas que você executa, quais são os beneficios reais p
 1 - Faça uma lista das suas últimas realizações. Escreva o benefício de negócio para cada uma. Se há conquistas para as quais você não consegue escrever um beneficio, pergunte ao seu chefe ou um conhecido confiável como eles enquadrariam o benefício
 
 2 - Faça seu discurso de elevador e decore-o. Esteja sempre pronto para informar os benefícios que suas ações trazem para o negócio.
+
+## Mude o mundo
+
+Nada pior do que seus colegas não saberem o que você faz, se você quer ser apenas alguem que cumpre tarefas ou um programador offshore tudo bem, mas se pretende chegar a níveis altos precisa realizar mudança impactantes que os outros sintam e saibam o porque você está lá. Você precisa ir ao trabalho com uma missão.
+
+Se você sabe que algo poderia ser melhor vá e diga, mostre como. Sabe uma forma de fazer sistemas melhores e mais em conta? Mostre para todos.
+
+**Exercicio**
+
+1 - Liste o que você já testemunhou em seu trabalho. Pense nas pessoas determinadas com quem trabalhou. Quais eram suas missões? Alguma foi inapropriada ou passou dos limites?
+
+## Faça sua voz ser ouvida
+
+Pense além de ficar conhecido apenas em seu ambiente de trabalho. Veja você em um local mais alto, não se defina como programador de uma empresa específica. Empresas querem contratar especialistas, mas e se contratarem você porque já te conhecem, ou leram uma experiência sua?
+
+Para começar a sair do "buraco" e ser ouvido pelo mundo comece pela web.
+
+- Leia blogs
+- Faça seu próprio blog
+- Pratique a arte de escrever
+- Escrevendo e tendo um crescimento online pode abrir oportunidades para outras formas de exposição
+- Comece participando de pequenos eventos, e faça um trabalho bem feito caso vá palestrar. Lembre-se que é um treinamento
+- Inicie agora mesmo! Você tem algo a ensinar. Nunca irá se sentir totalmente pronto, então talvez você deva começar agora.
+
+**Exercicio**
+1 - Se ainda não tem um blog, faça agora mesmo.
+2 - Faça uma lista de possíveis tópicos para seu blogs
+3 - Deixe a sua lista aberta e escreva um artigo para cada tópico que listar ali. Cada dia escolha um item e escreva.
+4 - Não pense muito, apenas escreva e publique.
