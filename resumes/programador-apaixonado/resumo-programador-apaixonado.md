@@ -695,3 +695,28 @@ Para começar a sair do "buraco" e ser ouvido pelo mundo comece pela web.
 2 - Faça uma lista de possíveis tópicos para seu blogs
 3 - Deixe a sua lista aberta e escreva um artigo para cada tópico que listar ali. Cada dia escolha um item e escreva.
 4 - Não pense muito, apenas escreva e publique.
+
+## Construa sua marca
+
+Equilibre para seu nome ser reconhecido e ao mesmo tempo ter respeito.
+
+Lembre-se que tudo que você faz e opina online fica guardado em algum local e poderá ser consultado, mantenha-se respeitável onde quer que seja.
+
+**Exercicio**
+
+Pesquise seu nome no Google entre aspas e veja o que aparece. É algo de qualidade? Está bem representado?
+
+## Lance seu código
+
+Imagine você trabalhar em algum local que já utiliza um código que você desenvolveu? Isso seria demais ne? É possível hoje em dia. Opensource.
+
+Pessoas que escrevem open source são como você, sentados e programando em sua casa.
+
+Contribuições open source demonstram paixão pelo sua vocação e uma contínua demonstração de habilidade. Reserve
+
+Se criar algo realmente útil existe uma chance de você fica famoso, mesmo que seja em um nicho da comunidade. Ao fazer isso as pessoas o conhecerão e irão utilizar o que você faz, e isso é positivo para sua reputação.
+
+**Exercicio**
+Stuart Halloway (http://thinkrelevance.com)tem um workshop feito em congressos que chama de “Refactotum”. Se você tiver a chance de participar, eu realmente o recomendo, mas a essência é o seguinte: Pegue uma parte de um software open source com testes de unidade. Rode os testes por um analisador de cobertura de código. Encontre a parte menos testada do sistema e escreva testes para melhorar a cobertura daquele código. Códigos não testados geralmente são códigos não testáveis. Refatore para torná-lo mais testável. Envie um patch com a sua alteração.
+
+O legal é que isso é mensurável e pode ser feito rapidamente. Não há desculpas para não tentar.
