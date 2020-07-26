@@ -740,3 +740,17 @@ Em vez de ser apenas respeitado pelos seus colegas de trabalho torne-se autorida
 Não seja apenas o melhor do grupo. Seja o cara e faça as coisas sobre as quais as pessoas não podem deixar de falar.
 
 1- Comece pequeno, mas tente fazer algo de marcante em seu atual projeto ou trabalho. Uma das maneiras é tentar alcançar uma produtividade marcante. Veja se as pessoas notam, se não, porque? Se sim, de que forma? Ajuste e tente denovo.
+
+## Fazendo o gancho
+
+Seja corajoso e converse com as pessoas referência de seu ramo, não tenha medo de estar "incomodando", por mais que alguem seja um grande especialista ou mestre no assunto, com certeza gostará de falar sobre o que faz e responder dúvidas.
+
+> O medo nos separa dos profissionais
+
+A barreira mais séria entre nós "mortais" e as pessoas que admiramos é o medo.
+
+Algumas das mentes mais influentes do mundo do software estão acessíveis por e-mail ou até mesmo chat em tempo real, perca seu medo e seja humilde para conversar caso veja uma oportunidade.
+
+**Exercicio**
+1 - Escolha um de seus softwares favoritos e mande um e-mail para o criador, agradecendo, dando alguma dica, tente criar algum vínculo.
+2 - Pense onde você pode encontrar uma pessoa que você admira e gostaria de aprender algo. Dê um jeito de começar uma conversa, mesmo se isso te deixar desconfortável.
