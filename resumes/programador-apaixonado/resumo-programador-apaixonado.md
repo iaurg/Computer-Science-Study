@@ -720,3 +720,23 @@ Se criar algo realmente útil existe uma chance de você fica famoso, mesmo que 
 Stuart Halloway (http://thinkrelevance.com)tem um workshop feito em congressos que chama de “Refactotum”. Se você tiver a chance de participar, eu realmente o recomendo, mas a essência é o seguinte: Pegue uma parte de um software open source com testes de unidade. Rode os testes por um analisador de cobertura de código. Encontre a parte menos testada do sistema e escreva testes para melhorar a cobertura daquele código. Códigos não testados geralmente são códigos não testáveis. Refatore para torná-lo mais testável. Envie um patch com a sua alteração.
 
 O legal é que isso é mensurável e pode ser feito rapidamente. Não há desculpas para não tentar.
+
+## Seja Marcante
+
+As pessoas são mais propensas a escutar a dica de um amigo do que em um anúncio.
+
+A única maneira de se destacar em uma multidão, na verdade, é ser brilhante.
+
+Marcante não é o mesmo que "bom". Ser marcante significa que algo merece sua atenção. Para ser marcante, você deve ser significativamente diferente daqueles ao seu redor.
+
+Você precisa de notoriedade para ser visto.
+
+> Faça demonstrações de seu conhecimento ou morra
+
+Apenas ser não é o suficiente, você precisa ser e fazer. Ser o melhor e mostrar fazendo que é o melhor.
+
+Em vez de ser apenas respeitado pelos seus colegas de trabalho torne-se autoridade mais conhecida da sua cidade na tecnologia que você foca.
+
+Não seja apenas o melhor do grupo. Seja o cara e faça as coisas sobre as quais as pessoas não podem deixar de falar.
+
+1- Comece pequeno, mas tente fazer algo de marcante em seu atual projeto ou trabalho. Uma das maneiras é tentar alcançar uma produtividade marcante. Veja se as pessoas notam, se não, porque? Se sim, de que forma? Ajuste e tente denovo.
