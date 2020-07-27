@@ -754,3 +754,20 @@ Algumas das mentes mais influentes do mundo do software estão acessíveis por e
 **Exercicio**
 1 - Escolha um de seus softwares favoritos e mande um e-mail para o criador, agradecendo, dando alguma dica, tente criar algum vínculo.
 2 - Pense onde você pode encontrar uma pessoa que você admira e gostaria de aprender algo. Dê um jeito de começar uma conversa, mesmo se isso te deixar desconfortável.
+
+## Já obsoleto
+
+> Suas brilhantes novas habilidades já são obsoletas
+
+Quanto mais bem sucedido for seu negócio, é mais provável que você fique confortável com seu modelo de negócio, tornando-se incrivelmente vulnerável para aqueles que vêm atrás de você com uma nova ideia radical, mesmo que seja estúpida.
+
+Cuidado com o sucesso que gera arrogância e cega você gerando uma complacência. Todas as ondas se dissipam ou encontram a costa eventualemente.
+
+Se timing é tudo, comece a pensar a frente com seus estudos. Se você perdeu a última onda, prepare-se para a próxima. Se
+
+O que vai ser possivel em dois anos que ainda não é agora? O que não precisariamos nos preocupar em otimizar?
+
+Olhar adiante e ser explicito sobre o desenvolvimento de suas habilidades pode fazer a diferença entre ser cego ou visionário.
+
+**Exercicio**
+1 - Separa um momento para investigar novas tecnologias, encontre pelo menos 2 horas por semana para pesquisar novas tecnologias e desenvolver suas habilidades nelas. Ponha a mão na massa, mesmo que seja com aplicações simples. Faça protótipos. Coloque em sua agenda.
