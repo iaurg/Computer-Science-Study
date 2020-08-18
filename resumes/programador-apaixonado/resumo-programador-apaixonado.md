@@ -770,4 +770,17 @@ O que vai ser possivel em dois anos que ainda não é agora? O que não precisar
 Olhar adiante e ser explicito sobre o desenvolvimento de suas habilidades pode fazer a diferença entre ser cego ou visionário.
 
 **Exercicio**
-1 - Separa um momento para investigar novas tecnologias, encontre pelo menos 2 horas por semana para pesquisar novas tecnologias e desenvolver suas habilidades nelas. Ponha a mão na massa, mesmo que seja com aplicações simples. Faça protótipos. Coloque em sua agenda.
+1 - Separe um momento para investigar novas tecnologias, encontre pelo menos 2 horas por semana para pesquisar novas tecnologias e desenvolver suas habilidades nelas. Ponha a mão na massa, mesmo que seja com aplicações simples. Faça protótipos. Coloque em sua agenda.
+
+## Você já perdeu seu emprego
+
+O mercado muda constantemente, não se permita ficar muito confortável com sua posição atual. O mercado de tecnologia é um esfera em crescimento e mudança frequentes.
+
+Não agarre-se a sua função
+
+> Você não é seu emprego
+
+Você deve mirar em um objetivo mas se ajustar conforme as coisas mudam, traçar um plano reto e cego é arriscado. O plano certo de carreira e degraus evolutivos pode não ser mais tão "certo" assim. Ajuste-se, seja flexível, por mais que tenha seus objetivos saiba moldá-los.
+
+**Exercicio**
+Se você é um programador, tente por um dia fazer o seus trabalho como se fosse um testador ou gerente de projetos, mude um pouco de posição para ver "como é". Faça uma lista e teste diferentes posições, talvez não mude seu dia a dia, mas mudará a sua visão de trabalho.
