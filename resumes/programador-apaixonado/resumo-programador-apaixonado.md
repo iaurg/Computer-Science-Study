@@ -79,8 +79,15 @@ Ao invés de simplesmente completar listas de tarefas, você pensará e terá ba
 
 Se esforce para expandir seu conhecimento de negócios e tente entender uma gama alta de negócios diferentes, esse ponto será um diferencial em sua carreira.
 
-**Exercício** ⚔️
+**Exercício** ✔️
 Regularmente converse com algum empresário e pergunte como funciona o negócio dele, como eles trabalham, quais são as dificuldade ou facilidades tecnológicas que possuem. Com essas informações de forma recorrente seu repertório e entendimento de negócios será expandido e você terá mais argumentos e bases para conversar com clientes.
+
+_R:_
+Empresário 1: Tem uma grande dificuldade em encontrar profissionais na área de tecnologia, os preços para contratação não possuem um limiar equilibrado entre qualidade e custo. Apesar de ter ideias e planos para executar ações com tecnologia possui dificuldade na contratação e execução desses projetos.
+
+Empresário 2: O negócio funciona tranquilamente porém com diversos "furos" de funções onde a tecnologia poderia ser útil, excesso de trabalhos manuais e repetitivos que poderiam ser automatizados. Esta pessoa precisa de ideias e visões para entender o que é possível ser realizado, na falta de um setor de TI interno precisa apostar em contratações via mensalidade que dificilmente trazem ideias de negócio no dia a dia.
+
+Opinião minha: No Brasil atualmente parece haver um problema no equilibrio de conhecimento e ação dentro das empresas. Empresas de pequeno e médio porte raramente possuem um foco em tecnologia ou tendência para encontrar soluções dentro desta área, ainda atuam muito de forma "tradicional", abrindo o negócio e "tocando" ele. Creio que pela questão de custo e muitas vezes falta de conhecimento/entendimento perdem algumas oportunidades de atuação que poderiam ser muito bem aproveitadas. Soluções de qualidade parecem ter um custo muito alto dentro de alguns cenários que ficam orfãos deste tipo de informação.
 
 ## Seja o pior
 
@@ -88,7 +95,7 @@ Buscando ser "o pior" do ambiente em que você vive induzirá você a se adequar
 
 > Seja o pior em qualquer grupo em que estiver
 
-Por mais estranho que pareça você ficará mais inteligente e com códigos mais elegantes. Sendo o pior voluntariamente removerá o medo de errar e fará você
+Por mais estranho que pareça você ficará mais inteligente e com códigos mais elegantes. Sendo o pior voluntariamente removerá o medo de errar e fará você tentar inconscientemente se equilibrar a estas pessoas.
 
 > As pessoas ao seu redor afetam a sua performance. Escolha bem seu grupo.
 
@@ -100,7 +107,7 @@ Ache uma comunidade, projeto open-source, meetup, desafio e participe ativamente
 
 ## Invista em sua inteligência
 
-Force-se a inserir você mesmo em ambientes hostis e mais exóticos quando estiver estudando ou programando por diversão, isso criará uma "armadura" concreta e um conhecimento além do comum. Dessa maneira você será um destaque em meio a tantos que buscam apenas comum e simples. Ame aprender coisas novas, busque diversidade.
+Force-se a inserir você mesmo em ambientes hostis e mais exóticos quando estiver estudando ou programando por diversão, isso criará uma "armadura" concreta e um conhecimento além do comum. Dessa maneira você será um destaque em meio a tantos que buscam apenas o comum e simples. Ame aprender coisas novas, busque diversidade.
 
 Se você estiver interessado todos saberão que você aprende as coisas por autodesenvolvimento e melhor ainda por pura diversão, você mostrará ânimo e motivação perante sua profissão.
 
@@ -119,22 +126,26 @@ Normalmente conselhos dados por pessoas próximas serão induzidos pelo medo e t
 
 Outra questão referente a carreira que está indo de encontro com o tradicional é a mudança de emprego frequente, porém na área de TI isso pode ser preferível. Como profissional de software o máximo de conhecimento e experiência em diversas áreas fará com que você amplie seu conhecimento e percepção em como construir programas.
 
-Assuma riscos em sua carreira. Não deixe o medo o consumir. E se você não estiver se divertindo, você não vai ser excelente.
+Assuma riscos em sua carreira. Não deixe o medo te consumir. E se você não estiver se divertindo, você não vai ser excelente.
 
 **Exercício** ✔️
 Quais são os seus maiores medos com relação à sua carreira? Pense sobre as últimas decisões que você tomou. Faça uma lista de escolhas que fez e pense o quanto dessas decisões foram conduzidas pelo medo? Como você poderia reverter e tomar uma decisão com menos medo?
 
+08/04/2020
 _R:_ Creio que uma das preocupações é em relação ao tempo, parece que não vai dar tempo de aprender tudo que quero. Mas sei que esta é uma ansiedade sem base pois a maestria de algo vem com a pratica deliberada, algo que me ajudou muito nessa questão foram os videos do Fabio Akita explorando a dimensão do tempo.
 
-Poucas das minhas escolhas são tomadas com medo, existe uma incerteza por fatos externos que não podem ser controlados por mim, mas esse é um fator comum. As escolhas dos últimos anos é o foco em ser excelente, então venho melhorando pouco a pouco para alcançar o que busco.
+Poucas das minhas escolhas são tomadas com medo, existe uma incerteza por fatos externos que não podem ser controlados por mim, mas esse é um fator comum. As escolha dos últimos anos é o foco em ser excelente, então venho melhorando pouco a pouco para alcançar o que busco.
+
+22/08/2020
+_R:_ Nos últimos 4 meses tomei algumas decisões baseadas na confiança, apesar de ter o medo de agir em um ponto onde não tinha um conhecimento total, fui confiante por ter estudado e arrisquei para tentar o melhor. Não sei se teria uma forma para reverter e tomar uma decisão com menos medo, assumir responsabilidades com "skin in the game" sempre terão uma ponta de incerteza, mas talvez se eu tivesse uma bagagem mais densa sobre o assunto o medo seria menor pelo excesso de confiança.
 
 ## Seja generalista
 
-O mundo de software é composto por mudanças rápidas, ágeis e flexiveis, então você também precisa se adaptar.
+O mundo de software é composto por mudanças rápidas, ágeis e flexíveis, então você também precisa se adaptar.
 
 Para se tornar a pessoa que será lembrada você precisa ser capaz de resolver problemas. E quais são esses problemas? Exatamente, você não sabe. Nem ninguém.
 
-Normalmente generalista são rotulados como pessoas que sabem de tudo mas não entendem de nada, visto como algo ruim. Mas quando você tiver um problema que precisa de solução rápida alguém que conhece de tudo um pouco pode ser muito mais eficiente, essa pessoa poderá resolver o erro, subir o servidor e ainda verificar o banco de dados para ver se está funcionando. O generalista pode tomar decisões de arquitetura, design e implementar a correção para o servido em produção rapidamente. Neste cenário a ideia de especialista parece bem antiquada.
+Normalmente generalistas são rotulados como pessoas que sabem de tudo mas não entendem de nada, visto como algo ruim. Mas quando você tiver um problema que precisa de solução rápida alguém que conhece de tudo um pouco pode ser muito mais eficiente, essa pessoa poderá resolver o erro, subir o servidor e ainda verificar o banco de dados para ver se está funcionando. O generalista pode tomar decisões de arquitetura, design e implementar a correção para o servidor em produção rapidamente. Neste cenário a ideia de especialista parece bem antiquada.
 
 Se você é apenas um "programador", ou um testador, ou um designer, você vai se encontrar ocioso ou fazendo trabalho pesado e sem importância. Se você é "apenas" um programador .NET você não vai ter muito a contribuir quando o foco de um projeto ou empresa mudar, mesmo que temporariamente, da sua área de foco. É sobre o quão útil você é.
 
@@ -144,9 +155,9 @@ O caminho para se tornar generalista é não se rotular, seja flexível.
 
 No mundo atual de evolução rápida um lider técnico que pode gerir pessoas mas também pode resolver um bug crítico de última hora terá muito mais valor. Tente evitar ser o programador bitolado que só fala com máquinas, as vezes é bom entender do negócio ou liderar, pode ser necessário. Profissionais que saem do comum são raros.
 
-> Suas habilidades transcedem tecnologia.
+> Suas habilidades transcendem tecnologia.
 
-Outro exemplo é em relação a plataforma, ser um amante do UNIX que se recusa a trabalhar no Windows é inviável. Seja neutro em relação as suas escolhas, todos temos preferências, mas em alguns momento devemos deixá-las de lado. Domine uma tecnologia e fique bom em outra. Suas habilidades devem transceder tecnologia ou plataforma. Lembre-se que são apenas ferramentas.
+Outro exemplo é em relação a plataforma, ser um amante do UNIX que se recusa a trabalhar no Windows é inviável. Seja neutro em relação as suas escolhas, todos temos preferências, mas em alguns momentos devemos deixá-las de lado. Domine uma tecnologia e fique bom em outra. Suas habilidades devem transceder tecnologia ou plataforma. Lembre-se que são apenas ferramentas.
 
 **Exercício**
 Liste as dimensões em que você pode ou não estar generalizando seus conhecimentos e habilidades. Para cada dimensão escreva sua especialidade.
@@ -154,10 +165,15 @@ Liste as dimensões em que você pode ou não estar generalizando seus conhecime
 Assim que possível comece a aprender alguma tecnologia que você listou. Se possível pratique e aplique.
 
 _Lista_
+
 Linguagem de programação/JavaScript => Rust 🌱
+
 Paradigma/Imperativo => Reativo, Procedural, funcional 🌱
+
 Economia/Criptomoedas/ações => Commodities 🌱
+
 Vendas e comunicação 🌱
+
 Marketing de comunicação e conteúdo 🌱
 
 ## Seja especialista
@@ -170,7 +186,7 @@ Ser especialista não é saber apenas uma coisa e desconhecer as outras. Seguind
 
 Infelizmente na área de software existem muitos especialistas rasos que usam o termo apenas como desculpa para saber só uma coisa. Especialista deve ser alguém com um profundo conhecimento técnico em uma área específica.
 
-Seja um especialista que saiba resolver qualquer problema de implatação em sua linguagem ou que ao menos saiba a quem pedir ajuda se necessário.
+Seja um especialista que saiba resolver qualquer problema de implantação em sua linguagem ou que ao menos saiba a quem pedir ajuda se necessário.
 
 Este é o tipo de especialista que a indústria precisa. Se você é um especialista em Ruby, isso não é uma desculpa para não saber nada além de Ruby. Isso significa, que se for relacionado a Ruby você é o cara. Clientes com problemas no servidor e ninguém sabe o porque? "Dê 30 minutos".
 
@@ -183,8 +199,11 @@ Encontre uma oportunidade e dê uma aula sobre algum tema da tecnologia que voc�
 
 _R:_
 Coincidentemente as perguntas aqui casam com as aulas da [CS50](../../cs50)
+
 1 - O computador executa apenas binário, então sempre haverá algum interpretador para "transformar" todo o texto legível em binário. O process desta transformação pode variar de acordo com cada linguagem. CÓDIGO -> INTERPRETADOR -> BINÁRIO (0010)
+
 2 - Teoricamente você mesmo construirá o processo até se comunicar diretamente com o Hardware.
+
 3 - Depende, normalmente vem de gerenciadores de bibliotecas (npm, yarn, github, gem...). Bibliotecas são códigos que alguma pessoa escreveu e você acopla em seu código. Tudo que estiver nessa biblioteca também fará parte de seu programa, por isso é bom prestar atenção em quais bibliotecas está utilizando.
 
 Vou ensinar o [CS50](https://cs50.harvard.edu/x/2020/) como forma de revisão.
@@ -213,7 +232,9 @@ Todos podemos dar um grande passo longe da mediocridade encontrando um trabalho 
 **Exercício**
 Vá encontrar um emprego que você é apaixonado
 
-Mantenha um registro simples avaliando seu nível de empolgação de 1 a 10.1 significa que você preferia estar doente do que ir ao trabalho e 10 que você não consegue ficar na cama pois precisa finalizar sua próxima tarefa. Depois de duas semanas analise os resultados. Foi tudo baixo ou alto?
+Mantenha um registro simples avaliando seu nível de empolgação de 1 a 10.
+
+1 significa que você preferia estar doente do que ir ao trabalho e 10 que você não consegue ficar na cama pois precisa finalizar sua próxima tarefa. Depois de duas semanas analise os resultados. Foi tudo baixo ou alto?
 
 Para as próximas semanas toda manhã planeje como você fará o dia ser um 10. Cada dia registre o nivel de empolgação do dia anterior. Se ainda continuar com médias baixas talvez seja hora de pensar em mudança.
 
@@ -223,7 +244,7 @@ Educação exige um professor e um estudante. Muitos de nós somos muitas vezes 
 
 > Não espere que lhe digam. Pergunte!
 
-Evite ficar à merce de outras pessoas, seja independente ao máximo que conseguir. Por mais tenham outros profissionais em sua equipe, tente entender o que eles fazem e porque a função deles está interligada com a sua.
+Evite ficar à merce de outras pessoas, seja independente ao máximo que conseguir. Por mais que tenham outros profissionais em sua equipe, tente entender o que eles fazem e porque a função deles está interligada com a sua.
 
 Comece a aprender as ferramentas de seu mercado. Tudo que faz parte de seu processo de desenvolvimento precisa ser entendido, nem que seja o mínimo. Evite ficar com "coisas mágicas" que funcionam e você nem sabe como ou porque. Entenda o mínimo para conseguir se virar, e o que tiver dúvidas e precisar, pergunte.
 
@@ -238,7 +259,7 @@ Você pode não saber responder, mas o simples fato de se questionar já o coloc
 
 Continue perguntando sobre como e porque até que tenha ido longe o suficiente.
 
-Escolha uma das mais críticas porém negligenciadas ferramentas de seu ambiente e foque nela. Reserve um pequeno periodo de tempo todos os dias para aprender uma coisa nova sobre ela que vai lhe dar mais controle. Em momentos que a mente divaga ao invés de ir para o Facebook ou Twitter, você pode buscar por dicas de bash. Rapidamente você encontrará alguma coisa que não sabia e pode usar o truque do como e porque.
+Escolha uma das mais críticas porém negligenciadas ferramentas de seu ambiente e foque nela. Reserve um pequeno período de tempo todos os dias para aprender uma coisa nova sobre ela que vai lhe dar mais controle. Em momentos que a mente divaga ao invés de ir para o Facebook ou Twitter, você pode buscar por dicas de bash. Rapidamente você encontrará alguma coisa que não sabia e pode usar o truque do como e porque.
 
 ## Aprenda como os negócios realmente funcionam
 
@@ -271,7 +292,9 @@ Você precisa de novos níveis comparativos para ver que não é "tão bom" quan
 
 1. Tutorie a si mesmo – todos nós queremos ter alguém para nos orientar, mas a realidade é que nem sempre vamos poder encontrar alguém a quem possamos dar esse papel. Eis um jeito de fazer uma automentoria.
 
-Pense na pessoa de sua área que você mais admira. Muitos de nós já possuem uma pequena lista pronta, pegando de algum momento de nossas carreiras. Pode ser alguém com quem tenha trabalhado, ou pode ser alguém cujo trabalho é admirado. Liste os dez atributos mais importantes desse modelo a seguir. Escolha os atributos que são a razão de você tê-lo escolhido para esse papel. Tais atributos podem ser de áreas específicas de habilidade, como amplitude de tecnologia, ou a profundidade de conhecimento sobre algum domínio. Ou, eles podem ter características mais pessoais, como a habilidade de deixar os membros da equipe tranquilos, ou a de ser um palestrante envolvente.
+Pense na pessoa de sua área que você mais admira. Muitos de nós já possuem uma pequena lista pronta, pegando de algum momento de nossas carreiras. Pode ser alguém com quem tenha trabalhado, ou pode ser alguém cujo trabalho é admirado.
+
+Liste os dez atributos mais importantes desse modelo a seguir. Escolha os atributos que são a razão de você tê-lo escolhido para esse papel. Tais atributos podem ser de áreas específicas de habilidade, como amplitude de tecnologia, ou a profundidade de conhecimento sobre algum domínio. Ou, eles podem ter características mais pessoais, como a habilidade de deixar os membros da equipe tranquilos, ou a de ser um palestrante envolvente.
 
 Agora, ranqueie essas qualidades em ordem de importância, sendo que 1 é o menos importante e 10, o mais importante. Você acabou de criar e destilar uma lista de atributos que você acha admiráveis e importantes. Esses são os caminhos nos quais você deve se empenhar para emular o modelo escolhido. Mas como escolher em qual focar primeiro?
 
@@ -320,7 +343,7 @@ Code Kata: Site para praticar código
 
 ## O jeito que você faz
 
-Normalmente metodologias são tratadas com um certo preconceito e impostas através de uma hierarquia, isso faz com que toda uma área de conhecimento seja negligenciada. Para de aceitar processos ineficientes e jargões desnecessários, se você pensa que deve existir uma maneira melhor de desenvolver software, talvez exista mesmo. Se aprofunde e mude.
+Normalmente metodologias são tratadas com um certo preconceito e impostas através de uma hierarquia, isso faz com que toda uma área de conhecimento seja negligenciada. Pare de aceitar processos ineficientes e jargões desnecessários, se você pensa que deve existir uma maneira melhor de desenvolver software, talvez exista mesmo. Se aprofunde e mude.
 
 Para um processo funcionar ele precisa ser compreendido por todas as pessoas que irão utilizá-lo.
 
@@ -330,7 +353,7 @@ Para um processo funcionar ele precisa ser compreendido por todas as pessoas que
 
 ## Nos ombros dos gigantes
 
-Estudar a obra os mestres é uma parte essencial para se tornar um mestre
+Estudar a obra dos mestres é uma parte essencial para se tornar um mestre.
 
 > Minere códigos existentes para ter insights
 
@@ -341,7 +364,7 @@ Leia códigos de desenvolvedores excelentes para se situar e ver em qual nível 
 Se aproveite do mundo open source para entender e se aprofundar em softwares por completo.
 
 **Exercicio**
-1 - Escolha um projeto e o leia como um livro. Faça anotações. Esboce as coisas boas e ruins. Escreva uma crítica e publique
+1 - Escolha um projeto e o leia como um livro. Faça anotações. Esboce as coisas boas e ruins. Escreva uma crítica e publique.
 
 2 - Encontre um grupo de pessoas que pense como você e se reuna para estudar códigos de 2 a 200 linhas. Quebre o código e discuta o que está sendo utilizado.
 
@@ -355,6 +378,7 @@ Automatize processos para que você possa ter um fluxo de trabalho melhorado e p
 
 **Exercício**
 1 - Escolha uma tarefa que você faz de forma repetitiva e escreva um gerador de código para ela. Não se preocupe com reusabilidade. Apenas garanta que seu gerador economize tempo. Pense em uma maneira de aumentar o nivel de abstração do que você está gerando.
+
 2 - Pesquise por model-driven architecture (MDA). Experimente algumas das ferramentas disponíveis. Procure alguma lugar do seu trabalho no qual aplicar alguns conceitos MDA, ou talvez o grupo completo de ferramentas. Pense em aplicar os conceitos de MDA apenas com as ferramentas que você utiliza todo dia.
 
 ## Agora Mesmo
@@ -366,7 +390,8 @@ Um senso de urgência mesmo que fictício é o suficiente para facilmente dobrar
 Trate seus projetos como corrida e você chegará ao final muito mais rápido do que se você tratá-los como uma cela de prisão. Crie movimento. Seja aquele que empurra, não fique confortável demais.
 
 **Exercício**
-Olhe para sua escrivaninha. Examine as tarefas que estão lá por um longo tempo, os projetos que estão começando a tomar forma, ou aqueles em que você está um pouco travado -- talvez por questões burotcráticas, talvez travados por conta de alguma análise.
+Olhe para sua escrivaninha. Examine as tarefas que estão lá por um longo tempo, os projetos que estão começando a tomar forma, ou aqueles em que você está um pouco travado -- talvez por questões burocráticas, talvez travados por conta de alguma análise.
+
 Encontre um que você poderia fazer nas horas livres do seu trabalho normal, quando você estaria provavelmente navegando pela internet, checando e-mails ou tendo um almoço por mais de uma hora. Transforme um projeto de meses em uma tarefa de menos de uma semana
 
 ## Leitor de mentes
@@ -406,7 +431,7 @@ Reserve 20 minutos e escreva todas as ideais boas e ruins, separe cinco itens ma
 
 Resolva e busque fazer parte de problemas que estão próximos a você, caso a hierarquia de sua empresa seja muito profunda. Fazendo uma pequena parte você contribui para impactar diversos níveis da empresa.
 
-> O sucesso de seu chege é o seu sucesso
+> O sucesso de seu chefe é o seu sucesso
 
 Alinhe-se com as necessidades do negócio e alinhe o negócio com suas necessidades. Se for dominar a sua função isso irá assegurá-lo de fazer as coisas certas
 
@@ -415,20 +440,22 @@ Faça uma reunião com sua equipe e entenda as metas e objetivos a serem alcanç
 
 ## Esteja onde você está
 
-Pare de pensar e agir com base na sua próxima promoção, faça a sa função atual de forma excelente e o próximo degrau da escada será automático.
+Pare de pensar e agir com base na sua próxima promoção, faça a sua função atual de forma excelente e o próximo degrau da escada será automático.
 
 > Seja ambicioso, mas não demonstre
 
 Foque-se e invista no seu presente, por mais que o futuro seja importante. A sua dedicação no presente será refletida no futuro sem ao menos você perceber.
 
 **Exercício**
-Coloqueas metas de sua carreira de lado por uma semana. Escreva seus objetivos para seu emprego atual. Em vez de pensar sobre aonde você quer ir em seguida, pense sobre o que você quer ter alcançado quando você terminar o trabalho no qual está agora. O que você pode ter produzido nesse emprego que terá sido ótimo? Crie um plano que seja ambos estratégico e tático. Passe a semna implementando essas táticas em apoio às metas a longo prazo de "terminar" esse trabalho.
+Coloque as metas de sua carreira de lado por uma semana. Escreva seus objetivos para seu emprego atual. Em vez de pensar sobre aonde você quer ir em seguida, pense sobre o que você quer ter alcançado quando você terminar o trabalho no qual está agora.
+
+O que você pode ter produzido nesse emprego que terá sido ótimo? Crie um plano que seja ambos estratégico e tático. Passe a semana implementando essas táticas em apoio às metas a longo prazo de "terminar" esse trabalho.
 
 Quanto tempo vai passar até que você conquiste tudo o que sente que precisa em sua função atual? Como você saberá que terá concluído? Planeje a próxima semana e repita.
 
 ## Quão bom eu posso fazer um trabalho hoje?
 
-Existem momentos específicos em que nossa habilidades chegam ao máximo e extrapolam os níveis de execução. Porque quando o prazo está atrasadou ou um erro inesperado ocorre em produção o nosso modo de desenvolver extrapola o normal e conseguimos resultados rápidos e eficientes?
+Existem momentos específicos em que nossa habilidades chegam ao máximo e extrapolam os níveis de execução. Porque quando o prazo está atrasado ou um erro inesperado ocorre em produção o nosso modo de desenvolver extrapola o normal e conseguimos resultados rápidos e eficientes?
 
 O que poderiamos fazer se conseguissemos esse nível de interesse e foco em todas as atividades cotidianas?
 
@@ -514,7 +541,7 @@ Trabalhe menos e você realizará mais. Faça um orçamento cuidadoso das horas 
 > Projetos são maratonas, não corridas de velocidade
 
 **Exercício**
-Certifique-se de que você durma bem hoje. Amanhã, tome café da manhã e, então, comece a trabalhar em um horário exato (de preferência, um pouco mais cedo que o usual). Trabalhe intensamente por quatro horas. Tire uma hora de almoço. Então, trabalha por mais quatro horas tão intensamenet que você fique exausto e não consiga fazer mais. Vá para casa, relaxe e divirta-se
+Certifique-se de que você durma bem hoje. Amanhã, tome café da manhã e, então, comece a trabalhar em um horário exato (de preferência, um pouco mais cedo que o usual). Trabalhe intensamente por quatro horas. Tire uma hora de almoço. Então, trabalhe por mais quatro horas tão intensamente que você fique exausto e não consiga fazer mais. Vá para casa, relaxe e divirta-se
 
 ## Aprenda a falhar
 
@@ -527,8 +554,11 @@ Erros podem ser cometidos tanto no ambito de programação como em outros pontos
 Alguns pontos que fazem a diferença:
 
 - Errou? Assuma logo e ajude/busque como arrumar. Em software quanto antes descobrir o erro melhor.
+
 - Se foi você quem errou, leve a culpa e assuma a responsabilidade. O problema precisa ser resolvido, se estiverem buscando um culpado estão perdendo tempo de resolução.
+
 - Oferaça uma solução. Se não possui uma, tente ajudar da maneira que for possível.
+
 - Peça ajuda. Mate ego e orgulho de uma vez por todas, ajude sua equipe a encontrar a saída.
 
 > Momentos de estresse oferecem as melhores oportunidades de construir fidelidade
@@ -627,7 +657,7 @@ Imagine-se em um time de pessoas profissionais na área dela em que você foi in
 
 ## Eu iscrevu mto beim
 
-Chega de programado ogro monossilábico. É necessário ter uma comunicação direta e de qualidade com os profissionais de tecnologia.
+Chega de programador ogro monossilábico. É necessário ter uma comunicação direta e de qualidade com os profissionais de tecnologia.
 
 Atente-se a suas habilidades de escrita e esteja ciente de que elas fazem diferença em sua carreira.
 
@@ -708,16 +738,16 @@ Pesquise seu nome no Google entre aspas e veja o que aparece. É algo de qualida
 
 ## Lance seu código
 
-Imagine você trabalhar em algum local que já utiliza um código que você desenvolveu? Isso seria demais ne? É possível hoje em dia. Opensource.
+Imagine você trabalhar em algum local que já utiliza um código que você desenvolveu? Isso seria demais né? É possível hoje em dia. Opensource.
 
 Pessoas que escrevem open source são como você, sentados e programando em sua casa.
 
-Contribuições open source demonstram paixão pelo sua vocação e uma contínua demonstração de habilidade. Reserve
+Contribuições open source demonstram paixão pelo sua vocação e uma contínua demonstração de habilidade.
 
-Se criar algo realmente útil existe uma chance de você fica famoso, mesmo que seja em um nicho da comunidade. Ao fazer isso as pessoas o conhecerão e irão utilizar o que você faz, e isso é positivo para sua reputação.
+Se criar algo realmente útil existe uma chance de você ficar famoso, mesmo que seja em um nicho da comunidade. Ao fazer isso as pessoas o conhecerão e irão utilizar o que você faz, e isso é positivo para sua reputação.
 
 **Exercicio**
-Stuart Halloway (http://thinkrelevance.com)tem um workshop feito em congressos que chama de “Refactotum”. Se você tiver a chance de participar, eu realmente o recomendo, mas a essência é o seguinte: Pegue uma parte de um software open source com testes de unidade. Rode os testes por um analisador de cobertura de código. Encontre a parte menos testada do sistema e escreva testes para melhorar a cobertura daquele código. Códigos não testados geralmente são códigos não testáveis. Refatore para torná-lo mais testável. Envie um patch com a sua alteração.
+Stuart Halloway (http://thinkrelevance.com) tem um workshop feito em congressos que chama de “Refactotum”. Se você tiver a chance de participar, eu realmente o recomendo, mas a essência é o seguinte: Pegue uma parte de um software open source com testes de unidade. Rode os testes por um analisador de cobertura de código. Encontre a parte menos testada do sistema e escreva testes para melhorar a cobertura daquele código. Códigos não testados geralmente são códigos não testáveis. Refatore para torná-lo mais testável. Envie um patch com a sua alteração.
 
 O legal é que isso é mensurável e pode ser feito rapidamente. Não há desculpas para não tentar.
 
@@ -763,9 +793,9 @@ Quanto mais bem sucedido for seu negócio, é mais provável que você fique con
 
 Cuidado com o sucesso que gera arrogância e cega você gerando uma complacência. Todas as ondas se dissipam ou encontram a costa eventualemente.
 
-Se timing é tudo, comece a pensar a frente com seus estudos. Se você perdeu a última onda, prepare-se para a próxima. Se
+Se timing é tudo, comece a pensar a frente com seus estudos. Se você perdeu a última onda, prepare-se para a próxima.
 
-O que vai ser possivel em dois anos que ainda não é agora? O que não precisariamos nos preocupar em otimizar?
+O que vai ser possível em dois anos que ainda não é agora? O que não precisariamos nos preocupar em otimizar?
 
 Olhar adiante e ser explicito sobre o desenvolvimento de suas habilidades pode fazer a diferença entre ser cego ou visionário.
 
@@ -783,4 +813,4 @@ Não agarre-se a sua função
 Você deve mirar em um objetivo mas se ajustar conforme as coisas mudam, traçar um plano reto e cego é arriscado. O plano certo de carreira e degraus evolutivos pode não ser mais tão "certo" assim. Ajuste-se, seja flexível, por mais que tenha seus objetivos saiba moldá-los.
 
 **Exercicio**
-Se você é um programador, tente por um dia fazer o seus trabalho como se fosse um testador ou gerente de projetos, mude um pouco de posição para ver "como é". Faça uma lista e teste diferentes posições, talvez não mude seu dia a dia, mas mudará a sua visão de trabalho.
+Se você é um programador, tente por um dia fazer o seu trabalho como se fosse um testador ou gerente de projetos, mude um pouco de posição para ver "como é". Faça uma lista e teste diferentes posições, talvez não mude seu dia a dia, mas mudará a sua visão de trabalho.
