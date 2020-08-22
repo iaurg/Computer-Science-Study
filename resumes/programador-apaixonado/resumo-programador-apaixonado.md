@@ -814,3 +814,36 @@ Você deve mirar em um objetivo mas se ajustar conforme as coisas mudam, traçar
 
 **Exercicio**
 Se você é um programador, tente por um dia fazer o seu trabalho como se fosse um testador ou gerente de projetos, mude um pouco de posição para ver "como é". Faça uma lista e teste diferentes posições, talvez não mude seu dia a dia, mas mudará a sua visão de trabalho.
+
+## Caminhe sem destino
+
+Não foque tanto no resultado e esteja mais atento ao que está fazendo, o caminho que está trilhando. Normalmente não existe um "fim" real para qualquer construção, você precisa estar consciente dos avanços contínuos.
+
+> Concentre-se em fazer, não no que está sendo feito
+
+**Exercício**
+Em sua próxima tarefa foque na tarefa em sí, no processo que existe durante a execução. Esqueça um pouco do final e o resultado, tenha a mente ativa totalmente na execução e ação e deixe de lado a pressa para concluir.
+
+## Trace um roteiro
+
+Tenha claramente definido o que deseja fazer, quais são seus passos. Sem ter uma ação ativa neste ponto facilmente você pode acabar em um modo "estagnado" não entendendo muito bem o que está acontecendo.
+
+Trilhar e catalogar o que foi feito, o que está sendo feito e para onde você está indo pode lhe ajudar a entender o seu progresso e clarear a visão de evolução que você possui, por mais que seja pouco a pouco.
+
+**Exercicio**
+Antes de colocar no mapa o lugar para qual você quer ir, ele pode ser um roteiro informativo e encorajador sobre onde você esteve. Reserve um tempo para detalhar sua carreira até o momento atual. Onde começou, quais eram suas habilidades e empregos em cada fase. Note os pontos onde houveram melhorias e onde você deu grandes saltos. Mantenha este mapa atualizado, será uma ótima maneira de refletir seu progresso conforme você move em direção aos seus objetivos.
+
+## Observe o mercado
+
+Esteja atento as mudanças do mercado e ativamente escutando/observando mudanças e possíveis áreas de crescimento. Não vá se confortar com seu emprego ou tecnologia atual e só perceber uma grande mudança quando for tarde demais. O que está em alta agora? O que pode morrer amanhã? Quais são as apostas do mercado?
+
+Observe as novidades tecnológicas, tanto pelo viés empresarial como pelo lado técnico puro, procure descobertas que possam ser uma pista para a próxima onda.
+
+Fique de olho nos geeks alfa. Os geek alfas são aqueles supernerds que estão sempre no mais alto topo do mais alto cume, ao menos em seus hobbies. Se encontrar essas pessoas que estão mergulhadas pode ser um ótimo sinal do que será grande nos próximos anos.
+
+> Observe os geek alfa
+
+**Exercício**
+Passe o próximo ano tentando se tornar um dos geek alfa. Ou, ao menos, faça o gancho com um.
+
+## Aquele gordo no espelho
