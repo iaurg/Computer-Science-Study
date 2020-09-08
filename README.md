@@ -9,7 +9,7 @@ O objetivo deste repositório é reunir conteúdo para que eu e você possamos c
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#livros">📚 Livros</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#artigos-e-sites">📝Artigos e sites</a>  
+  <a href="#artigos-e-sites">📝Artigos e sites</a>
 </p>
 
 Neste mesmo repositório existem alguns itens "extras" que dependendo da sua curiosidade podem ser úteis, eu os separo como resumos e anotações. Onde apenas faço anotações livremente enquanto assisto ou leio algo.
@@ -68,7 +68,7 @@ Legenda:
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
 - The Mythical Man-Month
-- Clean Code
+- Clean Code - 📖
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
 - Algoritmos e Estruturas de Dados Niklaus Wirth 📖
