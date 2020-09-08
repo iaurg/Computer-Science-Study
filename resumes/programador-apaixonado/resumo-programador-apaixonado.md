@@ -847,3 +847,53 @@ Fique de olho nos geeks alfa. Os geek alfas são aqueles supernerds que estão s
 Passe o próximo ano tentando se tornar um dos geek alfa. Ou, ao menos, faça o gancho com um.
 
 ## Aquele gordo no espelho
+
+> Se você é exposto constantemente a algo, é difícil notar que ele está mudando, ao menos que a mudança ocorra rapidamente.
+
+Cuidado ao se auto analisar e deixar "falhas" de percepção esconderem seus erros e lhe deixarem ultrapassado.
+
+Meça seu progresso e peça para pessoas confiáveis medirem e analisarem você, de forma sincera e crua.
+
+> Desenvolvedor, reveja-te a ti mesmo.
+
+Não precisa resolver todos seus problemas e melhorar imediatamente, mas é extremamente importante saber quais e onde estão esses pontos. Fique atento a eles.
+
+Analise você mesmo com frequência.
+
+**Exercício**
+
+1 - Faça uma revisão 360 de você mesmo
+
+- Faça uma lista de pessoas confiáveis e que você se sente confortável em perguntar para que possa pedir feedback.
+- Faça outra lista de 10 características que você acredita que sejam medidas importantes suas como um profissional
+- Converta essa lista em um questionário, peça uma nota para sua lista de pessoas e inclue a questão "O que eu deveria ter perguntado?"
+- Distribua a lista para pessoas de sua confiança. Não espere puxa saquismo, peça avaliações reais por mais que sejam doloridas, pare de se achar especial.
+
+2 - Depois de receber as respostas, leia e compile-as em uma lista de ação que você tomará como resultado, compartilhe o resultado com seus avaliadores. Repita o processo ocasionalmente.
+
+3 - Mantenha um diário ou blog para registrar o que você está fazendo e o que está aprendendo.
+
+Depois de um tempo analise seu diário e veja o que mudou em suas percepções, ideias e abordagens.
+
+## A armadilha de macaco da Índia do Sul
+
+> Valores rígidos o tornam frágil.
+
+Cuidado com ideias fixas e valores rígidos que você acredita tão fortemente que não é capaz de opinar objetivamente, as vezes essa ideia pode ser ruim para você.
+
+As vezes você pode ser o sapo na panela de água prestes a ferver e nem perceber...
+
+**Exercício**
+1 - Quais são suas presunções rígidas? Quais são os valores que guiam suas ações diárias sem você conscientemente saber?
+
+Faça uma tabela com duas colunas: "Carreira" e "Tecnologia". Embaixo de cada uma, liste os valores que você considera como verdades inabaláveis. Por exemplo sob "Carreira", o que você sempre considerou como sendo um de seus pontos fortes? Ou fraquezas? Qual é o objetivo de sua carreira? Quais são as maneiras certas de alcançar sua meta?
+
+Na coluna "Tecnologia, liste o que você mais valoriza sobre as tecnologias nas quais escolheu investir. Quais são os atributos mais importantes de uma tecnologia que deviam ser considerados ao fazer uma escolha? Como você faz um sistema de medida? Qual o ambiente mais produtivo para desenvolvimento de software? Quais as melhores e piores plataformas em geral?
+
+Quando você tiver a lista pronta vá item por item e inverta cada afirmação. E se o oposto de cada asserção fosse verdade? Permita-se desafiar cada uma e encontre suas vulnerabilidades.
+
+2 - Conheça seu inimigo -- Pegue a tecnologia que você mais odeia, e faça um program usando-a.
+
+Escolha um projeto fácil e tente fazer uma ótima aplicação usando a tecnologia que você odeia. Na pior das hipoteses você terá argumentos e um novo conhecimento que pode ser útil em algum momento. Ou ter novas visões.
+
+## Evite planejamento de carreira do modelo cascata
