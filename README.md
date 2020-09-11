@@ -42,16 +42,16 @@ Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução
 
 Os cursos e links abaixo eu reuni pesquisando e viso como uma segunda etapa
 
-- [IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 - [MIT 6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
 - [CS 124: Data Structures and Algorithms](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/2020/02/21462)
 - [CS-121 / CSCI-E121: Introduction to Theoretical Computer Science](https://cs121.boazbarak.org/schedule/)
+- [IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 
 ## 📚Livros
 
-Irei separar os livros em técnicos, crescimento pessoal e livros interessantes para a área de software, eles possuem cada um seus pontos positivos, porém podem lhe ajudar em uma etapa diferente do seu desenvolvimento. Ser bom em algo muitas vezes exige ir além de apenas códigos.
+Irei separar os livros em técnicos e livros interessantes para a área de software, eles possuem cada um seus pontos positivos, porém podem lhe ajudar em uma etapa diferente do seu desenvolvimento. Ser bom em algo muitas vezes exige ir além de apenas códigos.
 
 Se eu já lí e fiz um resumo do livro ele estará junto com o título.
 
@@ -63,7 +63,7 @@ Legenda:
 
 ### Técnicos
 
-- Introduction to Algorithms (The MIT Press)
+- Introduction to Algorithms (The MIT Press) (Algoritmos Teoria e Prática) - 📖 [Resumindo](./resumes/algoritmos-teoria-e-pratica/resumo.md)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
@@ -71,31 +71,19 @@ Legenda:
 - Clean Code - 📖
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
-- Algoritmos e Estruturas de Dados Niklaus Wirth 📖
+- Algoritmos e Estruturas de Dados Niklaus Wirth
 - Refactoring
 - Domain Driven Design
 
 ### Software geral
 
-- The Pragmatic Programmer - [Resumindo](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) 📙
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/getting-real/resumo-getting-real.md) 📙
+- The Pragmatic Programmer - [Resumindo](./resumes/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) 📙
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](./resumes/getting-real/resumo-getting-real.md) 📙
 - Rework 📙
 - Startup, Jessica Livingston 📙
 - [The twelve-factor methodology to scale a software](https://12factor.net) 📙
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumindo](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/programador-apaixonado/resumo-programador-apaixonado.md) 📙
-
-### Crescimento Pessoal
-
-- Mastery: The Keys to Success and Long-Term Fulfillment 📙
-- Essencialismo 📙
-- Cartas de um Estoico 📙
-- Como fazer amigos e influenciar pessoas 📙
-- Inteligência Emocional 📙
-- Principios Ray Dalio
-- Quem pensa enriquece 📙
-- Bíblia de Vendas 📖
-- How I found freedom in an unfree world 📖
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumido](./resumes/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
 
@@ -107,19 +95,20 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 ## Canais no Youtube:
 
 - [Canal Akitando - Fábio Akita](https://www.youtube.com/user/AkitaOnRails)
+- [Canal Ben Eater](https://www.youtube.com/user/eaterbc)
+- [Canal 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Canal Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 - [Canal Computerphile](https://www.youtube.com/user/Computerphile)
 - [Canal Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Canal Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
-- [Canal Ben Eater](https://www.youtube.com/user/eaterbc)
 
 ## Sites para praticar programação
 
 Esses links serão bem úteis caso você queira melhorar sua habilidade de entedimento lógico, treinar alguma linguagem, praticar algoritmos ou treinar com mentores
 
+- [LeetCode](https://leetcode.com)
 - [Exercise](https://exercism.io/)
 - [MIT Scratch](https://scratch.mit.edu)
-- [LeetCode](https://leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
 - [Project Euler](https://projecteuler.net/)
 - [Code Combat (game)](https://br.codecombat.com/)
@@ -139,28 +128,7 @@ Aqui reuno links, sites e artigos que agregam de alguma forma o conhecimento. Se
 - [Especificação para padronizar Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
 - [Ideias e pesquisas de Stanford](https://ecorner.stanford.edu)
 - [Repositório de pesquisas acadêmicas sobre Ciência da Computação](https://arxiv.org/corr)
-
-### Meus treinos
-
-Aqui é uma lista de projetos ou treinos que eu fiz e faço durante os estudos, literalmente desde o inicio.
-
-- [Repositório de treinos](https://github.com/iaurg/all-challenges)
-
-### Feitos antigamente
-
-Aqui são alguns cursos e materiais que eu já conclui antigamente, então deixarei apenas como um histórico interessante e caso alguém queira por algum motivo saber
-
-- [Introduction in Computer Science with Python (USP)](https://bit.ly/2IIVuWe) - [Exercícios](https://github.com/iaurg/ciencia-computacao-coursera)
-- [Course POO - Curso em Video](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x) - [Exercises](https://github.com/iaurg/OOP-Exercises-PHP)
-- [Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [Mastering my skill in learning with Learn How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [Rocketseat Javascript Starter](https://rocketseat.com.br/starter)
-- [Rocketseat Bootcamp](https://rocketseat.com.br)
-- [Introduction IA](https://www.microsoft.com/pt-br/academia) - [Summary](https://github.com/iaurg/academia-ia)
-- [The Complete Web Developer in 2018: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery)
-- [Master Algorithms and Data Structure](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms)
-- [Git e Github Justen](https://www.udemy.com/course/git-e-github-para-iniciantes)
-- [Jest Everywhere](https://www.youtube.com/watch?v=X1EbHgFxSdw)
+- [Developer Roadmaps](https://roadmap.sh/)
 
 Interessante:
 
