@@ -5,3 +5,4 @@ Nesta pasta irei reunir os resumos que julguei interessantes serem feitos com ba
 [Programador Apaixonado - Construindo uma carreira notável em desenvolvimento de software](./programador-apaixonado/resumo-programador-apaixonado.md)<br/>
 [The Pragmatic Programmer](./the-pragmatic-programmer/resumo-the-pragmatic-programmer.md)<br/>
 [Getting Real](./getting-real/resumo-getting-real.md)
+[Algoritmos Teoria e Prática](./algoritmos-teoria-e-pratica/resumo.md)<br/>
