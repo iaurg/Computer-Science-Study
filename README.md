@@ -83,7 +83,7 @@ Legenda:
 - Startup, Jessica Livingston 📙
 - [The twelve-factor methodology to scale a software](https://12factor.net) 📙
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumindo](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/programador-apaixonado/resumo-programador-apaixonado.md) 📖
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumindo](https://github.com/iaurg/Computer-Science-Study/blob/master/resumes/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 ### Crescimento Pessoal
 

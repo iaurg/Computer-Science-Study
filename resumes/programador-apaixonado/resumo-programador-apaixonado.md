@@ -897,3 +897,43 @@ Quando você tiver a lista pronta vá item por item e inverta cada afirmação. 
 Escolha um projeto fácil e tente fazer uma ótima aplicação usando a tecnologia que você odeia. Na pior das hipoteses você terá argumentos e um novo conhecimento que pode ser útil em algum momento. Ou ter novas visões.
 
 ## Evite planejamento de carreira do modelo cascata
+
+> Quanto maior e mais complexo for um projeto, é menos provável que seja possível imagina cada aspecto com detallhes suficientes para se criar uma especificação.
+
+Cuidado ao analisar sua carreira da mesma forma que projetos em cascata são analisados, pensando do começo ao fim e achando que tudo seguirá como o planejado. As vezes é necessário ajustar e muitas vezes mudar totalmente algo que estava no "escopo".
+
+Determine grandes objetivos, mas faça cprreções constantes durante o processo.
+
+## Melhor que ontem
+
+O que quer que você esteja fazendo foque em hoje ser melhor do que ontem. Isso faz grandes objetivos e desafios se tornarem um pouco mais tangíveis.
+
+> Escrever um teste a mais do que você escreveu ontem apróxima você de ser melhor em testes
+
+Pequenos passos podem te levar muito longe no longo prazo. Se tentar fazer tudo em um dia provavelmente não fará nada no próximo, vá aos poucos e contínuo.
+
+Se todo dia você fizer algo um pouco melhor do que ontem logo descobrirá que terá feito muito.
+
+**Exercício**
+
+- Faça uma lista de melhorias complexas e dificeis que você gostaria de realizar, tanto profissional como pessoal; Para cada item da lista pense em como você poderia melhorar hoje, ou faça este item melhor que ontem.
+
+Coloque em seu calendário e pense sobre isso cada manhã.
+
+## Seja independente
+
+Se quiser se testar saia de trás de burocracias e camadas hierarquicas de empresas onde é possivel ficar confortável sem fazer nada ou realmente "pisar fundo" e ponha a cara a tapa no mundo sendo independente. Se suas habilidades são válidas elas serão recompensadas.
+
+Creio que isso pode variar em cada empresa, algumas incentivam todos a sempre estarem buscando ser o melhor.
+
+Se não quiser sair de sua empresa, tente fazer um trabalho secundário e ver como você se sai no mercado. Ou talvez você possa entrar em uma empresa menor ou startup onde pode testar o melhor dos dois mundos.
+
+> Toda vez que me sinto confortável, sei que é hora de tentar algo novo.
+
+Tente seguir seus interesses por um tempo, e veja o que acontece. Você pode se surpreender!
+
+## Divirta-se
+
+Se você alcançou o ponto de ser um desenvolvedor de software com o luxo de realmente pensar sobre qual caminho você quer que sua carreira tome, parabéns! Você pode se considerar bastante sortudo. Existem muitas culturas nas quais poder decidir o que você faz como profissão é um enorme privilégio que poucas pessoas disfrutam.
+
+Como um programador, é provável que você não precise se preocupar em como pagar por um lugar para viver ou como comprar comida. Você poderia ter escolhido dentre inúmeras carreiras, mas esta é excitante. É criativa. Requer pensamento profundo e lhe traz como recompensa a sensação de conseguir fazer algo que a maioria das pessoas que você encontra todo dia não imagina que seja possível.
