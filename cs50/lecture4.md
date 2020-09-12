@@ -12,7 +12,8 @@ Address of a value inside memory is represented by a pointer
 
 In C:
 & Whats is addressOf
-* Go to addressOf
+
+- Go to addressOf
 
 ```c
 #include <stdio.h>
@@ -84,7 +85,7 @@ int main(void)
 }
 ```
 
-Strings can be called like char *varname
+Strings can be called like char \*varname
 
 Malloc literaly alloc a address in memory, a pointer
 
@@ -100,3 +101,20 @@ HEAP -------> <------- STACK
 
 You can write files in C using FILE, fprintf, fclose
 
+## Hexadecimal numbers
+
+A more concise way to express binary numbers. Just think, it's too hard to write code in binary, a big chain is hard to read.
+
+Each decimal digit correponds into a unique arragement of 4 binary digits
+
+Decimal first numbers are undistinguish from hexadecimal first number, because that hex number are represented with "x"
+
+| Decimal | Binary | Hexadecimal |
+| ------- | ------ | ----------- |
+| 0       | 0000   | 0x0         |
+| 1       | 0001   | 0x1         |
+| 2       | 0010   | 0x2         |
+| 3       | 0011   | 0x3         |
+| 4       | 0100   | 0x4         |
+| 5       | 0101   | 0x5         |
+| 6       | 0110   | 0x6         |
