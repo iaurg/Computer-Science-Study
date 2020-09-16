@@ -118,3 +118,11 @@ Decimal first numbers are undistinguish from hexadecimal first number, because t
 | 4       | 0100   | 0x4         |
 | 5       | 0101   | 0x5         |
 | 6       | 0110   | 0x6         |
+
+## Pointers
+
+Provides an alternative way to pass data between functions
+
+Pointers points to a address in memory to access an value
+
+Pointers address to location in memory.

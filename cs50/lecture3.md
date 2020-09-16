@@ -103,6 +103,24 @@ void draw(int height)
 
 If some algorithm is dividing, dividing, dividing... This is a logarithm
 
+## Linear Search
+
+Iterate from all array left->right, until find the target value.
+O(n) - Worst scenario
+Ω(1) - Best scenario
+
+## Binary Search
+
+Divide and conquer, we just can use binary search if the array is shorted
+
+Take the middle point of the array
+Is your value? Finish
+Not? Is less or high?
+Change position to middle (left or right) and do all again
+
+O(log n) - Worst scenario
+Ω(1) - Best scenario
+
 ## Links
 
 - [Big O Notation](https://en.wikipedia.org/wiki/Big_O_notation)
