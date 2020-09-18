@@ -126,3 +126,23 @@ Provides an alternative way to pass data between functions
 Pointers points to a address in memory to access an value
 
 Pointers address to location in memory.
+
+Sometimes pointers can be null, pointing to nothing.
+
+Pointers in C can be extracted from a existing variable using the & operator, this take address and pass to you.
+
+Be cautious when passing values between pointers, it's really easy to mess some value.
+
+## Dynamic Memory Allocation
+
+DMA comes from a pool in heap and give you access to some space in memory with pointers.
+
+In C malloc can give you a pointer to some memory space you want. Remember to free() memory when using malloc
+
+## Call stacks
+
+When you call something the system give you some spaces in stack that you can work with. One function wait for another to do your job.
+
+## File Pointers
+
+In C this provides a way to write and read data from files using a data structure named FILE
