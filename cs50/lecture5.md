@@ -2,7 +2,7 @@
 
 ## Data Structures
 
-Data structure is a way to retain information into your program "memory"
+Data structure is a way to retain information into your program "memory" and organize that you can access when calculing.
 
 malloc and array is primarly equal because both allocate chunk of memory
 
