@@ -18,16 +18,41 @@ I -> O
 
 Algoritmos normalmente são ditados pelas regras e expectativas enunciadas para solução do problema, outro fator que também influência são os limites como memória/tempo/espaço. São iniciados com uma instância (valor de entrada) e seguem as regras programadas para retornar (sair) o esperado.
 
+Algoritmos de ordenação normalmente são os primeiros a serem vistos e são necessários em muitos algoritmos posteriores como por exemplo a busca binária, ela precisa de dados ordenados antes de funcionar.
+
 Um algoritmo é correto se para toda entrada ele retornar com a saída correta. Assim pode-se dizer que o algoritmo resolve o problema dado à ele.
 
 As vezes um algoritmo "errado" pode ser útil se a taxa de erros for controlada. Mas na maioria dos casos concentre-se em algoritmos corretos.
 
-## Estruturas de dados
+### Estruturas de dados
 
 São formas de armazenar e organizar os dados para que sejam mais fáceis de trabalhar em determinados momentos, não existe estrutura perfeita, cada uma funciona bem em determinadas condições.
 
-## Problemas difíceis
+### Problemas difíceis
 
 Dentro da área de algoritmos existem alguns algoritmos chamados de NP-Completos que ainda não possuem uma solução eficiente, são algoritmos que seguindo determinadas regras não conseguirão entregar o resultado com eficiência. É bom conhecer esses algoritmos pois com certeza eles irão aparecer em algum momento da vida e sabendo que são "impossíveis" você pode abordá-los de maneira diferente.
 
-Os NP-Completos não são impossiveis ou eternamente ineficientes, mas enquanto ninguem encontra uma solução eles são uma "magia negra" dos algoritmos.
+Os NP-Completos não são impossiveis ou eternamente ineficientes, mas enquanto ninguém encontra uma solução eles são uma "magia negra" dos algoritmos.
+
+### Perguntas
+
+1.1-1 Cite um exemplo real que exija ordenação ou um exemplo real que exija o cálculo de uma envoltória convexa.
+R: Cálculo e ordenação de lista de vencedores das olimpiadas com base em número de medalhas. Lista telefônica em ordem alfabética, o alfabeto pode ser um tipo de ordenação.
+
+1.1-1 Além da velocidade, que outras medidas de eficiência poderiam ser usadas em uma configuração real?
+R: Memória, espaço, tipo de dispositivo de armazenamento.
+
+1.1-3 Selecione uma estrutura de dados que você já tenha visto antes e discuta seus pontos fortes e suas limitações.
+R: Array: Um ponto forte é a facilidade em acessar um dado sem ter que percorrer toda a estrutura (diferente de listas), ponto fraco é que para remover(do inicio)/reordenar elementos é usado muito processamento pois normalmente precisa reposicionar toda a estrutura para que os indices fiquem de acordo e a memória alocada esteja correta.
+
+1.1-4 Em que aspectos os problemas anteriores do caminho mais curto e do caixeiro-viajante são semelhantes? Em que aspectos eles são diferentes?
+Semelhança: Ambos precisam calcular distâncias entre pontos e crescem de forma preocupante no número de cálculos conforme as rotas aumentam. Também ambos buscam encontrar a menor distância possível entre pontos.
+
+Diferença: O caminho mais curto calcula apenas o ponto seguinte mais próximo ao invés de tentar traçar toda a rota completa.
+
+1.1-5 Mostre um problema real no qual apenas a melhor solução servirá. Em seguida, apresente um problema em que baste uma solução que seja “aproximadamente” a melhor.
+Melhor solução: Determinar valores e transações financeiras de uma instituição. Os valores precisam ser exatos para haver um controle.
+
+Aproximadamente: Determinar grau de similaridade com peso entre produtos ou categorias, uma taxa de erro é aceitável e a precisão não precisa ser exata, relacionando um número suficiente atende a funcionalidade.
+
+## Algoritmos como tecnologia
