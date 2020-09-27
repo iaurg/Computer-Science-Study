@@ -34,6 +34,8 @@ Dentro da área de algoritmos existem alguns algoritmos chamados de NP-Completos
 
 Os NP-Completos não são impossiveis ou eternamente ineficientes, mas enquanto ninguém encontra uma solução eles são uma "magia negra" dos algoritmos.
 
+[Explicação NP completo em artigo](https://segredo.dev/problemas-np/)
+
 **Exercícios**
 
 1.1-1 Cite um exemplo real que exija ordenação ou um exemplo real que exija o cálculo de uma envoltória convexa.
