@@ -34,23 +34,30 @@ Dentro da área de algoritmos existem alguns algoritmos chamados de NP-Completos
 
 Os NP-Completos não são impossiveis ou eternamente ineficientes, mas enquanto ninguém encontra uma solução eles são uma "magia negra" dos algoritmos.
 
-### Perguntas
+**Exercícios**
 
 1.1-1 Cite um exemplo real que exija ordenação ou um exemplo real que exija o cálculo de uma envoltória convexa.
+
 R: Cálculo e ordenação de lista de vencedores das olimpiadas com base em número de medalhas. Lista telefônica em ordem alfabética, o alfabeto pode ser um tipo de ordenação.
 
 1.1-1 Além da velocidade, que outras medidas de eficiência poderiam ser usadas em uma configuração real?
+
 R: Memória, espaço, tipo de dispositivo de armazenamento.
 
 1.1-3 Selecione uma estrutura de dados que você já tenha visto antes e discuta seus pontos fortes e suas limitações.
+
 R: Array: Um ponto forte é a facilidade em acessar um dado sem ter que percorrer toda a estrutura (diferente de listas), ponto fraco é que para remover(do inicio)/reordenar elementos é usado muito processamento pois normalmente precisa reposicionar toda a estrutura para que os indices fiquem de acordo e a memória alocada esteja correta.
 
 1.1-4 Em que aspectos os problemas anteriores do caminho mais curto e do caixeiro-viajante são semelhantes? Em que aspectos eles são diferentes?
+
+R:
 Semelhança: Ambos precisam calcular distâncias entre pontos e crescem de forma preocupante no número de cálculos conforme as rotas aumentam. Também ambos buscam encontrar a menor distância possível entre pontos.
 
 Diferença: O caminho mais curto calcula apenas o ponto seguinte mais próximo ao invés de tentar traçar toda a rota completa.
 
 1.1-5 Mostre um problema real no qual apenas a melhor solução servirá. Em seguida, apresente um problema em que baste uma solução que seja “aproximadamente” a melhor.
+
+R:
 Melhor solução: Determinar valores e transações financeiras de uma instituição. Os valores precisam ser exatos para haver um controle.
 
 Aproximadamente: Determinar grau de similaridade com peso entre produtos ou categorias, uma taxa de erro é aceitável e a precisão não precisa ser exata, relacionando um número suficiente atende a funcionalidade.
@@ -66,3 +73,10 @@ No mundo real recursos computacionais são limitados e normalmente caros, algori
 A eficiência de um algoritmo pode ser medida por vários fatores, mas normalmente só é notável com grandes números de dados de entrada, onde nestes você consegue ver uma grande diferença entre a escolha de um algoritmo certo e um menos eficiente. Isto pode impactar diretamente na funcionalidade de seu programa, a escolha de um algoritmo eficiente assim como hardware são fatores que devem ser considerados durante o desenvolvimento de um software.
 
 Uma sólida base de conhecimento e técnica de algoritmos é uma das características que separam os programadores verdadeiramente qualificados dos novatos. Você pode executar algumas tarefas sem saber muito de algoritmos, mas com uma boa base de algoritmos é possível fazer muito mais!
+
+Algoritmos estão presente em quase todas as tecnologias, sejam elas hardware ou software, provavelmente em algum pedaço haverá um algoritmo trabalhando para solucionar um problema.
+
+**Exercícios**
+1.2-1 Cite um exemplo de aplicação que exige conteúdo algorítmico no nível da aplicação e discuta a função dos algoritmos envolvidos.
+
+R: GPS em tempo real. Resumidamente o algoritmo de menor distância precisa ficar calculando a todo instante ao mesmo tempo que interage com outros algoritmos como direção das ruas e fluxo do trânsito.
