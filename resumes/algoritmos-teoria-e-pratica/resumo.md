@@ -64,7 +64,7 @@ Melhor solução: Determinar valores e transações financeiras de uma institui�
 
 Aproximadamente: Determinar grau de similaridade com peso entre produtos ou categorias, uma taxa de erro é aceitável e a precisão não precisa ser exata, relacionando um número suficiente atende a funcionalidade.
 
-## Algoritmos como tecnologia
+### Algoritmos como tecnologia
 
 Por mais que os computadores fossem infinitamente poderosos os algoritmos ainda seriam úteis pela possibilidade de traçar e entregar resultados com previsibilidade. Assim poderia demonstrar que tal solução entrega a resposta correta.
 
@@ -82,3 +82,55 @@ Algoritmos estão presente em quase todas as tecnologias, sejam elas hardware ou
 1.2-1 Cite um exemplo de aplicação que exige conteúdo algorítmico no nível da aplicação e discuta a função dos algoritmos envolvidos.
 
 R: GPS em tempo real. Resumidamente o algoritmo de menor distância precisa ficar calculando a todo instante ao mesmo tempo que interage com outros algoritmos como direção das ruas e fluxo do trânsito.
+
+1.2-2 Suponha que estamos comparando implementações de ordenação por inserção e ordenação por intercalação na mesma máquina. Para entradas de tamanho n, a ordenação por inserção é executada em 8n2 passos, enquanto a ordenação por intercalação é executada em 64n lg n passos. Para quais valores de n a ordenação por inserção supera a ordenação por intercalação?
+
+1.2-3 Qual é o menor valor de n tal que um algoritmo cujo tempo de execução é 100n2 funciona mais rapidamente que um algoritmo cujo tempo de execução é 2n na mesma máquina?
+
+## Dando a partida
+
+Insertion Sort
+
+```js
+const unn = [2, 6, 3, 1, 7, 5, 4];
+function insertionSort(arr) {
+  for (i = 2; i < arr.length; i++) {
+    const key = arr[i];
+    let value = i - 1;
+
+    while (value >= 0 && arr[value] > key) {
+      arr[value + 1] = arr[value];
+      value = value - 1;
+    }
+
+    arr[value + 1] = key;
+  }
+  return arr;
+}
+
+console.log(insertionSort(unn));
+```
+
+**Exercícios**
+
+2.1-1 Usando a Figura 2.2 como modelo, ilustre a operação de Insertion-Sort no arranjo A = 〈31, 41, 59, 26, 41, 58〉.
+
+2.1-2 Reescreva o procedimento Insertion-Sort para ordenar em ordem não crescente, em vez da ordem não decrescente.
+
+2.1-3 Considere o problema de busca:
+
+Entrada: Uma sequência de n números A = 〈a1, a2, ..., an〉 e um valor v.
+
+Saída: Um índice i tal que v = A[i] ou o valor especial NIL, se v não aparecer em A.
+
+Escreva o pseudocódigo para busca linear, que faça a varredura da sequência, procurando por v. Usando um invariante de laço, prove que seu algoritmo é correto. Certifique-se de que seu invariante de laço satisfaz as três propriedades necessárias.
+
+2.1-4 Considere o problema de somar dois inteiros binários de n bits, armazenados em dois arranjos de n elementos A e B. A soma dos dois inteiros deve ser armazenada em forma binária em um arranjo de (n + 1) elementos C. Enuncie o problema formalmente e escreva o pseudocódigo para somar os dois inteiros.
+
+### Análise de algoritmos
+
+Analisar um algoritmo é prever quanto de recursos um algoritmo necessita para ser executado.
+
+O tempo de execução de um algoritmo pode variar de acordo com o ambiente e diversas formas de execução, normalmente são analisados em geral o tamanho da entrada e o tempo de execução. A análise de eficiência de um algoritmo pode ser feita de várias formas mas normalmente é buscado utilizar formas mais simples e de fácil compreensão para se ter um resultado.
+
+No geral são analisados os tempos de execução de um algoritmo nos piores casos. Normalmente utilizado como base a ordem de crescimento e definindo a eficiência do algoritmo com base neste dado simplificado, assim um algoritmo é mais eficiente que outro caso apresente uma ordem de crescimento mais baixa.
