@@ -133,4 +133,22 @@ Analisar um algoritmo é prever quanto de recursos um algoritmo necessita para s
 
 O tempo de execução de um algoritmo pode variar de acordo com o ambiente e diversas formas de execução, normalmente são analisados em geral o tamanho da entrada e o tempo de execução. A análise de eficiência de um algoritmo pode ser feita de várias formas mas normalmente é buscado utilizar formas mais simples e de fácil compreensão para se ter um resultado.
 
-No geral são analisados os tempos de execução de um algoritmo nos piores casos. Normalmente utilizado como base a ordem de crescimento e definindo a eficiência do algoritmo com base neste dado simplificado, assim um algoritmo é mais eficiente que outro caso apresente uma ordem de crescimento mais baixa.
+No geral são analisados os tempos de execução de um algoritmo nos piores casos. Normalmente utilizado como base a ordem de crescimento e definindo a eficiência do algoritmo com base neste dado simplificado, assim um algoritmo é mais eficiente que outro caso apresente uma ordem de crescimento (Θ) mais baixa.
+
+**Exercícios**
+
+2.2-1 Expresse a função n3/1000 − 100n2− 100n + 3 em termos da notação Θ.
+
+2.2-2 Considere a ordenação de n números armazenados no arranjo A, localizando primeiro o menor elemento de A e permutando esse elemento com o elemento contido em A[1]. Em seguida, determine o segundo menor elemento de A e permute-o com A[2]. Continue dessa maneira para os primeiros n − 1 elementos de A. Escreva o pseudocódigo para esse algoritmo, conhecido como ordenação por seleção. Qual invariante de laço esse algoritmo mantém? Por que ele só precisa ser executado para os primeiros n − 1 elementos, e não para todos os n elementos? Forneça os tempos de execução do melhor caso e do pior caso da ordenação por seleção em notação Θ.
+
+2.2-3 Considere mais uma vez a busca linear (veja Exercício 2.1-3). Quantos elementos da sequência de entrada precisam ser verificados em média, considerando que o elemento que está sendo procurado tenha a mesma probabilidade de ser qualquer elemento no arranjo? E no pior caso? Quais são os tempos de execução do caso médio e do pior caso da busca linear em notação Θ? Justifique suas respostas.
+
+Θ(n/2)?
+
+Pior caso busca linear: Θ(n), pode ser necessário ter que passar por todos os elementos para encontrar o alvo no ultimo item, ou nem encontrá-lo.
+
+2.2-4 Como podemos modificar praticamente qualquer algoritmo para ter um bom tempo de execução no melhor caso?
+
+### Projeto de algoritmos
+
+Divisão e conquista: Muitos algoritmos são recursivos, para resolver um problemas eles chamam eles mesmos recursivamente uma ou mais vezes para lidar com subproblemas. Normalmente esses algoritmos seguem uma abordagem de divisão e conquista desmembrando o problema em vários subproblemas menores semelhantes ao original.
