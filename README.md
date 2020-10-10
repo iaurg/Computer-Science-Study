@@ -68,7 +68,7 @@ Legenda:
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
 - The Mythical Man-Month
-- Clean Code - 📖
+- Clean Code - 📖 [Resumindo](./resumes/clean-code/resumo.md)
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
 - Algoritmos e Estruturas de Dados Niklaus Wirth
