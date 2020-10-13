@@ -152,3 +152,24 @@ Pior caso busca linear: Θ(n), pode ser necessário ter que passar por todos os 
 ### Projeto de algoritmos
 
 Divisão e conquista: Muitos algoritmos são recursivos, para resolver um problemas eles chamam eles mesmos recursivamente uma ou mais vezes para lidar com subproblemas. Normalmente esses algoritmos seguem uma abordagem de divisão e conquista desmembrando o problema em vários subproblemas menores semelhantes ao original.
+
+**Exercícios**
+2.3-1 Usando a Figura 2.4 como modelo, ilustre a operação de ordenação por intercalação para o arranjo A = 〈3, 41, 52, 26, 38, 57, 9, 49〉.
+
+2.3-2 Reescreva o procedimento Merge de modo que ele não utilize sentinelas e, em vez disso, pare tão logo todos os elementos do arranjo L ou do arranjo R tenham sido copiados de volta em A e então copie o restante do outro arranjo de volta em A.
+
+2.3-3 Use indução para mostrar que, quando n é uma potência exata de 2, a solução da recorrência é T(n) = n lg n.
+
+2.3-4 A ordenação por inserção pode ser expressa como um procedimento recursivo da maneira descrita a seguir. Para ordenar A[1 .. n], ordenamos recursivamente A[1 .. n − 1] e depois inserimos A[n] no arranjo ordenado A[1 .. n − 1]. Escreva uma recorrência para o tempo de execução de pior caso dessa versão recursiva da ordenação por inserção.
+
+2.3-5 Voltando ao problema da busca (ver Exercício 2.1-3) observe que, se a sequência A for ordenada, poderemos comparar o ponto médio da sequência com v e não mais considerar metade da sequência. O algoritmo de busca binária repete esse procedimento, dividindo ao meio o tamanho da porção restante da sequência a cada vez. Escreva pseudocódigo, iterativo ou recursivo, para busca binária. Demonstre que o tempo de execução do pior caso da busca binária é Θ(lg n).
+
+2.3-6 Observe que o laço while das linhas 5 a 7 do procedimento Insertion-Sort na Seção 2.1 utiliza uma pesquisa linear para varrer (no sentido inverso) o subarranjo ordenado A[1 .. j − 1]. Podemos usar, em vez disso, uma busca binária (veja Exercício 2.3-5) para melhorar o tempo de execução global do pior caso da ordenação por inserção para Θ(n lg n)?
+
+2.3-7 Descreva um algoritmo de tempo Θ(n lg n) que, dado um conjunto S de n inteiros e um outro inteiro x, determine se existem ou não dois elementos em S cuja soma seja exatamente x.
+
+## Crescimento de funções
+
+A ordem de crescimento de tempo de execução de um algoritmo nos permite caracterizar a eficiência de um algoritmo e também nos permite comparar o desempenho de um algoritmo em relação a outro. Quando analisamos tamanhos de entrada estamos estudando a eficiência _assintótica_ do algoritmo. Ou seja, estamos preocupados em como o tempo do algoritmo aumenta de acordo com o tamanho de entrada no limite.
+
+Em geral um algoritmo que é assintoticamente mais eficiente será a melhor escolha para todas as entradas, exceto as muito pequenas.
