@@ -145,4 +145,4 @@ When you call something the system give you some spaces in stack that you can wo
 
 ## File Pointers
 
-In C this provides a way to write and read data from files using a data structure named FILE
+C provides a way to write and read data from files using a data structure named FILE
