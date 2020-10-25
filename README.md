@@ -32,6 +32,8 @@ Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualqu
 
 🔥 Sinta-se livre para contribuir, agregar, melhorar, compartilhar, usar, ajustar, corrigir, copiar...
 
+[Getting Started with Learning Code](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
+
 ## 🎓Cursos
 
 ### Base da computação
