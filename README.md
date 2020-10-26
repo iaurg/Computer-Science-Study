@@ -14,6 +14,9 @@ O objetivo deste repositório é reunir conteúdo para que eu e você possamos c
 
 Neste mesmo repositório existem alguns itens "extras" que dependendo da sua curiosidade podem ser úteis, eu os separo como resumos e anotações. Onde apenas faço anotações livremente enquanto assisto ou leio algo.
 
+Antes de qualquer coisa recomendo esse ótimo wiki que encontrei no Reddit:
+[Getting Started with Learning Code](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), ele passa por quase todas as dúvidas que com certeza surgirão em seu aprendizado.
+
 <p align="left">
   <a href="/resumes">Resumos de livros</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -31,8 +34,6 @@ Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualqu
 > Nenhum homem pode viver uma vida feliz, ou mesmo uma vida suportável, sem o estudo da sabedoria; você sabe também que uma vida feliz é alcançada quando a nossa sabedoria é levada ao auge, mas que a vida é pelo menos suportável, mesmo quando a nossa sabedoria apenas começa. - Sêneca
 
 🔥 Sinta-se livre para contribuir, agregar, melhorar, compartilhar, usar, ajustar, corrigir, copiar...
-
-[Getting Started with Learning Code](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
 
 ## 🎓Cursos
 
