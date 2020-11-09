@@ -1,4 +1,8 @@
-[Juice Shop](https://juice-shop-br.herokuapp.com)
+# WEB Hacking 101
+
+Estou lendo este livre pelo simples fato de achar a área de segurança interessante, e como é necessário conhecer para se defender torna-se um conhecimento útil. Encontrei este livro no HackerOne por indicação do STÖK.
+
+Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 
 ### Links:
 
