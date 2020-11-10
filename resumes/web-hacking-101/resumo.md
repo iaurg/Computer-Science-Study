@@ -12,20 +12,31 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 
 ### ⛏️Useful Tools
 
-- [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/) - Decoder
+- [Decoder CyberChef](https://gchq.github.io/CyberChef/)
+- [XSS Hunter](https://xsshunter.com/)
 
-Notes WEB 101:
+### Site e Blogs
+
+- [Whitton](https://whitton.io/)
+- [The Hacker Blog](https://thehackerblog.com/)
+- [IT Security Guard](https://blog.it-securityguard.com/)
+- [Brutelogic - Master art of XSS](https://brutelogic.com.br/blog/)
+- [HTML 5 SEC](http://html5sec.org/)
+
+  Notes WEB 101:
 
 > Learn by doing.
 > Hack responsibly.
 > Um bom hacking é uma combinação de observação e habilidades.
 > Seja criativo quando estiver hackeando, pense fora da caixa.
+> Sempre tente busca falhas, por mais que as empresas sejam grandes e pareçam estar 100% seguras e todas as falhas já tenham sido encontradas.
 
 Nomes:
 
 - Samy Kamkar
 - Kevin Mitnick
 - Barnaby Jack
+- Matthew Bryant
 
 ### Open Redirect Vulnerabilities
 
@@ -85,3 +96,17 @@ Caso você não tenha acesso ao envio de informações de script via submit voc�
 
 - (XSS Cheatsheet bypass)[https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet]
 - (The misunderstood X-XSS-Protection)[https://blog.innerht.ml/the-misunderstood-x-xss-protection/]
+
+No XSS também existe a opção reflected e stored, onde reflected é quando o XSS é enviado uma vez porém não fica armazenado e o stored é enviado e o servidor interpreta armazenando a informação e retornando para outras requisições.
+
+XSS possui tres sub tipos: DOM Based, Blind e Self.
+
+DOM Based: Utiliza códigos do site para executar JavaScript não autorizado, encontrando alguma "porta de entrada" através de alguma declaração no DOM e injetando a partir dela. Algo como se aproveitar de uma variável ou script que leia informação sem sanitizar.
+
+Blind: É um tipo de stored XSS onde o código será executado por outro usuário em outro local do site. Digamos que em uma rede social você injete o XSS em seu nome e sobrenome, ao ser listado no site nada acontece porque está sanitizado, porém quando o administrador abrir o painel pode haver uma brecha e você "entra" por outro local.
+
+Self: É o mais "tranquilo" dos XSS, ele só é executado pelo usuário (self) e não pode ser replicado, normalmente não é uma ameaça, mas pode ser uma pista para algo a mais. Ele precisa ser enviado pelo próprio usuário para surtir algum efeito.
+
+Quando estiver procurando por XSS lembre-se de testar todas as opções de campo input possiveis, não apenas o value recebido. Em fato, sempre que encontrar alguma validação sendo feita em tempo real no navegador pode ser um sinal de xss, explore para ver o que encontra. Desenvolvedores podem assumir que as validações feitas por JS no navegador não precisam ser revalidadas no servidor.
+
+Como um hacker tente pensar de forma que o desenvolvedor não tenha pensado, por exemplo, o que acontece se passar dois src para uma tag image? Como isso será renderizado?
