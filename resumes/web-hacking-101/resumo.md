@@ -14,6 +14,8 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 
 - [Decoder CyberChef](https://gchq.github.io/CyberChef/)
 - [XSS Hunter](https://xsshunter.com/)
+- [Wappalyzer](https://www.wappalyzer.com/)
+- [Built With](https://builtwith.com/)
 
 ### Site e Blogs
 
@@ -37,6 +39,7 @@ Nomes:
 - Kevin Mitnick
 - Barnaby Jack
 - Matthew Bryant
+- Peiter Zatko
 
 ### Open Redirect Vulnerabilities
 
@@ -109,4 +112,26 @@ Self: É o mais "tranquilo" dos XSS, ele só é executado pelo usuário (self) e
 
 Quando estiver procurando por XSS lembre-se de testar todas as opções de campo input possiveis, não apenas o value recebido. Em fato, sempre que encontrar alguma validação sendo feita em tempo real no navegador pode ser um sinal de xss, explore para ver o que encontra. Desenvolvedores podem assumir que as validações feitas por JS no navegador não precisam ser revalidadas no servidor.
 
-Como um hacker tente pensar de forma que o desenvolvedor não tenha pensado, por exemplo, o que acontece se passar dois src para uma tag image? Como isso será renderizado?
+> Como um hacker tente pensar de forma que o desenvolvedor não tenha pensado, por exemplo, o que acontece se passar dois src para uma tag image? Como isso será renderizado?
+
+Não fique subestimado por empresas grandes ou marcas conhecidas, eles também podem falhar.
+
+## Template Injection
+
+Template engines são códigos usados para gerar conteúdo dinâmico dentro de uma página, site, e-mail ou qualquer coisa que seja gerada dinamicamente. Esse template possui alguns "espaços" que receberão um conteúdo futuro que será renderizado neste local. Assim a lógica de apresentação fica separada da lógica de aplicação.
+
+Um exemplo de template é uma página de usuário onde é sempre utilizado o mesmo "modelo" e as informações são dispostas dentro da estrutura em seus locais especificos, isso auxilia na criação de estruturas e sistema fazendo com que menos arquivos sejam criados para gerenciar as telas.
+
+Existem dois tipos de template injection, client side e server side. Ambos acontecem quando as engines renderizam inputs do usuário sem sanitizar de forma correta. Algumas vezes template injection pode evoluir para remote code execution.
+
+### Server Side Template Injections (SSTI)
+
+Quando as injeções ocorrem no lado do servidor, normalmente templates são renderizados por alguma linguagem de programação back-end como PHP, Ruby, Python... Para identificar esta vulnerabilidade primeiro você precisa identificar qual linguagem ou framework o back-end está utilizando e então pode preencher algum campo de usuário com uma expressão da linguagem utilizada por exemplo ({{7*7}}) se o template renderizar 49 o código foi executado no servidor e retornado para você no template.
+
+### Client Side Template Injections (CSTI)
+
+CSTI ocorrem quando ferramentas que geram template no lado do cliente como Angular e React, permite a injeção de código, normalmente podem ser uma porta para o XSS, apesar de terem vários padrões de segurança pré-configurados que previnem injeções de códigos existem alguns "bypass" conhecidos e que podem ser explorados.
+
+> Sempre que estiver procurando uma vulnerabilidade tente entender e conhecer as tecnologias que a aplicação utiliza, isso lhe dará pistas para encontrar novas formas de invadir e encontrar coisas interessantes.
+
+## SQL Injection
