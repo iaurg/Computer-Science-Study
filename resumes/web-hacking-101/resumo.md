@@ -65,11 +65,13 @@ HPP é muito mais tentativa e erro para tentar adivinhar o que o servidor faz co
 
 CSRF é a interceptação de requisições através de outros sites, você é capaz de fazer uma requisição utilizando os cookies ou sessões guardadas no browser e utilizar para enviar requisições através de outros sites.
 
-Requisições GET nunca podem realizar alterações/atualizações no backend, caso façam é uma possivel ameaça de CSRF.
+Requisições GET nunca podem realizar alterações/atualizações no backend, caso façam é uma possível ameaça de CSRF.
 
-Para fazer CSRF com POST precisa de mais configurações e passar alguns headers para conseguir acesso, as vezes o CORs pode barrar, mas existem formas de passar por ele.
+Para fazer CSRF com POST precisa de mais configurações e passar alguns headers para conseguir acesso, as vezes o CORs pode barrar, mas existem formas de passar por ele, como por exemplo alterando content-types de dados que são enviados ou trocando o tipo da requisição que é feita, tudo depende de como o alvo está configurado. Outro exemplo é digamos que um site verifique se a url de origem inicia com www.site.com, esta regra pode ser burlada utilizando subdominios "wildcard", por exemplo utilizando um subdominio www.site.com.attacker.com como origin e fazendo um redirect. Por isso depende muito de cada aplicação e como as barreiras estão configuradas.
 
-Se um site estiver usando token CSRF tente remove-lo ou alterar para ver se o servidor está validando este dado
+[Um exemplo de invasão](https://www.corben.io/tricky-CORS/) passando pelo CORS no Yahoo.
+
+Se um site estiver usando token CSRF tente removê-lo ou alterar para ver se o servidor está validando este dado
 
 ### HTML Injection
 
@@ -97,8 +99,8 @@ Uma forma inicial de validar um XSS é tentando executar o comando alert(documen
 
 Caso você não tenha acesso ao envio de informações de script via submit você pode tentar a técnica de aspas em value de input por exemplo, digamos que um input seja `<input type="text" name="username" value="hacker">` você pode enviar o valor de `hacker" onfocus=alert(document.cookie) autofocus "` isso irá "fechar" seu value de hacker e injetar um script com autofocus (o auto focus é uma instrução que informa o navegador a focar este input e executar o código)
 
-- (XSS Cheatsheet bypass)[https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet]
-- (The misunderstood X-XSS-Protection)[https://blog.innerht.ml/the-misunderstood-x-xss-protection/]
+- [XSS Cheatsheet bypass](https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet)
+- [The misunderstood X-XSS-Protection](https://blog.innerht.ml/the-misunderstood-x-xss-protection/)
 
 No XSS também existe a opção reflected e stored, onde reflected é quando o XSS é enviado uma vez porém não fica armazenado e o stored é enviado e o servidor interpreta armazenando a informação e retornando para outras requisições.
 
