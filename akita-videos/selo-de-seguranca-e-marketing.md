@@ -18,9 +18,14 @@ Fator Humano = Inseguro
 
 Engenharia social sempre foi e sempre será a forma mais simples e eficiente de invadir um sistema
 
+Normalmente as pessoas cometem erros simples e inacreditáveis, sempre esteja atento e duvide de cada situação.
+
+Qualquer pessoa representa um risco para a empresa, independente do nivel de conhecimento.
+
 ## Links
 
 ## Pesquisar
 
 - Darknet
 - COBIT, TOGAF, ITIL, CMMI, PMBOK
+- HTTP Tunel
