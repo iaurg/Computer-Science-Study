@@ -16,6 +16,9 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [XSS Hunter](https://xsshunter.com/)
 - [Wappalyzer](https://www.wappalyzer.com/)
 - [Built With](https://builtwith.com/)
+- [Gitrob](https://github.com/michenriksen/gitrob)
+- [KnockPy](https://github.com/guelfoweb/knock)
+- [crt.sh](https://github.com/tdubs/crt.sh)
 
 ### Site e Blogs
 
@@ -24,6 +27,13 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [IT Security Guard](https://blog.it-securityguard.com/)
 - [Brutelogic - Master art of XSS](https://brutelogic.com.br/blog/)
 - [HTML 5 SEC](http://html5sec.org/)
+- [Buer Haus](https://buer.haus/)
+- [Detectify](https://blog.detectify.com/)
+- [BlackHat](https://www.youtube.com/c/BlackHatOfficialYT/videos)
+
+### Search
+
+- [Cozy Bear](https://en.wikipedia.org/wiki/Cozy_Bear)
 
   Notes WEB 101:
 
@@ -32,6 +42,9 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 > Um bom hacking é uma combinação de observação e habilidades.
 > Seja criativo quando estiver hackeando, pense fora da caixa.
 > Sempre tente busca falhas, por mais que as empresas sejam grandes e pareçam estar 100% seguras e todas as falhas já tenham sido encontradas.
+> Use a opção Ferramentas > Data do Google para encontrar legados
+> Sempre analise sites que permitem uploads de arquivos
+> Bons hackers sempre vão um passo além para validar suas hipoteses
 
 Nomes:
 
@@ -40,6 +53,7 @@ Nomes:
 - Barnaby Jack
 - Matthew Bryant
 - Peiter Zatko
+- James Kettle
 
 ### Open Redirect Vulnerabilities
 
@@ -143,3 +157,62 @@ Essa falha ocorrer quando o site que hospeda o banco de dados permite que o usu�
 Sempre investigue e altere parâmetros de url dos sites para entender como eles estão sendo interpretados. Procure formas de passar dados para os sites de formas que não são esperadas para que você possa analisar como os retornos são computados.
 
 ## Server Side Request Forgery (SSRF)
+
+Neste tipo de invasão o atacante é capaz de executar requisições direto pelo servidor. É similar ao CSRF com uma diferença, o alvo aqui é o site em só ao invés de se aproveitar do usuário.
+
+### HTTP Request Location
+
+Dependendo de como o servidor está organizado com uma vulnerabilidade SSRF o atacante pode ser capaz de se conectar com redes internas ou extenas. Os limites das requisições do servidor determinarão o que pode ser feito em um SSRF.
+
+Por exemplo, normalmente bancos de dados são configurados em servidores locais sem acesso a internet, liberando o acesso apenas para servidores especificos que no caso seria o servidor do site. Se você conseguir acessar o servidor do site, provalmente conseguirá escalar ao banco de dados, se este estiver protegido você ainda pode tentar ataques de redirecionamento ou passar por blacklists.
+
+### Invoking GET versus POST
+
+Depois de confirmar que está com o SSRF você pode testar se o servidor aceita requisições GET ou POST, normalmente requisições POST são mais interessantes pois podem manipular dados, GET em geral apenas extrai dados.
+
+### Blind SSRF
+
+Após confirmar que tem os acessos e os métodos de requisição, você deve testar se consegue ler as respostas dessas requisições. Caso elas estejam bloqueadas podem ser usadas algumas técnicas como timing e DNS para entender o servidor.
+
+Ao tentar invadir usando SSRF tente um port scanning nas portas 22 (SSH), 80 (HTTP), 443 (HTTPS), 8008 (Alternate HTTP), e 8443 (Alternate HTTPS) para confirmar os retornos de cada uma.
+
+Se tiver acesso ao DNS você pode controlar as requisições e adicionar um subdominio seu para receptar as informações.
+
+## XML External Entity Vulnerability
+
+Esta falha explora a vulnerabilidade de como uma aplicação faz o parse de um XML, como a aplicação processa os dados inclusos nos campos.
+
+Manipulando as entidades de um XML se o servidor permitir você é capaz de parsear os valores de pastas ou arquivos internos do servidor e retornar para você ou em um servidor externo esses valores.
+
+Arquivos .docx, .xlsx, .pptx... são XML tamném, preste atenção em servidores que aceitam esses tipos de arquivo com upload.
+
+## Remote Code Execution
+
+Injeção de código que é interpretado e executado por uma aplicação. Normalmente permitido por aplicações que não fazem nenhum tipo de sanitização ou validação em inputs.
+
+## Memory
+
+### Buffer Overflow
+
+É quando o programa escreve além do limite de memória disponível, isso abre uma brecha para o invasor injetar algum código através do overflow e fazer com que o programa retorne algo inesperado.
+
+### Read out of Bounds
+
+Quando você é capaz de ler mais itens na memória do que o esperado. Essa falha é onde você solicita um valor do ponteiro X porém o programa retorna para você muito mais do que o esperado. Exemplo de falha [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed)
+
+### Memory Corruption
+
+Este tipo de falha induz o código a performar uma ação fora do esperado expondo valores da memória que não deveriam ser retornados.
+
+## Sub Domain Takeover
+
+É basicamente você se apropriar de um subdominio. Um site cria algum subdominio porém nunca aponta ele para algum lugar, deixando vulverável para que outra pessoa possa fazer isso.
+
+Exemplo:
+
+1. example.com se inscreve no Heroku
+2. example.com cria uma entrada DNS apontandosubdominio.example.com para unicorn457.heroku.com
+3. example.com nunca reivindica unicorn457.heroku.com
+4. Uma pessoa mal-intencionada reivindica unicorn457.heroku.com e replica example.com
+5. Todo o tráfego para subdomain.example.com é direcionado a um site malicioso que
+   se parece com example.com
