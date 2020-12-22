@@ -206,7 +206,7 @@ Este tipo de falha induz o código a performar uma ação fora do esperado expon
 
 ## Sub Domain Takeover
 
-É basicamente você se apropriar de um subdominio. Um site cria algum subdominio porém nunca aponta ele para algum lugar, deixando vulverável para que outra pessoa possa fazer isso.
+É basicamente você se apropriar de um subdominio. Um site cria algum subdominio porém nunca aponta ele para algum lugar ou aponta para um serviço que permite a criação de dominios personalizados, deixando vulverável para que outra pessoa possa fazer isso.
 
 Exemplo:
 
@@ -216,3 +216,7 @@ Exemplo:
 4. Uma pessoa mal-intencionada reivindica unicorn457.heroku.com e replica example.com
 5. Todo o tráfego para subdomain.example.com é direcionado a um site malicioso que
    se parece com example.com
+
+## Race Conditions
+
+Essa vulnerabilidade consiste quando dois processos ocorrerem em paralelo executando uma mesma ação, resultando em uma duplicação de requisições ou resultados por exemplo. Sempre que existe consultas, lógicas de códigos ou atualizações em banco de dados é um possibilidade de se aproveitar de uma race condition, essas operações possuem um delay e ependendo de como forem implementadas podem ser burladas.
