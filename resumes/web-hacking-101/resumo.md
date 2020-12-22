@@ -28,6 +28,7 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [Brutelogic - Master art of XSS](https://brutelogic.com.br/blog/)
 - [HTML 5 SEC](http://html5sec.org/)
 - [Buer Haus](https://buer.haus/)
+- [Philippe Hare Wood](https://philippeharewood.com/)
 - [Detectify](https://blog.detectify.com/)
 - [BlackHat](https://www.youtube.com/c/BlackHatOfficialYT/videos)
 
@@ -219,4 +220,20 @@ Exemplo:
 
 ## Race Conditions
 
-Essa vulnerabilidade consiste quando dois processos ocorrerem em paralelo executando uma mesma ação, resultando em uma duplicação de requisições ou resultados por exemplo. Sempre que existe consultas, lógicas de códigos ou atualizações em banco de dados é um possibilidade de se aproveitar de uma race condition, essas operações possuem um delay e ependendo de como forem implementadas podem ser burladas.
+Essa vulnerabilidade consiste quando dois processos ocorrerem em paralelo executando uma mesma ação, resultando em uma duplicação de requisições ou resultados por exemplo. Sempre que existe consultas, lógicas de códigos ou atualizações em banco de dados é um possibilidade de se aproveitar de uma race condition, essas operações possuem um delay e dependendo de como forem implementadas podem ser burladas.
+
+## Insecure Direct Object References (IDOR)
+
+Esse tipo de falha ocorre quando um usuário pode acessar algum valor ou objeto que não deveria ser acessível para ele, por exemplo um usuário ao logar em um site é direcionado para example.com/user=123, se ele modificar o parametro para example.com/user=321 e ele conseguir acessar as informações deste outro usuário o site está vulnerável por um bug IDOR.
+
+Encontrar falhas IDOR requerem tanto habilidade quanto observação, ao analisar requisições procure por valores que parecem não encripitados e estejam sendo utilizados como alguma forma de identificador como admin_id, user_id e afins.
+
+## OAuth
+
+OAuth é uma tecnologia que permite o acesso a API's fazendo validações via parametros e garantindo acesso a informações. Normalmente utilizado para fazer login em sites usando aplicativos de terceiros como Facebook, Twitter, Google... Esta validação possui vários passos durante seu processo o que abre uma brecha para ser explorada, por exemplo alterando o tipo de informação que é requisitada na url para que o server da aplicação responda de forma diferente ou refletindo de alguma forma o redirecionamento do usuário enviando as informações de retorno para um servidor malicioso.
+
+OAuth pode ser complicado de entender no começo devido ao número de processos que ocorrem durante a validação, mas após entender todo o fluxo existem muitas possibilidades de invasão. Procure por exemplos criativos de invasões se aproveitando de OAuth para conhecer diversas abordagens.
+
+## Application Logic Vulnerabilities
+
+Este tipo de vulnerabilidade é diferente das demais vistas anteriormente, itens como XSS, HTML Injection... envolvem algum tipo de envio ou manipulação de informações, application logic vulnerabilites foca em manipular cenários e procurar com bugs na aplicação se aproveitando do código da aplicação e de decisões de desenvolvimento.
