@@ -19,6 +19,7 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [Gitrob](https://github.com/michenriksen/gitrob)
 - [KnockPy](https://github.com/guelfoweb/knock)
 - [crt.sh](https://github.com/tdubs/crt.sh)
+- [Bucket Finder](https://digi.ninja/projects/bucket_finder.php)
 
 ### Site e Blogs
 
@@ -31,6 +32,8 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [Philippe Hare Wood](https://philippeharewood.com/)
 - [Detectify](https://blog.detectify.com/)
 - [BlackHat](https://www.youtube.com/c/BlackHatOfficialYT/videos)
+- [NahamSec](https://www.youtube.com/NahamSec)
+- [Rapid 7](https://blog.rapid7.com/)
 
 ### Search
 
@@ -46,6 +49,10 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 > Use a opção Ferramentas > Data do Google para encontrar legados
 > Sempre analise sites que permitem uploads de arquivos
 > Bons hackers sempre vão um passo além para validar suas hipoteses
+> Pessoas sempre cometem erros, por melhores que elas sejam.
+> Não desista na primeira tentativa, seja criativo e pense em outras formas.
+> Um ataque vai além da empresa em sí, os serviços que ela utiliza também podem ser explorados. Pense fora da caixa.
+> Sempre que possível e necessário automatize suas tarefas
 
 Nomes:
 
@@ -237,3 +244,66 @@ OAuth pode ser complicado de entender no começo devido ao número de processos 
 ## Application Logic Vulnerabilities
 
 Este tipo de vulnerabilidade é diferente das demais vistas anteriormente, itens como XSS, HTML Injection... envolvem algum tipo de envio ou manipulação de informações, application logic vulnerabilites foca em manipular cenários e procurar com bugs na aplicação se aproveitando do código da aplicação e de decisões de desenvolvimento.
+
+Quando estiver procurando por vulnerabilidades na aplicação tente encontrar todas as tecnologias e ferramentas que seu alvo possa estar utilizando. Cada uma delas pode ser um vetor para escalar seu acesso e encontrar falhas. Familiarize-se com tecnologias mais usadas como AWS S3, Zendesk, Rals, etc.
+
+## Getting Started
+
+Existem muitas formas de começar, a principio será apresentada a forma que o autor identifica e como ele aborda um novo alvo, baseado nas experiências dele. É indicado que você comece por alvos mais "fáceis", evite empresas grandes como Uber, Twitter, Shopify... Não que seja impossível de invadí-los, porém esses alvos possuem profissionais extremamente experientes tentando invadir diariamente e essas empresas fazem parte de programas de bug bounty a anos o que dificulta mais o cenário, então para você não se sentir desmotivado no começo, comece por alvos menores.
+
+Comece por programas que talvez nem paguem pelo seu bounty, parece sem nexo, mas esses programas são menos concorridos e são um ambiente perfeito para você treinar.
+
+### Coletando informações
+
+Hacking vai além de abrir um site, enviar um payload e invadir um servidor. Existem algumas informações que são interessantes você organizar antes de começar o seu ataque, incluindo:
+
+- Qual é o escopo do alvo? Você pode testar todos os sub dominios ou apenas um url especifica? Por exemplo, \*.twitter.com ou apenas www.twitter.com?
+- Quantos IP's esta empresa possui? Quantos servidores estão rodando?
+- Que tipo de site é esse? Software as a Service? Open source? Collaborative? Paid vs Free?
+- Quais tecnologias eles estão utilizando? Python, Ruby, PHP, Java? MSQL? MySQL, Postgres, Microsoft SQL? Wordpress, Drupal, Rails, Django?
+
+Essas são algumas das considerações que vão ajudar você a definir para onde "olhar" e como você irá abordar este alvo.
+
+Enquanto navega pelo site deixe algumas ferramentas de captura de requisições rodando em background para que você possa analisar seus relatórios depois, algo como Zap proxy ou Burp. Da mesma forma se o programa permitir faça uma varredura nos dominios e dns do alvo com uma ferramenta como o KnockPy.
+
+### Analisando as tecnologias
+
+Qual tecnologia o site usa? O que o Wappalyzer está mostrando? Explore e navegue por vulnerabilidades de aplicação e implementação testando itens e bugs especificos das tecnologias identificadas.
+
+### Mapeamento de funcionalidades
+
+Vá entendendo como o site funciona, navegue nele como um usuário normale e tente absorver a lógica de negócio utilizada pelo desenvolvedor:
+
+- Ao criar contas você recebe e-mails? Como usuários acessam o site?
+- Está sendo utilizado OAuth com algum serviço.
+- Como está configurado esse OAuth?
+- O site oferece multiplos usuários por conta? Existe grupos?
+- Você pode armazenar ou enviar documentos?
+- Pode enviar fotos de perfil?
+- Os editores permitem HTML?
+
+Esses são alguns exemplos de perguntar para entender e mapear as funcionalidades de um site. Entenda como a plataforma funciona, tenha conhecimento do campo de atuação do aplicativo em questão. Tente imaginar o que poderia ter sido desenvolvido de maneira errada. Cuidado para não começar a hackear e se distrair tentando encontrar XSS, CSRF, enviando payloads por tudo. Procure entender todo o contexto e buscar áres que podem ser exploradas de uma forma mais eficiente.
+
+### Teste de aplicação
+
+Após entender como o alvo funciona é hora de iniciar o hacking. Pode-se usar ferramentas automatizadas para fazer varreduras e verificações ou/e ações e navegação manual. Comece utilizando o site como ele deve ser utilizado, criando conteúdo, navegando, injetando payloads onde puder para identificar anomalias.
+
+Quando estiver navegando com este foco tente encontrar coisas como:
+
+- As requisições HTTP que modificam data possuem CSRF e estão validando eles (CSRF)
+- Existe algum parâmetro como ID por exemplo que pode ser manipulado (Application Logic)
+- Possibilidade de repetir requisições entre duas contas diferente (Application Logic)
+- Algum local que permite upload de XML, normalmente ligado a importação em massa (XXE)
+- Alguma url com parametros de redirecionamento (Open Redirect)
+- Alguma requisição que imprime parâmetros da URL na resposta (CRLF, XSS, Open Redirect)
+- Informações do servidor abertas, como versões do PHP, Apache, Nginx, etc. Que podem revelear bugs de versão.
+
+Após analisar esses pontos verifique também os relatórios dos programas que você deixou rodando em background.
+
+## Indo além
+
+Hacker manualmente não é escalável, então sempre que possível automatize suas tarefas para ganhar tempo e explorar mais. Procure formas de analisar e rastrear todas as informações e dados que você extraiu para que possa entender onde existe uma falha que possa ser explorada, procure ou desenvolva ferramentas que possam lhe auxiliar nessa questão.
+
+## Resumo
+
+Esta é a maneira que o autor usa para encontrar e mapear falhas em aplicações, é apenas uma visão de como pode ser feito. Mapeando as funcionalidades, entendendo o negócio e então tentando invadir. Sendo apenas uma forma de trabalhar é recomendado que você experimente, teste e encontre a melhor maneira de trabalhar e também automatize o máximo que conseguir e for eficiente.
