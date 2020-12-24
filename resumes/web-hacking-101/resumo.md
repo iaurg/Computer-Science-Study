@@ -1,6 +1,6 @@
 # WEB Hacking 101
 
-Estou lendo este livre pelo simples fato de achar a área de segurança interessante, e como é necessário conhecer para se defender torna-se um conhecimento útil. Encontrei este livro no HackerOne por indicação do STÖK.
+Estou lendo este livro pelo simples fato de achar a área de segurança interessante, e como é necessário conhecer para se defender torna-se um conhecimento útil. Encontrei este livro no HackerOne por indicação do STÖK.
 
 Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 
@@ -34,6 +34,7 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [BlackHat](https://www.youtube.com/c/BlackHatOfficialYT/videos)
 - [NahamSec](https://www.youtube.com/NahamSec)
 - [Rapid 7](https://blog.rapid7.com/)
+- [Bug Bounty Writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 
 ### Search
 
@@ -42,16 +43,27 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
   Notes WEB 101:
 
 > Learn by doing.
+
 > Hack responsibly.
+
 > Um bom hacking é uma combinação de observação e habilidades.
+
 > Seja criativo quando estiver hackeando, pense fora da caixa.
+
 > Sempre tente busca falhas, por mais que as empresas sejam grandes e pareçam estar 100% seguras e todas as falhas já tenham sido encontradas.
+
 > Use a opção Ferramentas > Data do Google para encontrar legados
+
 > Sempre analise sites que permitem uploads de arquivos
+
 > Bons hackers sempre vão um passo além para validar suas hipoteses
+
 > Pessoas sempre cometem erros, por melhores que elas sejam.
+
 > Não desista na primeira tentativa, seja criativo e pense em outras formas.
+
 > Um ataque vai além da empresa em sí, os serviços que ela utiliza também podem ser explorados. Pense fora da caixa.
+
 > Sempre que possível e necessário automatize suas tarefas
 
 Nomes:
