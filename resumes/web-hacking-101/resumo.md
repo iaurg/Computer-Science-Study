@@ -312,10 +312,34 @@ Quando estiver navegando com este foco tente encontrar coisas como:
 
 Após analisar esses pontos verifique também os relatórios dos programas que você deixou rodando em background.
 
-## Indo além
+### Indo além
 
 Hacker manualmente não é escalável, então sempre que possível automatize suas tarefas para ganhar tempo e explorar mais. Procure formas de analisar e rastrear todas as informações e dados que você extraiu para que possa entender onde existe uma falha que possa ser explorada, procure ou desenvolva ferramentas que possam lhe auxiliar nessa questão.
 
-## Resumo
+### Resumo
 
 Esta é a maneira que o autor usa para encontrar e mapear falhas em aplicações, é apenas uma visão de como pode ser feito. Mapeando as funcionalidades, entendendo o negócio e então tentando invadir. Sendo apenas uma forma de trabalhar é recomendado que você experimente, teste e encontre a melhor maneira de trabalhar e também automatize o máximo que conseguir e for eficiente.
+
+## Reportando vulnerabilidades
+
+Chegou finalmente a hora de reportar a vulnerabilidade encontrada, a sua primeira, parabéns! Encontrar vulnerabilidades não é fácil, desistir é mais comum.
+
+A primeira dica é, relaxe, não fique muito excitado. Entendo o sentimento de encontrar a vulnerabilidade enviar para análise e ser rejeitado. E para evitar esse tipo de frustração vamos seguir algumas práticas.
+
+### Leia atentamente as explicações 
+Plataformas de bug bounty normalmente possuem perfis das empresas que detalham bem como e onde devem ser encontradas vulnerabilidades, preste atenção nessas explicações para que não faça uma análise em um serviço que nem está no escopo do programa. Isto evitará diversos erros ou rejeições. Leia as regras e indicações de cada programa de bounty para que você invista seu tempo no local correto.
+
+### Inclua detalhes, depois inclua mais detalhes
+Se você deseja que sua análise seja levada a sério forneça análises com no mínimo:
+- A URL e os parâmetros que você usou para encontrar a vulnerabilidade
+- Uma descrição do navegador, sistema operacional e/ou versão do aplicativo
+- Uma descrição da falha encontrada. Como este bug pode potencialmente ser explorado?
+- Passos para reproduzir o erro.
+
+Caso queira ir mais além adicione imagens e videos para ilustrar.
+
+### Confirme a vulnerabilidade
+Após ler as regras, escrever sua análise e detalhar todo o caminho para reproduzir o erro. Teste novamente e garante que sua análise é realmente um erro.
+
+Será muito ruim caso você ache que encontrou uma falha e depois receber a resposta de que esse erro nem sequer existe. Faça um favor para você mesmo e confirme a falha encontrada.
+
