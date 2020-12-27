@@ -77,23 +77,23 @@ Nomes:
 
 ### Open Redirect Vulnerabilities
 
-Alguns sites utilizam redirecionamento através da url para encaminhar o usuário a algum lugar, uma página, um exemplo ou algum item especifico. É possível modificar esses valores e verificar se o servidor faz algum tratamento nesses valores, caso não sejam tratados eles podem ser modificados e enviar o usuário para qualquer página/url que quiser sem que o usuário perceba.
+Alguns sites utilizam redirecionamento através da url para encaminhar o usuário a algum lugar, por exemplo encaminhar o usuário para uma página após o login. É possível modificar esses valores e verificar se o servidor faz algum tratamento antes de executar esta ação, caso não, esses valores podem ser alterados e enviar o usuário para qualquer página/url sem que o usuário perceba.
 
-Os parâmetros de redirecionamento nem sempre terão um nome obvio com ?redirect=, então vale tentar. Caso o parâmetro encaminhe para uma url interna, tente utilizar caracteres especiais como , ou @ para ver o que retorna
+Os parâmetros de redirecionamento nem sempre terão um nome obvio com ?redirect=, então vale tentar. Caso o parâmetro encaminhe para uma url interna, tente utilizar caracteres especiais como "," ou "@" para ver o que retorna
 
-Quando estiver buscando por vulnerabilidades sempre busque por serviços terceiros que um site possa estar utilizando, eles podem criar novos vetores de invasão. As vezes a empresa que está sendo invadida pode não concordar com a sua solução, então você precisa criar provas para deixar de acordo.
+Quando estiver buscando por vulnerabilidades sempre busque por serviços de terceiros que um site possa estar utilizando, eles podem criar novos vetores de invasão.
 
-Este tipo de vulnerabilidade acontece por causa do excesso de confiança, posi a vitima acessa o site do atacante ao achando que tinha acessado pelo site confiável
+Este tipo de vulnerabilidade acontece por causa do excesso de confiança, o usuário acessa uma url que ele acredita ser confiável e é redirecionado para uma página maliciosa.
 
 ### HTTP Parameter Pollution
 
-Essa invasão funciona manipulando os parâmetros http que são enviados ou recebidos pelo site, podem realizar alterações tanto no back como front. Neste tipo de ataque você não sabe como o código é processado no servidor, você apenas solicita uma informação e recebe uma resposta, o HPP consiste em enviar uma informação inesperada e receber uma resposta inesperada, é preciso trabalhar em cima dessa "caixa preta" para receber e testar o que o servidor está executando.
+Essa invasão funciona manipulando os parâmetros http que são enviados ou recebidos pelo site, podem realizar alterações tanto no back como no front. Neste tipo de ataque você não sabe como o código é processado no servidor, você apenas solicita uma informação e recebe uma resposta, o HPP consiste em enviar uma informação inesperada e receber uma resposta inesperada, é preciso trabalhar em cima dessa "caixa preta" para receber e testar o que o servidor está executando.
 
 Muitas aplicações ficam vulneráveis apenas com poluição de HTTP, sempre esteja atento a como isto é utilizado.
 
 Normalmente quando um site está vulnerável com HPP provavelmente terão várias rotas com o mesmo problema.
 
-HPP é muito mais tentativa e erro para tentar adivinhar o que o servidor faz com seu código.
+HPP é muito "tentativa e erro" observando o que o servidor faz com seu código.
 
 ### Cross Site Request Forgery (CSRF)
 
@@ -111,7 +111,7 @@ Se um site estiver usando token CSRF tente removê-lo ou alterar para ver se o s
 
 É uma forma de invasão onde você pode manipular a tratativa do site em relação ao HTML recebido fazendo com que sejam inseridos elementos HTML manipulados dentro do site.
 
-Existe o HTML Injection Stored, quando o servidor salvar as informações do HTML e sempre retorna para o browser as alterações injetadas.
+Existe o HTML Injection Stored, quando o servidor salva as informações do HTML e sempre retorna para o browser as alterações injetadas.
 
 E tem o HTML Injection Reflected que aparece apenas uma vez a alteração para o usuário final.
 
@@ -129,7 +129,7 @@ XSS ocorre quando sites executam caracteres especiais sem sanitiza-los, o que fa
 
 Nem sempre é possivel fazer algo com XSS, é necessário validar alguns outros fatores antes de ser considerado uma vulnerabilidade útil. Por exemplo um site que não utiliza a flag httpOnly em cookies sensíveis pode ser bem mais explorado do que um site que utiliza. Outro fator a se considerar em XSS é a proteção SOP (Same Origin Policy) dos navegadores que impossibilita um site trafegar requisições de um site para outro (origens diferentes) sem as devidas permissões.
 
-Uma forma inicial de validar um XSS é tentando executar o comando alert(document.domain) para confirmar a origem de onde está sendo executado o comando.
+Uma forma de validar um XSS é tentando executar o comando alert(document.domain) para confirmar a origem de onde está sendo executado o comando.
 
 Caso você não tenha acesso ao envio de informações de script via submit você pode tentar a técnica de aspas em value de input por exemplo, digamos que um input seja `<input type="text" name="username" value="hacker">` você pode enviar o valor de `hacker" onfocus=alert(document.cookie) autofocus "` isso irá "fechar" seu value de hacker e injetar um script com autofocus (o auto focus é uma instrução que informa o navegador a focar este input e executar o código)
 
