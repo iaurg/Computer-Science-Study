@@ -36,11 +36,7 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 - [Rapid 7](https://blog.rapid7.com/)
 - [Bug Bounty Writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 
-### Search
-
-- [Cozy Bear](https://en.wikipedia.org/wiki/Cozy_Bear)
-
-  Notes WEB 101:
+  Frases WEB 101:
 
 > Learn by doing.
 
@@ -74,6 +70,10 @@ Nomes:
 - Matthew Bryant
 - Peiter Zatko
 - James Kettle
+- Jason Haddix
+- Daniel Miessler
+- Cozy Bear
+- Ben Sadeghipou
 
 ### Open Redirect Vulnerabilities
 
@@ -339,7 +339,80 @@ Se você deseja que sua análise seja levada a sério forneça análises com no 
 Caso queira ir mais além adicione imagens e videos para ilustrar.
 
 ### Confirme a vulnerabilidade
-Após ler as regras, escrever sua análise e detalhar todo o caminho para reproduzir o erro. Teste novamente e garante que sua análise é realmente um erro.
+Após ler as regras, escrever sua análise e detalhar todo o caminho para reproduzir o erro. Teste novamente e garanta que sua análise é realmente um erro.
 
-Será muito ruim caso você ache que encontrou uma falha e depois receber a resposta de que esse erro nem sequer existe. Faça um favor para você mesmo e confirme a falha encontrada.
+Será muito ruim caso você "ache" que encontrou uma falha e depois receba a resposta de que esse erro nem sequer existe. Faça um favor para você mesmo e confirme a falha encontrada.
+
+### Mostre respeito pela empresa
+Sempre que uma empresa se candidata a um programa de bug bounty ela se dispõe para uma comunidade de profissionais. Porém nem sempre essas empresas possuem um setor inteiro de análise de segurança ou um processo bem definido de análises, isso pode fazer com que as análises fiquem um pouco mais demoradas ou saturarem algum profissional que recebe todos os relatórios. Tenha paciência e entenda também a posição da empresa que você está realizando seus testes para que entenda em que situação ela se encontra, as vezes um retorno pode demorar ou eles podem não entender 100% o que você detalhou.
+
+Leve em conta também que uma empresa está recebendo diversos alertas de falhas e essas falhas precisam ser analisadas, testadas, confirmadas e corrigidas, tudo isso demanda tempo e uma gama de profissionais está envolvido em todo esse processo.
+
+Lembre-se que você estão atuando juntos, hackers e empresas.
+
+### Algumas palavras
+
+Sempre que você enviar alguma análise se comprometa com ela e dedique-se em cada detalhe do que está defendendo, esteja pronto para argumentar tanto com a empresa como com outros hackers caso você seja questionado. Você pode pensar: "A procupação de entender é da empresa, eu faço como quiser, apenas aviso", porém alguns programas de bounty possuem um sistema de reputação e quanto melhor for sua reputação consequentemente você terá alguns benefícios, no HackerOne por exemplo, hacker com "Signal" alto possuem acesso a programas de bounty privados que são liberados apenas para um grupo seleto de hackers, isso significa mais falhas com menos concorrência, um ótimo motivo para ser profissional e organizado heim?
+
+## Ferramentas
+Abaixo uma lista de ferramentas que podem ser úteis durante sua busca. Elas estão listadas sem nenhuma ordem. Algumas automatizam muitos processos, porém é sempre bom pesquisar e entender como elas funcionam, automação não substitui alguns trabalhos manuais e pensamento criativo.
+
+### Burp Suite
+
+Link: [https://portswigger.net/burp](https://portswigger.net/burp)
+
+Burp Suite é uma plataforma integrada com diversas ferramentas para testes de segurança.
+
+Bucky Roberts possui um [curso introdutório](https://vimeo.com/album/3510171) desta ferramenta.
+
+### ZAP Proxy
+
+Link: [https://www.zaproxy.org/](https://www.zaproxy.org/)
+
+O ZAP é uma ferramenta gratuita, baseada em comunidade e open source similar ao Burp para testes de segurança. Ela também inclui um conjunto de ferramentas e addons para auxiliar durante as invasões.
+
+### KnockPy
+
+Link: [https://github.com/guelfoweb/knock](https://github.com/guelfoweb/knock)
+
+Knockpy é uma ferramenta open source em Python desenvolvida com o intuito de procurar sub dominios de uma empresa. Identificar sub dominios aumenta o números de locais possiveis para encontrar falhas e vulnerabilidades em um ataque.
+
+### HostileSubBruteforcer
+
+Link: [https://github.com/nahamsec/HostileSubBruteforcer](https://github.com/nahamsec/HostileSubBruteforcer)
+
+Este aplicativo fará uma verificação bruteforce buscando por subdominios existentes e pegará seus IP's respectivos, seu Host e verificar se as ferramentas estão configuradas de acordo como AWS, Github, Heroku, Shopify, Tumblr e SquareSpace. É bom para encontrar sub domain takeovers.
+
+### Sublist3r
+
+Link: [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
+
+De acordo com a descrição de seu repositório o Sublist3r é uma ferramenta desenvolvida para listar subdominios usando buscadores. Isso ajuda em uma invasão pois coleta diversos subdominios em buscadores como Google, Yahoo, Bing, Baidu e Ask. O pacote possui alguns complementos que são adicionados a ferramente como subbrute e wordlists.
+
+
+### crt.sh
+
+Link: [https://crt.sh/](https://crt.sh/)
+
+Um site que busca certificados entre os dominios para que possa enumerar subdominios associados aos certificados.
+
+### SecLists
+
+Link: [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+Teoricamente não é uma ferramenta, mas sim um conjunto de diversas listas que podem ser utilizadas durante invasões, incluindo listas de usernames, senhas, URLs, diretórios comuns...
+
+### XSS Hunter
+
+Link: [https://xsshunter.com/](https://xsshunter.com/)
+
+Esta ferramenta ajuda na busca automatizada e contínua por Blind XSS ou algum XSS que você não encontrou. A ferramente disponibiliza um dominio para que você possa deixar sua aplicação sendo monitorada constantemente.
+
+### sqlmap
+
+Link: [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
+
+sqlmap é uma ferramenta open source para testes de invasão que automatiza o processo de encontrar falhas de SQL Injection. É uma ótima ferramenta para busca automatizada de falhas em SQL, com suporte para vários tipos de falhas e bancos de dados.
+
+### nmap
 
