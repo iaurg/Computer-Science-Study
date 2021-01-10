@@ -34,6 +34,8 @@ node -> next = null
 n->number
 n->pointer
 
+There's always a price you pay between space and time in programming, you need to choose accordingly to you problem.
+
 In Linked Lists:
 
 - Insertion is easy - just tack onto te front
@@ -69,6 +71,7 @@ In Tries:
 - Lookup is fast - not quite fast as an array, but almost
 - Already sorted - sort as you build in almost all situations
   Rapidly bcomes huge, event with very little data present, not great if space is at a premium
+  - A tree made by arrays
 
 Queues: First In, First Out. FIFO.
 
