@@ -71,7 +71,7 @@ In Tries:
 - Lookup is fast - not quite fast as an array, but almost
 - Already sorted - sort as you build in almost all situations
   Rapidly bcomes huge, event with very little data present, not great if space is at a premium
-  - A tree made by arrays
+- A tree made by arrays
 
 Queues: First In, First Out. FIFO.
 
