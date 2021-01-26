@@ -2,7 +2,7 @@
 
 # Conteúdo para estudo de Ciência da Computação
 
-O objetivo deste repositório é reunir conteúdo para que eu e você possamos consultar durante estudos em Ciência da Computação. Irei separar em sessões de:
+O objetivo deste repositório é reunir conteúdo para que você e eu possamos consultar durante estudos em Ciência da Computação. Irei separar em sessões de:
 
 <p align="left">
   <a href="#cursos">🎓 Cursos</a>
