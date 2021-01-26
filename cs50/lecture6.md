@@ -25,3 +25,5 @@ def load(params):
 There's always a price to pay when changing something into computer science
 
 Computer program always come with tradeoffs. Being a programmer is know what tools to use for the trade.
+
+Interpreter languages always need to "translate" the code, that means more time, because we not compile code itself, we just write and a program (interpreter) translate to us.
