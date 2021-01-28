@@ -46,7 +46,7 @@ Site de treino: [Juice Shop](https://juice-shop-br.herokuapp.com)
 
 > Seja criativo quando estiver hackeando, pense fora da caixa.
 
-> Sempre tente busca falhas, por mais que as empresas sejam grandes e pareçam estar 100% seguras e todas as falhas já tenham sido encontradas.
+> Sempre tente buscar falhas, por mais que as empresas sejam grandes e pareçam estar 100% seguras e todas as falhas já tenham sido encontradas.
 
 > Use a opção Ferramentas > Data do Google para encontrar legados
 
@@ -105,7 +105,7 @@ Para fazer CSRF com POST precisa de mais configurações e passar alguns headers
 
 [Um exemplo de invasão](https://www.corben.io/tricky-CORS/) passando pelo CORS no Yahoo.
 
-Se um site estiver usando token CSRF tente removê-lo ou alterar para ver se o servidor está validando este dado
+Se um site estiver usando token CSRF tente removê-lo ou alterar para ver se o servidor está validando este dado.
 
 ### HTML Injection
 
@@ -172,13 +172,13 @@ CSTI ocorrem quando ferramentas que geram template no lado do cliente como Angul
 
 ## SQL Injection
 
-Essa falha ocorrer quando o site que hospeda o banco de dados permite que o usuário faça solicitações com query "não esperadas" e obtenha retornos de informações que não deveriam ser retornadas para público. Normalmente esses ataques são muitos bem pagos pois permitem que o atacante escale e obtenha informações para manipular ou extrair dados do sistema e até mesmo tornar-se administrador ele mesmo.
+Essa falha ocorre quando o site que hospeda o banco de dados permite que o usuário faça solicitações com query "não esperadas" e obtenha retornos de informações que não deveriam ser retornadas para público. Normalmente esses ataques são muitos bem pagos pois permitem que o atacante escale e obtenha informações para manipular ou extrair dados do sistema e até mesmo tornar-se administrador ele mesmo.
 
 Sempre investigue e altere parâmetros de url dos sites para entender como eles estão sendo interpretados. Procure formas de passar dados para os sites de formas que não são esperadas para que você possa analisar como os retornos são computados.
 
 ## Server Side Request Forgery (SSRF)
 
-Neste tipo de invasão o atacante é capaz de executar requisições direto pelo servidor. É similar ao CSRF com uma diferença, o alvo aqui é o site em só ao invés de se aproveitar do usuário.
+Neste tipo de invasão o atacante é capaz de executar requisições direto pelo servidor. É similar ao CSRF com uma diferença, o alvo aqui é o site em si ao invés de se aproveitar do usuário.
 
 ### HTTP Request Location
 
@@ -204,7 +204,7 @@ Esta falha explora a vulnerabilidade de como uma aplicação faz o parse de um X
 
 Manipulando as entidades de um XML se o servidor permitir você é capaz de parsear os valores de pastas ou arquivos internos do servidor e retornar para você ou em um servidor externo esses valores.
 
-Arquivos .docx, .xlsx, .pptx... são XML tamném, preste atenção em servidores que aceitam esses tipos de arquivo com upload.
+Arquivos .docx, .xlsx, .pptx... são XML também, preste atenção em servidores que aceitam esses tipos de arquivo com upload.
 
 ## Remote Code Execution
 
@@ -245,7 +245,7 @@ Essa vulnerabilidade consiste quando dois processos ocorrerem em paralelo execut
 
 Esse tipo de falha ocorre quando um usuário pode acessar algum valor ou objeto que não deveria ser acessível para ele, por exemplo um usuário ao logar em um site é direcionado para example.com/user=123, se ele modificar o parametro para example.com/user=321 e ele conseguir acessar as informações deste outro usuário o site está vulnerável por um bug IDOR.
 
-Encontrar falhas IDOR requerem tanto habilidade quanto observação, ao analisar requisições procure por valores que parecem não encripitados e estejam sendo utilizados como alguma forma de identificador como admin_id, user_id e afins.
+Encontrar falhas IDOR requerem tanto habilidade quanto observação, ao analisar requisições procure por valores que parecem não encriptados e estejam sendo utilizados como alguma forma de identificador como admin_id, user_id e afins.
 
 ## OAuth
 
@@ -257,7 +257,7 @@ OAuth pode ser complicado de entender no começo devido ao número de processos 
 
 Este tipo de vulnerabilidade é diferente das demais vistas anteriormente, itens como XSS, HTML Injection... envolvem algum tipo de envio ou manipulação de informações, application logic vulnerabilites foca em manipular cenários e procurar com bugs na aplicação se aproveitando do código da aplicação e de decisões de desenvolvimento.
 
-Quando estiver procurando por vulnerabilidades na aplicação tente encontrar todas as tecnologias e ferramentas que seu alvo possa estar utilizando. Cada uma delas pode ser um vetor para escalar seu acesso e encontrar falhas. Familiarize-se com tecnologias mais usadas como AWS S3, Zendesk, Rals, etc.
+Quando estiver procurando por vulnerabilidades na aplicação tente encontrar todas as tecnologias e ferramentas que seu alvo possa estar utilizando. Cada uma delas pode ser um vetor para escalar seu acesso e encontrar falhas. Familiarize-se com tecnologias mais usadas como AWS S3, Zendesk, Rails, etc.
 
 ## Getting Started
 
@@ -314,7 +314,7 @@ Após analisar esses pontos verifique também os relatórios dos programas que v
 
 ### Indo além
 
-Hacker manualmente não é escalável, então sempre que possível automatize suas tarefas para ganhar tempo e explorar mais. Procure formas de analisar e rastrear todas as informações e dados que você extraiu para que possa entender onde existe uma falha que possa ser explorada, procure ou desenvolva ferramentas que possam lhe auxiliar nessa questão.
+Hackear manualmente não é escalável, então sempre que possível automatize suas tarefas para ganhar tempo e explorar mais. Procure formas de analisar e rastrear todas as informações e dados que você extraiu para que possa entender onde existe uma falha que possa ser explorada, procure ou desenvolva ferramentas que possam lhe auxiliar nessa questão.
 
 ### Resumo
 
