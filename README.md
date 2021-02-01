@@ -2,7 +2,7 @@
 
 # Conteúdo para estudo de Ciência da Computação
 
-O objetivo deste repositório é reunir conteúdo para que eu e você possamos consultar durante estudos em Ciência da Computação. Irei separar em sessões de:
+O objetivo deste repositório é reunir conteúdo para que você e eu possamos consultar durante estudos em Ciência da Computação. Irei separar em sessões de:
 
 <p align="left">
   <a href="#cursos">🎓 Cursos</a>
@@ -104,6 +104,11 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Canal Computerphile](https://www.youtube.com/user/Computerphile)
 - [Canal Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Canal Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+- [Canal Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
+- [Canal Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
+- [Canal Erick Wendel](https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A)
+- [Canal eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
+
 
 ## Sites para praticar programação
 
