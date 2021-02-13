@@ -37,3 +37,5 @@ Primary Key =  Original identifier
 Foreign Key = Reference Identifier
 
 Try to avoid SQL Injection Attacks, they are very common, always sanitize your data and keep your queries secure using better patterns.
+
+SQL Reference: https://www.w3schools.com/sql/sql_ref_keywords.asp
