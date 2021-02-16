@@ -37,3 +37,10 @@ TCP is outside of "envelop" and HTTP it's own content. TCP define addresses and 
 
 DOM is a Tree structure interpreted by browsers.
 
+HTML are absed with open/close tags with many responsabilites.
+
+CSS is a Cascading Style Sheets is used to style your page using properties
+
+JavaScript allow page to be more flexible. And allow you to run code on client computer.
+
+With JavaScript we have a programming language that allows us to change DOM Tree
