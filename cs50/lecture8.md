@@ -70,4 +70,18 @@ IP is responsible to get information from point A to point B and breaking this i
 
 ### TCP
 
-Transmition Control Protocol
+Transmition Control Protocol direct all the packets to right place in the receiving machine. It is important to be able to identify both where the receiver is and what the packet is for, so TCP and IP are almost inseparable TCP/IP.
+
+TCP organize to each port package needs to go and which order theses packets need to be read, also counts how many packets this data has.
+
+### HTTP
+
+Is a protocol to interpret data coming from a network, called application layer protocol, this protocol dictate the format that is requested by client and return information
+
+It's like a human interaction, ou aks for something and get a answer back
+
+HTTP usually return data and a status code for you to know
+
+### HTML
+
+Translate to the browser some other to be interpreted in another way.
