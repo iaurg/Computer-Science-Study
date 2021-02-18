@@ -84,4 +84,52 @@ HTTP usually return data and a status code for you to know
 
 ### HTML
 
-Translate to the browser some other to be interpreted in another way.
+Translate to the browser some words to be interpreted in another way. Used to organize elements into the web page.
+
+### CSS
+
+Used to stylize elements into a web page.
+
+### JavaScript
+
+Is derived from C syntax
+
+JavaScript runs client side
+
+JavaScript are used to add interaction into webpages
+
+```js
+let variable = "This is a variable"
+const variableToo = "This is a variable too"
+
+function newFunc(){
+
+}
+
+const example = {
+  name: "Object"
+}
+
+const usefullObecjt = {
+  sayHi: (x) => console.log("Hiii", x)
+}
+
+const week = ["segunda", "terça", "quarta"]
+
+usefullObecjt.sayHi("DAvid")
+
+//Show indices
+for(let day in week){
+  console.log(day)
+}
+
+//Show values
+for(let day of week){
+  console.log(day)
+}
+```
+### DOM
+
+Document Object Model, this obejct organizes the entire contents of a web page. By organizing an entire page into a JavaScript object, we can manipulate the page's elements programmatically.
+
+
