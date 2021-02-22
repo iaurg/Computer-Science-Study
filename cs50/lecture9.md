@@ -10,6 +10,17 @@ Framework is a way ofdoing thing, organize your code and so on...
 
 MVC = Model, View, Controller
 
+Simple http server in Flask
+
+```python
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+```
+
 Listen users then responds
 
 Decoratos (@) inside backend code associate some functions to next function
