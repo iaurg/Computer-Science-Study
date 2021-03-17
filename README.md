@@ -17,14 +17,6 @@ Neste mesmo repositório existem alguns itens "extras" que dependendo da sua cur
 Antes de qualquer coisa recomendo esse ótimo wiki que encontrei no Reddit:
 [Getting Started with Learning Code](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), ele passa por quase todas as dúvidas que com certeza surgirão em seu aprendizado.
 
-<p align="left">
-  <a href="/resumes">Resumos de livros</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="/akita-videos">Anotações de vídeos</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="/cs50">Anotações do CS50</a>
-</p>
-
 Enquanto eu estudava encontrei um repositório muito legal do @jwasham que tem a mesma ideia desse aqui, tudo que agrega é ótimo, se quiser dar uma olhada no [Code Interview University](https://github.com/jwasham/coding-interview-university)
 
 Encontrei outro projeto legal com a mesma ideia [OSSU (Open Source Society University)](https://github.com/ossu/computer-science), um caminho para quem deseja aprender Ciência da Computação usando materiais online.
@@ -41,7 +33,7 @@ Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualqu
 
 Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução a computação com conceitos que serão utilizados em muitas linguagens de programação. Eu ainda estou concluindo este curso, as aulas tem em média 1~2 horas com desafios a cada módulo com um ambiente bem legal para você testar os códigos.
 
-[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - [Anotações](./cs50)
+[CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - [📝 Anotações](./resumos/cursos/cs50)
 
 Os cursos e links abaixo eu reuni pesquisando e viso como uma segunda etapa
 
@@ -66,12 +58,12 @@ Legenda:
 
 ### Técnicos
 
-- Introduction to Algorithms (The MIT Press) (Algoritmos Teoria e Prática) - 📖 [Resumindo](./resumes/algoritmos-teoria-e-pratica/resumo.md)
+- Introduction to Algorithms (The MIT Press) (Algoritmos Teoria e Prática) - 📖 [Resumindo](./resumos/livros/algoritmos-teoria-e-pratica/resumo.md)
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
 - The Mythical Man-Month
-- Clean Code - 📖 [Resumindo](./resumes/clean-code/resumo.md)
+- Clean Code - 📖 [Resumindo](./resumos/livros/clean-code/resumo.md)
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
 - Algoritmos e Estruturas de Dados Niklaus Wirth
@@ -80,13 +72,13 @@ Legenda:
 
 ### Software geral
 
-- The Pragmatic Programmer - [Resumindo](./resumes/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) 📙
-- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](./resumes/getting-real/resumo-getting-real.md) 📙
+- The Pragmatic Programmer - [Resumindo](./resumos/livros/the-pragmatic-programmer/resumo-the-pragmatic-programmer.md) 📙
+- Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application - [Resumindo](./resumos/livros/getting-real/resumo-getting-real.md) 📙
 - Rework 📙
 - Startup, Jessica Livingston 📙
 - [The twelve-factor methodology to scale a software](https://12factor.net) 📙
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumido](./resumes/programador-apaixonado/resumo-programador-apaixonado.md) 📙
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumido](./resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
 
@@ -124,7 +116,7 @@ Esses links serão bem úteis caso você queira melhorar sua habilidade de ented
 
 ## 📝Artigos e sites
 
-Aqui reuno links, sites e artigos que agregam de alguma forma o conhecimento. Seria legal você dar uma olhada
+Links, sites e artigos que agregam de alguma forma o conhecimento. Seria legal você dar uma olhada
 
 - [Treinamento de Git interativo](https://learngitbranching.js.org/)
 - [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
