@@ -1,0 +1,110 @@
+@import url('https://css.gg/extension.css');
+
+main {
+  min-width: 350px;
+}
+
+header {
+  background-color: var(--white-bg-color);
+  width: 100%;
+  padding: 0.5rem 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#go-to-options {
+  background-color: var(--light-bg-color);
+  border:none;
+  border-radius: 0.25rem;
+}
+
+#go-to-options svg{
+  color: var(--subheadline-color);
+  display: block;
+  padding: 0.25rem;
+}
+
+h2 {
+  color:var(--content-color);
+  font-size: 0.875rem;
+  font-weight: normal;
+}
+
+.content {
+  padding:0 20px;
+  background-color: var(--light-bg-color);
+}
+
+.tracked-coins {
+  background-color: var(--white-bg-color);
+  border-radius:8px;
+  width: 90%;
+  margin: 1rem 0;
+  max-height: 350px;
+  overflow-y: scroll;
+}
+
+#coin-table {
+  width: 100%;
+  border-spacing:0 0.5rem;
+}
+
+#coin-table th {
+  font-weight: 400;
+  padding: 0.25rem 0.5rem;
+  text-align:left;
+  color:var(--content-color);
+}
+
+#coin-table th:last-child {
+  text-align:center;
+}
+
+#coin-data .coin-market {
+  display: flex;
+  align-items: center;
+}
+
+#coin-data td {
+  border: 0;  
+  font-weight: normal;
+  padding: 0.5rem;
+  color: var(--content-color);
+  border-radius:0.25rem;
+}
+
+.coin-image {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.8rem;
+}
+
+.coin-identifiers {
+  display: flex;
+  flex-direction: column;
+}
+
+.coin-identifiers--symbol, .coin-price  {
+  font-weight: 600;
+}
+
+.coin-change {
+  text-align: center;
+}
+
+.coin-change--positive {
+  background: rgba(207, 255, 241, 0.4);
+  color: var(--success-color);
+  font-weight: 600;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.coin-change--negative {
+  background: rgba(252, 55, 55, 0.1);
+  color: var(--error-color);
+  font-weight: 600;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+}

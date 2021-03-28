@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <script src="scripts.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+        <link href="styles.css" rel="stylesheet">
+        <title>BTCS50 - Hold on!</title>
+    </head>
+    <body>
+        <div class="card floating-card m-4">
+          <div class="card-body" id="card-btc">
+            <div class="spinner"></div>
+          </div>
+        </div>
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            <div class="container">
+              <a class="navbar-brand py-4 font-weight-bold logo" href="#">BT<span class="text-warning">CS50</span></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                  <li class="nav-item">
+                    <a class="nav-link" href="/index.html">Home</a>
+                  </li>
+                  <li class="nav-item active">
+                    <a class="nav-link" href="/satoshi.html">Satoshi</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/currency.html">Currency</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/exchanges.html">Exchanges</a>
+                  </li>
+                </ul>
+                <a href="" class="navbar-btn btn btn-sm btn btn-warning lift ml-auto">
+                    Invest Now
+                </a>
+              </div>
+              </div>
+            </nav>
+        </header>
+        <section class="py-5">
+            <div class="container">
+              <div class="row justify-content-center">
+                  <div class="col-12 col-md-10 col-lg-8 col-xl-6">
+                      <h1 class="text-center">Satoshi Original Letter</h1>
+                      <p class="text-center text-secondary">A purely peer-to-peer version of electronic cash would allow onlinepayments to be sent directly from one party to another without going through afinancial institution.</p>
+                  </div>
+              </div>
+            </div>
+        </section>
+        <section class="py-2">
+            <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10 col-lg-8">
+                    <figure class="mb-7">
+                      <img class="figure-img img-fluid rounded" src="https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80" alt="">
+                    </figure>
+                    <h4>Bitcoin</h4>
+                    <p>
+                        Commerce on the Internet has come to rely almost exclusively on financial institutions serving astrusted third parties to process electronic payments. While the system works well enough formost transactions, it still suffers from the inherent weaknesses of the trust based model.Completely non-reversible transactions are not really possible, since financial institutions cannotavoid mediating disputes. The cost of mediation increases transaction costs, limiting theminimum practical transaction size and cutting off the possibility for small casual transactions,and there is a broader cost in the loss of ability to make non-reversible payments for non-reversible services. With the possibility of reversal, the need for trust spreads. Merchants mustbe wary of their customers, hassling them for more information than they would otherwise need.A certain percentage of fraud is accepted as unavoidable.
+                    </p>
+                    <p>
+                        These costs and payment uncertaintiescan be avoided in person by using physical currency, but no mechanism exists to make paymentsover a communications channel without a trusted party.What is needed is an electronic payment system based on cryptographic proof instead of trust,allowing any two willing parties to transact directly with each other without the need for a trustedthird party. Transactions that are computationally impractical to reverse would protect sellersfrom fraud, and routine escrow mechanisms could easily be implemented to protect buyers. Inthis paper, we propose a solution to the double-spending problem using a peer-to-peer distributedtimestamp server to generate computational proof of the chronological order of transactions.
+                    </p>
+                    <p>
+                        The system is secure as long as honest nodes collectively control more CPU power than anycooperating group of attacker nodes.1 2.TransactionsWe define an electronic coin as a chain of digital signatures. Each owner transfers the coin to thenext by digitally signing a hash of the previous transaction and the public key of the next ownerand adding these to the end of the coin. A payee can verify the signatures to verify the chain ofownership.The problem of course is the payee can't verify that one of the owners did not double-spendthe coin.
+                    </p>
+                    <p>
+                        A common solution is to introduce a trusted central authority, or mint, that checks everytransaction for double spending. After each transaction, the coin must be returned to the mint toissue a new coin, and only coins issued directly from the mint are trusted not to be double-spent.The problem with this solution is that the fate of the entire money system depends on thecompany running the mint, with every transaction having to go through them, just like a bank.
+                    </p>
+                    <p>
+                        We need a way for the payee to know that the previous owners did not sign any earliertransactions. For our purposes, the earliest transaction is the one that counts, so we don't careabout later attempts to double-spend. The only way to confirm the absence of a transaction is tobe aware of all transactions. In the mint based model, the mint was aware of all transactions anddecided which arrived first. To accomplish this without a trusted party, transactions must bepublicly announced [1], and we need a system for participants to agree on a single history of theorder in which they were received. The payee needs proof that at the time of each transaction, themajority of nodes agreed it was the first received
+                    </p>
+                </div>
+           </div>
+           </div>
+        </section>
+        <footer class="bg-dark py-4">
+          <div class="container">
+            <div class="row justify-content-between align-items-center">
+              <div class="col-md-4">
+                <a class="font-weight-bold logo text-light" href="#">BT<span class="text-warning">CS50</span></a>
+              </div>
+              <div class="col-md-auto">
+                <nav class="nav">
+                    <a class="nav-link text-light" href="/index.html">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link text-light" href="/satoshi.html">Satoshi</a>
+                    <a class="nav-link text-light" href="/currency.html">Currency</a>
+                    <a class="nav-link text-light" href="/exchanges.html">Exchanges</a>
+                </nav>
+              </div>
+            </div>
+          </div>
+
+        </footer>
+        <script src="https://player.vimeo.com/api/player.js"></script>
+    </body>
+</html>

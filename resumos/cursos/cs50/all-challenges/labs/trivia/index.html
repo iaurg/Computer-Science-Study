@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+
+        <script>
+
+            function changeResultText(id, color, text){
+                const resultText = document.getElementById(id);
+                resultText.innerHTML = "";
+                resultText.innerHTML = text;
+                resultText.style.color = color;
+            }
+
+            function checkAnswer1(answer){
+                document.querySelectorAll(".buttonAnswer").forEach(item => {
+                  item.style.backgroundColor = "#d9edff"
+                })
+
+                if(answer.innerHTML === "1 people per 3 sheep"){
+                    answer.style.backgroundColor = "green"
+                    changeResultText("result1", "green", "Correct!")
+                } else {
+                    answer.style.backgroundColor = "red"
+                    changeResultText("result1", "red", "Incorrect")
+                }
+            }
+
+            function checkAnswer2(){
+                const correctAnswer = "Switzerland"
+                const answerField = document.getElementById("question")
+
+                if(answerField.value.toLowerCase() === correctAnswer.toLowerCase()){
+                    answerField.style.backgroundColor = "green"
+                   changeResultText("result2", "green", "Correct!")
+                } else {
+                    answerField.style.backgroundColor = "red"
+                    changeResultText("result2", "red", "Incorrect")
+                }
+            }
+        </script>
+
+    </head>
+    <body>
+
+        <div class="jumbotron">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>What is the approximate ratio of people to sheep in New Zeland?</h3>
+                <p id="result1"></p>
+                <!-- TODO: Add multiple choice question here -->
+                <button class="buttonAnswer" onclick="checkAnswer1(this)">6 people per 1 sheep</button>
+                <button class="buttonAnswer" onclick="checkAnswer1(this)">3 people per 1 sheep</button>
+                <button class="buttonAnswer" onclick="checkAnswer1(this)">1 people per 1 sheep</button>
+                <button class="buttonAnswer" onclick="checkAnswer1(this)">1 people per 3 sheep</button>
+                <button class="buttonAnswer" onclick="checkAnswer1(this)">1 people per 6 sheep</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>In which country is it illegal to own only one guinea pig, as a lone guinea pig might get lonely?</h3>
+                <p id="result2"></p>
+                <!-- TODO: Add free response question here -->
+                <form onsubmit="checkAnswer2(); return false;">
+                    <input type="text" name="question" id="question">
+                    <button type="submit">Check Answer</button>
+                </form>
+            </div>
+
+        </div>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "name": "Cryfo",
+  "description": "Keep an eye on your favorite cryptocurrencies!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/cryfo16.png",
+      "32": "/images/cryfo32.png",
+      "48": "/images/cryfo48.png",
+      "128": "/images/cryfo128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/cryfo16.png",
+    "32": "/images/cryfo32.png",
+    "48": "/images/cryfo48.png",
+    "128": "/images/cryfo128.png"
+  }
+}

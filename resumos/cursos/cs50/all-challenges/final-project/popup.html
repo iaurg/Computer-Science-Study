@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="global.css">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h2>Tracking</h2>
+      <button id="go-to-options">
+        <svg
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M13 3H21V11H13V3ZM15 5H19V9H15V5Z"
+          fill="currentColor"
+        />
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M17 21V13H11V7H3V21H17ZM9 9H5V13H9V9ZM5 19L5 15H9V19H5ZM11 19V15H15V19H11Z"
+          fill="currentColor"
+        />
+      </svg>
+    </button>
+    </header>
+    <section class="content">
+      <main class="tracked-coins">
+        <table id="coin-table">
+          <thead>
+            <th>USDT Market</th>
+            <th>Price</th>
+            <th>Change (24h)</th>
+          </thead>          
+        </table>
+      </main>
+    </section>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>

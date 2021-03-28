@@ -1,0 +1,43 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    CS50
+{% endblock %}
+
+{% block main %}
+    <table class="table table-striped">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Symbol</th>
+          <th scope="col">Name</th>
+          <th scope="col">Shares</th>
+          <th scope="col">Price</th>
+          <th scope="col">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for stock in userStocks %}
+          <tr>
+            <td>{{stock.stock}}</td>
+            <td>{{stock.name}}</td>
+            <td>{{stock.shares}}</td>
+            <td>{{stock.actualPrice | usd}}</td>
+            <td>{{(stock.actualPrice * stock.shares) | usd}}</td>
+          </tr>
+        {% endfor %}
+        <tr>
+          <td>CASH</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>{{actualCash | usd}}</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+            <td colspan="4"></td>
+            <td>{{(actualCash) | usd}}</td>
+        </tr>
+      </tfoot>
+    </table>
+{% endblock %}

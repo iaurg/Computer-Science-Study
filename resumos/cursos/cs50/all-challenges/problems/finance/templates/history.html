@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    CS50
+{% endblock %}
+
+{% block main %}
+    <table class="table table-striped">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Symbol</th>
+          <th scope="col">Type</th>
+          <th scope="col">Shares</th>
+          <th scope="col">Price</th>
+          <th scope="col">Transacted</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for transaction in transactions %}
+          <tr>
+            <td>{{transaction.stock}}</td>
+            <td>{{transaction.operation}}</td>
+            <td>{{transaction.shares}}</td>
+            <td>{{transaction.price | usd}}</td>
+            <td>{{transaction.datetime}}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+{% endblock %}
