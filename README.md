@@ -37,6 +37,7 @@ Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução
 
 Os cursos e links abaixo eu reuni pesquisando e viso como uma segunda etapa
 
+- [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [MIT 6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [MIT 6.001 Structure and Interpretation of Computer Programs](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090)
 - [Computer Science from Academic Earth](https://academicearth.org/computer-science/)
