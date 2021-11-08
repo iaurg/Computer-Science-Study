@@ -51,6 +51,8 @@ Irei separar os livros em técnicos e livros interessantes para a área de softw
 
 Se eu já lí e fiz um resumo do livro ele estará junto com o título.
 
+[Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
+
 Legenda:
 <br>
 📙 - Lido
