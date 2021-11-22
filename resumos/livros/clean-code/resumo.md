@@ -31,4 +31,36 @@ Um código mal feito tende a ficar cada vez pior, a cada vez que uma nova pessoa
 
 > Código limpo é simples e direto, com um propósito apenas. Focado!
 
+Faça um código que seja simples de ler e se empenhe enquanto escreve, você tende a ler muito mais do que escrever, então se dedique a ter uma escrita de qualidade para facilitar a sua leitura futura.
+
+> Toda vez que passar por um código tente deixá-lo mais limpo, por mais que seja simples
+
 ## Meaningful Names
+
+Crie nomes consisos e que condizam com o que cada valor ou função está tentando expressar. Evite qualquer tipo de abreviação sem sentido ou nomes que não sejam significativos.
+
+Exemplo:
+
+Nomes sem sentido e sem contexto
+
+```c
+static void copyChars(char a1[], char a2[]) {
+  for (int i = 0; i < a1.length; i++)
+  {
+    a2[i] = a1[i];
+  }
+}
+```
+
+Nomes mais claros que indicam o propósito da função
+
+```c
+static void copyChars(char source[], char dest[]) {
+  for (int i = 0; i < source.length; i++)
+  {
+    dest[i] = source[i];
+  }
+}
+```
+
+> A diferença entre um programador esperto e um programador profissional é que o profissional entende que clareza é o rei. Programadores profissionais usam suas poderes para bom e escrevem códigos que outros podem entender.
