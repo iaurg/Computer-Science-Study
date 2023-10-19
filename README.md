@@ -65,7 +65,7 @@ Legenda:
 - Compilers Principles, Techniques, and Tools - 2nd Edition - Alfred V. Aho
 - Modern Operating Systems
 - Concepts, Techniques, and Models of Computer Programming
-- The Mythical Man-Month
+- The Mythical Man-Month 📙 [Resumo](./resumos/livros/the-mythical-man-month/resumo.md)
 - Clean Code - 📖 [Resumindo](./resumos/livros/clean-code/resumo.md)
 - Peopleware: Productive Projects and Teams
 - Structure and Interpretation of Computer Programs
@@ -81,7 +81,7 @@ Legenda:
 - Startup, Jessica Livingston 📙
 - [The twelve-factor methodology to scale a software](https://12factor.net) 📙
 - [Pro Git, Livro Oficial](https://git-scm.com/book/pt-br/v2)
-- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumido](./resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
+- O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software - [Resumo](./resumos/livros/programador-apaixonado/resumo-programador-apaixonado.md) 📙
 
 Um extra para os livros - [Repositório com livros grátis de programação](https://github.com/EbookFoundation/free-programming-books)
 
@@ -103,7 +103,6 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Canal Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - [Canal Erick Wendel](https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A)
 - [Canal eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
-
 
 ## Sites para praticar programação
 
