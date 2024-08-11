@@ -31,7 +31,7 @@ Meu objetivo a longo prazo é me tornar um programador capaz de enfrentar qualqu
 
 ### Base da computação
 
-Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução a computação com conceitos que serão utilizados em muitas linguagens de programação. Eu ainda estou concluindo este curso, as aulas tem em média 1~2 horas com desafios a cada módulo com um ambiente bem legal para você testar os códigos.
+Eu indicaria muito que você começasse pelo CS50 que é uma ótima introdução a computação com conceitos que serão utilizados em muitas linguagens de programação. Eu conclui este curso e de fato ajudou muito, as aulas tem em média 1~2 horas com desafios a cada módulo com um ambiente bem legal para você testar os códigos.
 
 [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - [📝 Anotações](./resumos/cursos/cs50)
 
@@ -102,7 +102,6 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Canal Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
 - [Canal Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - [Canal Erick Wendel](https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A)
-- [Canal eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
 
 ## Sites para praticar programação
 
@@ -131,6 +130,7 @@ Links, sites e artigos que agregam de alguma forma o conhecimento. Seria legal v
 - [Ideias e pesquisas de Stanford](https://ecorner.stanford.edu)
 - [Repositório de pesquisas acadêmicas sobre Ciência da Computação](https://arxiv.org/corr)
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 Interessante:
 
