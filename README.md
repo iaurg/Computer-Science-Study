@@ -100,8 +100,14 @@ Um extra para os livros - [Repositório com livros grátis de programação](htt
 - [Canal Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Canal Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 - [Canal Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ)
-- [Canal Glaucia Lemos](https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ)
 - [Canal Erick Wendel](https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A)
+- [Canal IBM Techonlogie](https://www.youtube.com/@IBMTechnology)
+- [Canal BOG](https://www.youtube.com/@bogxd)
+- [Canal Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Canal javidx9](https://www.youtube.com/@javidx9/videos)
+- [Canal Lex Fridman](https://www.youtube.com/@lexfridman)
+- [Canal MIT OpenCourseWare](https://www.youtube.com/@mitocw/videos)
+- [Canal PwnFunction](https://www.youtube.com/@PwnFunction/videos)
 
 ## Sites para praticar programação
 
